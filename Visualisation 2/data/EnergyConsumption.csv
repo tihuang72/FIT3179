@@ -1,4 +1,4 @@
-Country,Gigajoule per capita
+Country,Energy
 Canada,359.7
 Mexico,65.8
 US,277.3
@@ -7,11 +7,11 @@ Brazil,64.1
 Chile,92.4
 Colombia,43.3
 Ecuador,46.4
-Peru,36.0
+Peru,36
 Trinidad & Tobago,384.3
 Venezuela,87.8
 Central America,29.3
-Other Caribbean,37.0
+Other Caribbean,37
 Other South America,54.7
 Austria,154.6
 Belgium,197.8
@@ -23,23 +23,23 @@ Denmark,119.1
 Estonia,151.1
 Finland,215.6
 France,133.8
-Germany,137.0
+Germany,137
 Greece,106.2
 Hungary,89.7
 Iceland,602.7
 Ireland,128.7
-Italy,101.0
+Italy,101
 Latvia,79.1
 Lithuania,87.8
 Luxembourg,206.4
-Netherlands,195.0
+Netherlands,195
 North Macedonia,57.9
 Norway,363.7
 Poland,100.3
 Portugal,92.6
 Romania,64.1
 Slovakia,115.9
-Slovenia,123.0
+Slovenia,123
 Spain,119.2
 Sweden,202.7
 Switzerland,128.8
@@ -49,7 +49,7 @@ United Kingdom,102.6
 Other Europe,97.3
 Azerbaijan,78.8
 Belarus,112.2
-Kazakhstan,152.0
+Kazakhstan,152
 Russian Federation,216.6
 Turkmenistan,245.8
 Uzbekistan,59.8
@@ -81,9 +81,9 @@ Indonesia,36.4
 Japan,141.2
 Malaysia,140.1
 New Zealand,164.7
-Pakistan,14.0
+Pakistan,14
 Philippines,18.7
-Singapore,577.0
+Singapore,577
 South Korea,240.1
 Sri Lanka,16.3
 Taiwan,189.3
