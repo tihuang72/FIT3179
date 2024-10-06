@@ -1,246 +1,246 @@
-country,Energy
-AF,19.2
-AL,
-DZ,55.7
-AS,
-AD,
-AO,
-AI,
-AQ,
-AG,
-AR,80.2
-AM,
-AW,
-AU,227.7
-AT,154.6
-AZ,78.8
-BS,
-BH,
-BD,10.6
-BB,
-BY,112.2
-BE,197.8
-BZ,
-BJ,
-BM,
-BT,
-BO,
-BA,
-BW,
-BV,
-BR,64.1
-IO,
-VG,
-BN,
-BG,107.3
-BF,
-BI,
-CI,
-KH,
-CM,
-CA,359.7
-CV,
-KY,
-CF,
-TD,
-CL,92.4
-CN,119.8
-CX,
-CC,
-CO,43.3
-KM,
-CD,
-CG,
-CK,
-CR,
-HR,90.9
-CU,
-CY,91.7
-CZ,145.2
-DK,119.1
-DJ,
-DM,
-DO,
-EC,46.4
-EG,34.9
-SV,
-GQ,
-ER,
-EE,151.1
-ET,
-FK,
-FO,
-FJ,
-FI,215.6
-FR,133.8
-GF,
-PF,
-TF,
-GA,
-GM,
-GZ,
-GE,
-DE,137
-GH,
-GI,
-GR,106.2
-GL,
-GD,
-GP,
-GU,
-GT,
-GG,
-GN,
-GW,
-GY,
-HT,
-HM,
-HN,
-HK,
-HU,89.7
-IS,602.7
-IN,27.3
-ID,36.4
-IR,142.6
-IQ,55.2
-IE,128.7
-IM,
-IL,121.4
-IT,101
-JM,
-JP,141.2
-JE,
-JO,
-KZ,152
-KE,
-KI,
-XK,
-KW,365.9
-KG,
-LA,
-LV,79.1
-LB,
-LS,
-LR,
-LY,
-LI,
-LT,87.8
-LU,206.4
-MO,
-MK,57.9
-MG,
-MW,
-MY,140.1
-MV,
-ML,
-MT,
-MH,
-MQ,
-MR,
-MU,
-YT,
-MX,65.8
-FM,
-MD,
-MC,
-MN,
-ME,
-MS,
-MA,25.8
-MZ,
-MM,
-NA,
-NR,
-NP,
-NL,195
-AN,
-NC,
-NZ,164.7
-NI,
-NE,
-NG,
-NU,
-NF,
-KP,
-MP,
-NO,363.7
-OM,333.4
-PK,14
-PW,
-PS,
-PA,
-PG,
-PY,
-PE,36
-PH,18.7
-PN,
-PL,100.3
-PT,
-PR,
-QA,816.7
-RE,
-RO,64.1
-RU,216.6
-RW,
-ST,
-SH,
-KN,
-LC,
-PM,
-VC,
-WS,
-SM,
-SA,313.9
-SN,
-RS,
-SC,
-SL,
-SG,577
-SK,115.9
-SI,123
-SB,
-SO,
-ZA,80.3
-GS,
-KR,240.1
-ES,119.2
-LK,16.3
-SD,
-SR,
-SJ,
-SZ,
-SE,202.7
-CH,128.8
-SY,
-TW,189.3
-TJ,
-TZ,
-TH,69.7
-TL,
-TG,
-TK,
-TO,
-TT,384.3
-TN,
-TR,81.6
-TM,245.8
-TC,
-TV,
-UM,
-VI,
-UG,
-UA,60.4
-AE,539.4
-GB,102.6
-US,277.3
-UY,
-UZ,59.8
-VU,
-VA,
-VE,87.8
-VN,49.5
-WF,
-EH,
-YE,
-ZM,
-ZW,
+country,Energy,name
+AF,19.2,Afghanistan
+AL,,Albania
+DZ,55.7,Algeria
+AS,,American Samoa
+AD,,Andorra
+AO,,Angola
+AI,,Anguilla
+AQ,,Antarctica
+AG,,Antigua and Barbuda
+AR,80.2,Argentina
+AM,,Armenia
+AW,,Aruba
+AU,227.7,Australia
+AT,154.6,Austria
+AZ,78.8,Azerbaijan
+BS,,Bahamas
+BH,,Bahrain
+BD,10.6,Bangladesh
+BB,,Barbados
+BY,112.2,Belarus
+BE,197.8,Belgium
+BZ,,Belize
+BJ,,Benin
+BM,,Bermuda
+BT,,Bhutan
+BO,,Bolivia
+BA,,Bosnia and Herzegovina
+BW,,Botswana
+BV,,Bouvet Island
+BR,64.1,Brazil
+IO,,British Indian Ocean Territory
+VG,,British Virgin Islands
+BN,,Brunei
+BG,107.3,Bulgaria
+BF,,Burkina Faso
+BI,,Burundi
+CI,,C?te d'Ivoire
+KH,,Cambodia
+CM,,Cameroon
+CA,359.7,Canada
+CV,,Cape Verde
+KY,,Cayman Islands
+CF,,Central African Republic
+TD,,Chad
+CL,92.4,Chile
+CN,119.8,China
+CX,,Christmas Island
+CC,,Cocos [Keeling] Islands
+CO,43.3,Colombia
+KM,,Comoros
+CD,,Congo [DRC]
+CG,,Congo [Republic]
+CK,,Cook Islands
+CR,,Costa Rica
+HR,90.9,Croatia
+CU,,Cuba
+CY,91.7,Cyprus
+CZ,145.2,Czech Republic
+DK,119.1,Denmark
+DJ,,Djibouti
+DM,,Dominica
+DO,,Dominican Republic
+EC,46.4,Ecuador
+EG,34.9,Egypt
+SV,,El Salvador
+GQ,,Equatorial Guinea
+ER,,Eritrea
+EE,151.1,Estonia
+ET,,Ethiopia
+FK,,Falkland Islands [Islas Malvinas]
+FO,,Faroe Islands
+FJ,,Fiji
+FI,215.6,Finland
+FR,133.8,France
+GF,,French Guiana
+PF,,French Polynesia
+TF,,French Southern Territories
+GA,,Gabon
+GM,,Gambia
+GZ,,Gaza Strip
+GE,,Georgia
+DE,137,Germany
+GH,,Ghana
+GI,,Gibraltar
+GR,106.2,Greece
+GL,,Greenland
+GD,,Grenada
+GP,,Guadeloupe
+GU,,Guam
+GT,,Guatemala
+GG,,Guernsey
+GN,,Guinea
+GW,,Guinea-Bissau
+GY,,Guyana
+HT,,Haiti
+HM,,Heard Island and McDonald Islands
+HN,,Honduras
+HK,,Hong Kong
+HU,89.7,Hungary
+IS,602.7,Iceland
+IN,27.3,India
+ID,36.4,Indonesia
+IR,142.6,Iran
+IQ,55.2,Iraq
+IE,128.7,Ireland
+IM,,Isle of Man
+IL,121.4,Israel
+IT,101,Italy
+JM,,Jamaica
+JP,141.2,Japan
+JE,,Jersey
+JO,,Jordan
+KZ,152,Kazakhstan
+KE,,Kenya
+KI,,Kiribati
+XK,,Kosovo
+KW,365.9,Kuwait
+KG,,Kyrgyzstan
+LA,,Laos
+LV,79.1,Latvia
+LB,,Lebanon
+LS,,Lesotho
+LR,,Liberia
+LY,,Libya
+LI,,Liechtenstein
+LT,87.8,Lithuania
+LU,206.4,Luxembourg
+MO,,Macau
+MK,57.9,Macedonia [FYROM]
+MG,,Madagascar
+MW,,Malawi
+MY,140.1,Malaysia
+MV,,Maldives
+ML,,Mali
+MT,,Malta
+MH,,Marshall Islands
+MQ,,Martinique
+MR,,Mauritania
+MU,,Mauritius
+YT,,Mayotte
+MX,65.8,Mexico
+FM,,Micronesia
+MD,,Moldova
+MC,,Monaco
+MN,,Mongolia
+ME,,Montenegro
+MS,,Montserrat
+MA,25.8,Morocco
+MZ,,Mozambique
+MM,,Myanmar [Burma]
+NA,,Namibia
+NR,,Nauru
+NP,,Nepal
+NL,195,Netherlands
+AN,,Netherlands Antilles
+NC,,New Caledonia
+NZ,164.7,New Zealand
+NI,,Nicaragua
+NE,,Niger
+NG,,Nigeria
+NU,,Niue
+NF,,Norfolk Island
+KP,,North Korea
+MP,,Northern Mariana Islands
+NO,363.7,Norway
+OM,333.4,Oman
+PK,14,Pakistan
+PW,,Palau
+PS,,Palestinian Territories
+PA,,Panama
+PG,,Papua New Guinea
+PY,,Paraguay
+PE,36,Peru
+PH,18.7,Philippines
+PN,,Pitcairn Islands
+PL,100.3,Poland
+PT,,Portugal
+PR,,Puerto Rico
+QA,816.7,Qatar
+RE,,R??union
+RO,64.1,Romania
+RU,216.6,Russia
+RW,,Rwanda
+ST,,S?o Tom?? and Pr??ncipe
+SH,,Saint Helena
+KN,,Saint Kitts and Nevis
+LC,,Saint Lucia
+PM,,Saint Pierre and Miquelon
+VC,,Saint Vincent and the Grenadines
+WS,,Samoa
+SM,,San Marino
+SA,313.9,Saudi Arabia
+SN,,Senegal
+RS,,Serbia
+SC,,Seychelles
+SL,,Sierra Leone
+SG,577,Singapore
+SK,115.9,Slovakia
+SI,123,Slovenia
+SB,,Solomon Islands
+SO,,Somalia
+ZA,80.3,South Africa
+GS,,South Georgia and the South Sandwich Islands
+KR,240.1,South Korea
+ES,119.2,Spain
+LK,16.3,Sri Lanka
+SD,,Sudan
+SR,,Suriname
+SJ,,Svalbard and Jan Mayen
+SZ,,Swaziland
+SE,202.7,Sweden
+CH,128.8,Switzerland
+SY,,Syria
+TW,189.3,Taiwan
+TJ,,Tajikistan
+TZ,,Tanzania
+TH,69.7,Thailand
+TL,,Timor-Leste
+TG,,Togo
+TK,,Tokelau
+TO,,Tonga
+TT,384.3,Trinidad and Tobago
+TN,,Tunisia
+TR,81.6,Turkey
+TM,245.8,Turkmenistan
+TC,,Turks and Caicos Islands
+TV,,Tuvalu
+UM,,U.S. Minor Outlying Islands
+VI,,U.S. Virgin Islands
+UG,,Uganda
+UA,60.4,Ukraine
+AE,539.4,United Arab Emirates
+GB,102.6,United Kingdom
+US,277.3,United States of America
+UY,,Uruguay
+UZ,59.8,Uzbekistan
+VU,,Vanuatu
+VA,,Vatican City
+VE,87.8,Venezuela
+VN,49.5,Vietnam
+WF,,Wallis and Futuna
+EH,,Western Sahara
+YE,,Yemen
+ZM,,Zambia
+ZW,,Zimbabwe

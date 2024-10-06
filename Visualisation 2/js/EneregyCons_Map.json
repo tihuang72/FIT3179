@@ -10,12 +10,12 @@
     },
     "transform": [
       {
-        "lookup": "properties.NAME",
+        "lookup": "properties.type",
         "from": {
           "data": {
             "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyConsumption.csv"
           },
-          "key": "Country",
+          "key": "country",
           "fields": ["Energy"]
         }
       }
@@ -24,8 +24,7 @@
     "encoding": {
       "color": {
         "field": "Energy",
-        "type": "quantitative",
-        "scale": {"type": "log"}
+        "type": "quantitative"
       },
       "tooltip": [
         {"field": "properties.NAME", "type": "nominal", "title": "Country"},
