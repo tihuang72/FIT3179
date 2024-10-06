@@ -16,7 +16,7 @@
             "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyConsumption.csv"
           },
           "key": "Country",
-          "fields": ["Energy"]
+          "fields": ["Gigajoule_per_capita"]
         }
       }
     ],
@@ -25,10 +25,10 @@
       "color": {
         "field": "Energy",
         "type": "quantitative",
-        "scale": {"type": "log"}
+        "scale": {"type": "linear"}
       },
       "tooltip": [
-        {"field": "Gigajoule per capita", "type": "nominal", "title": "Country"},
+        {"field": "properties.NAME", "type": "nominal", "title": "Country"},
         {"field": "Active", "type": "quantitative"}
       ]
     }
