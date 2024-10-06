@@ -10,7 +10,7 @@
     },
     "transform": [
       {
-        "lookup": "properties.type",
+        "lookup": "properties.ISO_A2",
         "from": {
           "data": {
             "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyConsumption.csv"
