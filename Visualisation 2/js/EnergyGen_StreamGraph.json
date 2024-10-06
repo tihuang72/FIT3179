@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 300,
-    "height": 200,
+    "width": 400,
+    "height": 300,
     "data": {
         "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyGenProcc.csv"
     },
@@ -48,7 +48,7 @@
             "type": "quantitative",
             "stack": "center",
             "sort": "ascending",
-            "title": "Energy (Gwh)"
+            "title": "Energy (GWh)"
         },
         "color": {
             "field": "Fuel Type",
