@@ -5,30 +5,30 @@
     "height": 400,
     "projection": {"type": "equirectangular"},
     "data": {
-      "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/ne_110m.topojson",
+      "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/AusLocalities.json",
       "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
     },
     "transform": [
       {
-        "lookup": "properties.ISO_A2",
+        "lookup": "properties.LGA_CODE21",
         "from": {
           "data": {
-            "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyConsumption.csv"
+            "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA%2B2016%2Bzones.csv"
           },
-          "key": "country",
-          "fields": ["Energy"]
+          "key": "LGA_NAME_2016",
+          "fields": [" Residential Annual Energy (GWH)"]
         }
       }
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
       "color": {
-        "field": "Energy",
+        "field": " Residential Annual Energy (GWH)",
         "type": "quantitative"
       },
       "tooltip": [
         {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-        {"field": "Energy", "type": "quantitative"}
+        {"field": "Residential Annual Energy (GWH)", "type": "quantitative"}
       ]
     }
   }
