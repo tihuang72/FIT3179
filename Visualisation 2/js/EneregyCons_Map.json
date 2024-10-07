@@ -13,7 +13,7 @@
         "lookup": "properties.LGA_CODE21",
         "from": {
           "data": {
-            "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA%2B2016%2Bzones.csv"
+            "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA2016zones.csv"
           },
           "key": "LGA_CODE_2016",
           "fields": ["Residential Capacity (MW)"]
