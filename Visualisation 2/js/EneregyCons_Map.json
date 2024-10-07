@@ -5,25 +5,25 @@
     "height": 400,
     "projection": {"type": "equirectangular"},
     "data": {
-      "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/AusLocalities.topojson",
+      "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/LGA_2016_AUST.json",
       "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
     },
     "transform": [
       {
-        "lookup": "properties.LGA_CODE21",
+        "lookup": "properties.LGA_NAME16",
         "from": {
           "data": {
             "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA%2B2016%2Bzones.csv"
           },
           "key": "LGA_NAME_2016",
-          "fields": [" Residential Annual Energy (GWH)"]
+          "fields": ["Residential Capacity (MW)"]
         }
       }
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
       "color": {
-        "field": " Residential Annual Energy (GWH)",
+        "field": "Residential Capacity (MW)",
         "type": "quantitative"
       },
       "tooltip": [
