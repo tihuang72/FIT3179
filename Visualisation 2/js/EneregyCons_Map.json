@@ -3,32 +3,60 @@
   "title": "Solar capacity",
   "width": 500,
   "height": 400,
-  "projection": {"type": "equirectangular"},
+  "projection": {
+    "type": "equirectangular"
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
-    "format": {"type": "topojson", "feature": "LGA_2021_AUST_GDA2020"}
+    "format": {
+      "type": "topojson",
+      "feature": "LGA_2021_AUST_GDA2020"
+    }
   },
-  "transform": [
+  "layer": [
     {
-      "lookup": "properties.LGA_CODE21",
-      "from": {
-        "data": {
-          "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA2016zones.csv"
+      "transform": [
+        {
+          "lookup": "properties.LGA_CODE21",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA2016zones.csv"
+            },
+            "key": "LGA_CODE_2016",
+            "fields": [
+              " Residential Annual Energy (GWH)"
+            ]
+          }
+        }
+      ],
+      "mark": {
+        "type": "geoshape"
+      },
+      "encoding": {
+        "color": {
+          "field": " Residential Annual Energy (GWH)",
+          "type": "quantitative"
         },
-        "key": "LGA_CODE_2016",
-        "fields": [" Residential Annual Energy (GWH)"]
+        "tooltip": [
+          {
+            "field": "properties.LGA_NAME21",
+            "type": "nominal",
+            "title": "Local Government Area"
+          },
+          {
+            "field": " Residential Annual Energy (GWH)",
+            "type": "quantitative"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "point"
+      },
+      "data":{
+        "url":
       }
     }
-  ],
-  "mark": {"type": "geoshape"},
-  "encoding": {
-    "color": {
-      "field": " Residential Annual Energy (GWH)",
-      "type": "quantitative"
-    },
-    "tooltip": [
-      {"field": "properties.LGA_NAME21", "type": "nominal", "title": "Local Government Area"},
-      {"field": " Residential Annual Energy (GWH)", "type": "quantitative"}
-    ]
-  }
+  ]
 }
