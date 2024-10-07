@@ -51,11 +51,25 @@
       }
     },
     {
-      "mark": {
-        "type": "point"
-      },
       "data":{
-        "url":
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/solar.csv"
+      },
+      "mark": "point",
+      "encoding":{
+        "latitude": {
+          "field": "Lat",
+          "type": "quantitative"
+        },
+        "longitude": {
+          "field": "Lon",
+          "type": "quantitative"
+        },
+        "tooltip": [{
+          "field": "Station Name",
+          "type": "nominal",
+          "title": "Station Name"
+        }
+      ]
       }
     }
   ]
