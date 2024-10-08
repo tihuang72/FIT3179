@@ -26,8 +26,13 @@
         },
         {
             "name": "Fuel",
-    "select": {"type": "point", "fields": ["Fuel Type"]},
-    "bind": "legend"
+            "select": {
+                "type": "point",
+                "fields": [
+                    "Fuel Type"
+                ]
+            },
+            "bind": "legend"
         }
     ],
     "transform": [
@@ -90,16 +95,20 @@
             }
         },
         "opacity": {
-      "condition": {"param": "Fuel", "value": 1},
-      "value": 0.2
-    },
+            "condition": {
+                "param": "Fuel",
+                "value": 1
+            },
+            "value": 0.2
+        },
         "order": {
             "field": "Type"
         },
         "tooltip": [
             {
                 "timeUnit": "year",
-                "field": "Year"
+                "field": "Year", 
+                "title":"Year"
             },
             {
                 "field": "Energy(GWh)",

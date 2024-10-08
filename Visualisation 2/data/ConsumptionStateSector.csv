@@ -1,9 +1,9 @@
 Jurisdiction,Year,Industry,Unit,Quantity
 AUS,1973,Agriculture,PJ,38.7
-AUS,1973,Commercial and services,PJ,80.0
+AUS,1973,Commercial and services,PJ,80
 AUS,1973,Construction,PJ,25.9
 AUS,1973,Electricity generation,PJ,509.6
-AUS,1973,Manufacturing,PJ,918.0
+AUS,1973,Manufacturing,PJ,918
 AUS,1973,Mining,PJ,59.4
 AUS,1973,Other,PJ,62.4
 AUS,1973,Residential,PJ,231.3
@@ -12,14 +12,14 @@ AUS,1973,Transport,PJ,685.4
 AUS,1973,Water and waste,PJ,4.5
 AUS,1974,Agriculture,PJ,39.4
 AUS,1974,Commercial and services,PJ,82.9
-AUS,1974,Construction,PJ,29.0
+AUS,1974,Construction,PJ,29
 AUS,1974,Electricity generation,PJ,540.4
 AUS,1974,Manufacturing,PJ,927.6
 AUS,1974,Mining,PJ,64.8
 AUS,1974,Other,PJ,58.9
 AUS,1974,Residential,PJ,246.3
 AUS,1974,Total,PJ,2694.8
-AUS,1974,Transport,PJ,701.0
+AUS,1974,Transport,PJ,701
 AUS,1974,Water and waste,PJ,4.4
 AUS,1975,Agriculture,PJ,39.9
 AUS,1975,Commercial and services,PJ,84.8
@@ -30,7 +30,7 @@ AUS,1975,Mining,PJ,67.3
 AUS,1975,Other,PJ,57.9
 AUS,1975,Residential,PJ,246.4
 AUS,1975,Total,PJ,2730.8
-AUS,1975,Transport,PJ,715.0
+AUS,1975,Transport,PJ,715
 AUS,1975,Water and waste,PJ,4.8
 AUS,1976,Agriculture,PJ,41.2
 AUS,1976,Commercial and services,PJ,88.4
@@ -48,12 +48,12 @@ AUS,1977,Commercial and services,PJ,90.2
 AUS,1977,Construction,PJ,35.3
 AUS,1977,Electricity generation,PJ,662.6
 AUS,1977,Manufacturing,PJ,952.9
-AUS,1977,Mining,PJ,73.0
+AUS,1977,Mining,PJ,73
 AUS,1977,Other,PJ,62.2
-AUS,1977,Residential,PJ,261.0
+AUS,1977,Residential,PJ,261
 AUS,1977,Total,PJ,2985.1
 AUS,1977,Transport,PJ,798.7
-AUS,1977,Water and waste,PJ,6.0
+AUS,1977,Water and waste,PJ,6
 AUS,1978,Agriculture,PJ,44.9
 AUS,1978,Commercial and services,PJ,95.2
 AUS,1978,Construction,PJ,37.7
@@ -75,12 +75,12 @@ AUS,1979,Other,PJ,65.8
 AUS,1979,Residential,PJ,261.9
 AUS,1979,Total,PJ,3131.4
 AUS,1979,Transport,PJ,824.6
-AUS,1979,Water and waste,PJ,5.0
+AUS,1979,Water and waste,PJ,5
 AUS,1980,Agriculture,PJ,48.8
 AUS,1980,Commercial and services,PJ,101.3
 AUS,1980,Construction,PJ,37.6
 AUS,1980,Electricity generation,PJ,778.2
-AUS,1980,Manufacturing,PJ,946.0
+AUS,1980,Manufacturing,PJ,946
 AUS,1980,Mining,PJ,71.2
 AUS,1980,Other,PJ,59.9
 AUS,1980,Residential,PJ,262.8
@@ -89,11 +89,11 @@ AUS,1980,Transport,PJ,835.2
 AUS,1980,Water and waste,PJ,5.3
 AUS,1981,Agriculture,PJ,53.4
 AUS,1981,Commercial and services,PJ,104.7
-AUS,1981,Construction,PJ,39.0
+AUS,1981,Construction,PJ,39
 AUS,1981,Electricity generation,PJ,845.3
 AUS,1981,Manufacturing,PJ,939.5
 AUS,1981,Mining,PJ,71.3
-AUS,1981,Other,PJ,63.0
+AUS,1981,Other,PJ,63
 AUS,1981,Residential,PJ,272.8
 AUS,1981,Total,PJ,3237.6
 AUS,1981,Transport,PJ,843.8
@@ -107,7 +107,7 @@ AUS,1982,Mining,PJ,75.1
 AUS,1982,Other,PJ,60.2
 AUS,1982,Residential,PJ,273.2
 AUS,1982,Total,PJ,3122.7
-AUS,1982,Transport,PJ,837.0
+AUS,1982,Transport,PJ,837
 AUS,1982,Water and waste,PJ,5.7
 AUS,1983,Agriculture,PJ,55.7
 AUS,1983,Commercial and services,PJ,105.6
@@ -116,10 +116,10 @@ AUS,1983,Electricity generation,PJ,846.6
 AUS,1983,Manufacturing,PJ,887.8
 AUS,1983,Mining,PJ,83.2
 AUS,1983,Other,PJ,63.8
-AUS,1983,Residential,PJ,276.0
+AUS,1983,Residential,PJ,276
 AUS,1983,Total,PJ,3221.2
 AUS,1983,Transport,PJ,864.1
-AUS,1983,Water and waste,PJ,5.0
+AUS,1983,Water and waste,PJ,5
 AUS,1984,Agriculture,PJ,54.7
 AUS,1984,Commercial and services,PJ,109.9
 AUS,1984,Construction,PJ,31.2
@@ -131,7 +131,7 @@ AUS,1984,Residential,PJ,282.1
 AUS,1984,Total,PJ,3370.7
 AUS,1984,Transport,PJ,892.1
 AUS,1984,Water and waste,PJ,5.2
-AUS,1985,Agriculture,PJ,54.0
+AUS,1985,Agriculture,PJ,54
 AUS,1985,Commercial and services,PJ,116.1
 AUS,1985,Construction,PJ,34.7
 AUS,1985,Electricity generation,PJ,896.2
@@ -146,8 +146,8 @@ AUS,1986,Agriculture,PJ,56.4
 AUS,1986,Commercial and services,PJ,122.9
 AUS,1986,Construction,PJ,34.9
 AUS,1986,Electricity generation,PJ,939.5
-AUS,1986,Manufacturing,PJ,966.0
-AUS,1986,Mining,PJ,105.0
+AUS,1986,Manufacturing,PJ,966
+AUS,1986,Mining,PJ,105
 AUS,1986,Other,PJ,64.6
 AUS,1986,Residential,PJ,298.1
 AUS,1986,Total,PJ,3514.4
@@ -161,14 +161,14 @@ AUS,1987,Manufacturing,PJ,988.3
 AUS,1987,Mining,PJ,116.7
 AUS,1987,Other,PJ,63.9
 AUS,1987,Residential,PJ,296.2
-AUS,1987,Total,PJ,3623.0
-AUS,1987,Transport,PJ,966.0
+AUS,1987,Total,PJ,3623
+AUS,1987,Transport,PJ,966
 AUS,1987,Water and waste,PJ,5.2
 AUS,1988,Agriculture,PJ,58.5
 AUS,1988,Commercial and services,PJ,136.7
 AUS,1988,Construction,PJ,41.5
 AUS,1988,Electricity generation,PJ,1047.6
-AUS,1988,Manufacturing,PJ,1041.0
+AUS,1988,Manufacturing,PJ,1041
 AUS,1988,Mining,PJ,129.3
 AUS,1988,Other,PJ,66.4
 AUS,1988,Residential,PJ,301.5
@@ -177,8 +177,8 @@ AUS,1988,Transport,PJ,1004.9
 AUS,1988,Water and waste,PJ,5.4
 AUS,1989,Agriculture,PJ,55.1
 AUS,1989,Commercial and services,PJ,145.5
-AUS,1989,Construction,PJ,41.0
-AUS,1989,Electricity generation,PJ,1066.0
+AUS,1989,Construction,PJ,41
+AUS,1989,Electricity generation,PJ,1066
 AUS,1989,Manufacturing,PJ,1067.4
 AUS,1989,Mining,PJ,159.9
 AUS,1989,Other,PJ,70.8
@@ -189,21 +189,21 @@ AUS,1989,Water and waste,PJ,5.4
 AUS,1990,Agriculture,PJ,55.8
 AUS,1990,Commercial and services,PJ,151.1
 AUS,1990,Construction,PJ,37.2
-AUS,1990,Electricity generation,PJ,1065.0
+AUS,1990,Electricity generation,PJ,1065
 AUS,1990,Manufacturing,PJ,1073.9
 AUS,1990,Mining,PJ,164.6
 AUS,1990,Other,PJ,65.8
 AUS,1990,Residential,PJ,327.8
 AUS,1990,Total,PJ,3949.9
-AUS,1990,Transport,PJ,1003.0
+AUS,1990,Transport,PJ,1003
 AUS,1990,Water and waste,PJ,5.7
-AUS,1991,Agriculture,PJ,57.0
+AUS,1991,Agriculture,PJ,57
 AUS,1991,Commercial and services,PJ,154.2
 AUS,1991,Construction,PJ,35.9
 AUS,1991,Electricity generation,PJ,1092.9
 AUS,1991,Manufacturing,PJ,1033.9
 AUS,1991,Mining,PJ,176.2
-AUS,1991,Other,PJ,68.0
+AUS,1991,Other,PJ,68
 AUS,1991,Residential,PJ,334.6
 AUS,1991,Total,PJ,3982.7
 AUS,1991,Transport,PJ,1024.3
@@ -223,14 +223,14 @@ AUS,1993,Agriculture,PJ,60.9
 AUS,1993,Commercial and services,PJ,162.3
 AUS,1993,Construction,PJ,33.4
 AUS,1993,Electricity generation,PJ,1109.6
-AUS,1993,Manufacturing,PJ,1109.0
+AUS,1993,Manufacturing,PJ,1109
 AUS,1993,Mining,PJ,194.6
 AUS,1993,Other,PJ,80.7
 AUS,1993,Residential,PJ,344.4
 AUS,1993,Total,PJ,4181.9
-AUS,1993,Transport,PJ,1081.0
-AUS,1993,Water and waste,PJ,6.0
-AUS,1994,Agriculture,PJ,63.0
+AUS,1993,Transport,PJ,1081
+AUS,1993,Water and waste,PJ,6
+AUS,1994,Agriculture,PJ,63
 AUS,1994,Commercial and services,PJ,172.9
 AUS,1994,Construction,PJ,32.3
 AUS,1994,Electricity generation,PJ,1162.6
@@ -254,14 +254,14 @@ AUS,1995,Transport,PJ,1181.5
 AUS,1995,Water and waste,PJ,6.1
 AUS,1996,Agriculture,PJ,65.7
 AUS,1996,Commercial and services,PJ,189.6
-AUS,1996,Construction,PJ,30.0
+AUS,1996,Construction,PJ,30
 AUS,1996,Electricity generation,PJ,1244.1
-AUS,1996,Manufacturing,PJ,1155.0
+AUS,1996,Manufacturing,PJ,1155
 AUS,1996,Mining,PJ,247.9
 AUS,1996,Other,PJ,93.3
 AUS,1996,Residential,PJ,376.3
 AUS,1996,Total,PJ,4611.1
-AUS,1996,Transport,PJ,1203.0
+AUS,1996,Transport,PJ,1203
 AUS,1996,Water and waste,PJ,6.2
 AUS,1997,Agriculture,PJ,67.7
 AUS,1997,Commercial and services,PJ,198.4
@@ -291,9 +291,9 @@ AUS,1999,Construction,PJ,28.6
 AUS,1999,Electricity generation,PJ,1427.4
 AUS,1999,Manufacturing,PJ,1191.9
 AUS,1999,Mining,PJ,272.5
-AUS,1999,Other,PJ,102.0
+AUS,1999,Other,PJ,102
 AUS,1999,Residential,PJ,391.9
-AUS,1999,Total,PJ,4971.0
+AUS,1999,Total,PJ,4971
 AUS,1999,Transport,PJ,1266.6
 AUS,1999,Water and waste,PJ,7.2
 AUS,2000,Agriculture,PJ,85.5
@@ -303,7 +303,7 @@ AUS,2000,Electricity generation,PJ,1507.9
 AUS,2000,Manufacturing,PJ,1188.3
 AUS,2000,Mining,PJ,253.9
 AUS,2000,Other,PJ,77.6
-AUS,2000,Residential,PJ,398.0
+AUS,2000,Residential,PJ,398
 AUS,2000,Total,PJ,5011.8
 AUS,2000,Transport,PJ,1249.1
 AUS,2000,Water and waste,PJ,8.8
@@ -314,10 +314,10 @@ AUS,2001,Electricity generation,PJ,1542.9
 AUS,2001,Manufacturing,PJ,1207.4
 AUS,2001,Mining,PJ,268.8
 AUS,2001,Other,PJ,82.5
-AUS,2001,Residential,PJ,389.0
-AUS,2001,Total,PJ,5097.0
+AUS,2001,Residential,PJ,389
+AUS,2001,Total,PJ,5097
 AUS,2001,Transport,PJ,1261.1
-AUS,2001,Water and waste,PJ,9.0
+AUS,2001,Water and waste,PJ,9
 AUS,2002,Agriculture,PJ,97.744
 AUS,2002,Commercial and services,PJ,250.722
 AUS,2002,Construction,PJ,27.706
@@ -557,13 +557,13 @@ NSW,1973,Manufacturing,PJ,401.2
 NSW,1973,Mining,PJ,5.5
 NSW,1973,Other,PJ,19.3
 NSW,1973,Residential,PJ,70.1
-NSW,1973,Total,PJ,943.0
+NSW,1973,Total,PJ,943
 NSW,1973,Transport,PJ,239.7
 NSW,1973,Water and waste,PJ,2.4
 NSW,1974,Agriculture,PJ,9.3
 NSW,1974,Commercial and services,PJ,29.5
 NSW,1974,Construction,PJ,7.3
-NSW,1974,Electricity generation,PJ,166.0
+NSW,1974,Electricity generation,PJ,166
 NSW,1974,Manufacturing,PJ,403.9
 NSW,1974,Mining,PJ,6.2
 NSW,1974,Other,PJ,18.4
@@ -577,9 +577,9 @@ NSW,1975,Construction,PJ,6.7
 NSW,1975,Electricity generation,PJ,158.3
 NSW,1975,Manufacturing,PJ,379.4
 NSW,1975,Mining,PJ,6.1
-NSW,1975,Other,PJ,17.0
+NSW,1975,Other,PJ,17
 NSW,1975,Residential,PJ,76.1
-NSW,1975,Total,PJ,934.0
+NSW,1975,Total,PJ,934
 NSW,1975,Transport,PJ,248.8
 NSW,1975,Water and waste,PJ,2.5
 NSW,1976,Agriculture,PJ,9.5
@@ -595,7 +595,7 @@ NSW,1976,Transport,PJ,259.8
 NSW,1976,Water and waste,PJ,2.5
 NSW,1977,Agriculture,PJ,10.2
 NSW,1977,Commercial and services,PJ,31.9
-NSW,1977,Construction,PJ,8.0
+NSW,1977,Construction,PJ,8
 NSW,1977,Electricity generation,PJ,213.4
 NSW,1977,Manufacturing,PJ,365.8
 NSW,1977,Mining,PJ,6.6
@@ -605,15 +605,15 @@ NSW,1977,Total,PJ,1011.3
 NSW,1977,Transport,PJ,275.8
 NSW,1977,Water and waste,PJ,2.6
 NSW,1978,Agriculture,PJ,10.2
-NSW,1978,Commercial and services,PJ,34.0
+NSW,1978,Commercial and services,PJ,34
 NSW,1978,Construction,PJ,7.8
 NSW,1978,Electricity generation,PJ,222.5
 NSW,1978,Manufacturing,PJ,359.3
 NSW,1978,Mining,PJ,6.9
 NSW,1978,Other,PJ,18.1
-NSW,1978,Residential,PJ,82.0
+NSW,1978,Residential,PJ,82
 NSW,1978,Total,PJ,1019.3
-NSW,1978,Transport,PJ,276.0
+NSW,1978,Transport,PJ,276
 NSW,1978,Water and waste,PJ,2.5
 NSW,1979,Agriculture,PJ,11.1
 NSW,1979,Commercial and services,PJ,35.2
@@ -623,7 +623,7 @@ NSW,1979,Manufacturing,PJ,363.2
 NSW,1979,Mining,PJ,7.5
 NSW,1979,Other,PJ,19.4
 NSW,1979,Residential,PJ,78.5
-NSW,1979,Total,PJ,1059.0
+NSW,1979,Total,PJ,1059
 NSW,1979,Transport,PJ,283.9
 NSW,1979,Water and waste,PJ,2.3
 NSW,1980,Agriculture,PJ,10.4
@@ -638,13 +638,13 @@ NSW,1980,Total,PJ,1060.4
 NSW,1980,Transport,PJ,289.9
 NSW,1980,Water and waste,PJ,2.3
 NSW,1981,Agriculture,PJ,12.5
-NSW,1981,Commercial and services,PJ,36.0
+NSW,1981,Commercial and services,PJ,36
 NSW,1981,Construction,PJ,4.9
 NSW,1981,Electricity generation,PJ,259.9
 NSW,1981,Manufacturing,PJ,361.5
 NSW,1981,Mining,PJ,8.6
 NSW,1981,Other,PJ,18.5
-NSW,1981,Residential,PJ,81.0
+NSW,1981,Residential,PJ,81
 NSW,1981,Total,PJ,1077.8
 NSW,1981,Transport,PJ,292.8
 NSW,1981,Water and waste,PJ,2.1
@@ -652,13 +652,13 @@ NSW,1982,Agriculture,PJ,8.3
 NSW,1982,Commercial and services,PJ,34.8
 NSW,1982,Construction,PJ,3.5
 NSW,1982,Electricity generation,PJ,266.6
-NSW,1982,Manufacturing,PJ,299.0
+NSW,1982,Manufacturing,PJ,299
 NSW,1982,Mining,PJ,8.9
 NSW,1982,Other,PJ,17.2
 NSW,1982,Residential,PJ,80.6
 NSW,1982,Total,PJ,1002.5
 NSW,1982,Transport,PJ,281.6
-NSW,1982,Water and waste,PJ,2.0
+NSW,1982,Water and waste,PJ,2
 NSW,1983,Agriculture,PJ,10.9
 NSW,1983,Commercial and services,PJ,35.4
 NSW,1983,Construction,PJ,3.4
@@ -669,17 +669,17 @@ NSW,1983,Other,PJ,19.4
 NSW,1983,Residential,PJ,81.9
 NSW,1983,Total,PJ,1045.6
 NSW,1983,Transport,PJ,297.3
-NSW,1983,Water and waste,PJ,2.0
+NSW,1983,Water and waste,PJ,2
 NSW,1984,Agriculture,PJ,10.4
 NSW,1984,Commercial and services,PJ,36.5
-NSW,1984,Construction,PJ,5.0
+NSW,1984,Construction,PJ,5
 NSW,1984,Electricity generation,PJ,288.8
 NSW,1984,Manufacturing,PJ,324.1
 NSW,1984,Mining,PJ,8.6
 NSW,1984,Other,PJ,18.9
 NSW,1984,Residential,PJ,84.1
 NSW,1984,Total,PJ,1080.3
-NSW,1984,Transport,PJ,302.0
+NSW,1984,Transport,PJ,302
 NSW,1984,Water and waste,PJ,1.9
 NSW,1985,Agriculture,PJ,10.6
 NSW,1985,Commercial and services,PJ,38.9
@@ -690,7 +690,7 @@ NSW,1985,Mining,PJ,9.7
 NSW,1985,Other,PJ,19.8
 NSW,1985,Residential,PJ,88.2
 NSW,1985,Total,PJ,1108.7
-NSW,1985,Transport,PJ,305.0
+NSW,1985,Transport,PJ,305
 NSW,1985,Water and waste,PJ,2.2
 NSW,1986,Agriculture,PJ,10.1
 NSW,1986,Commercial and services,PJ,40.8
@@ -698,7 +698,7 @@ NSW,1986,Construction,PJ,6.7
 NSW,1986,Electricity generation,PJ,311.5
 NSW,1986,Manufacturing,PJ,338.1
 NSW,1986,Mining,PJ,10.3
-NSW,1986,Other,PJ,21.0
+NSW,1986,Other,PJ,21
 NSW,1986,Residential,PJ,90.4
 NSW,1986,Total,PJ,1137.1
 NSW,1986,Transport,PJ,306.1
@@ -730,8 +730,8 @@ NSW,1989,Commercial and services,PJ,47.9
 NSW,1989,Construction,PJ,7.3
 NSW,1989,Electricity generation,PJ,333.5
 NSW,1989,Manufacturing,PJ,362.5
-NSW,1989,Mining,PJ,13.0
-NSW,1989,Other,PJ,24.0
+NSW,1989,Mining,PJ,13
+NSW,1989,Other,PJ,24
 NSW,1989,Residential,PJ,97.8
 NSW,1989,Total,PJ,1230.4
 NSW,1989,Transport,PJ,332.3
@@ -742,7 +742,7 @@ NSW,1990,Construction,PJ,7.1
 NSW,1990,Electricity generation,PJ,325.3
 NSW,1990,Manufacturing,PJ,361.7
 NSW,1990,Mining,PJ,13.1
-NSW,1990,Other,PJ,23.0
+NSW,1990,Other,PJ,23
 NSW,1990,Residential,PJ,100.7
 NSW,1990,Total,PJ,1228.6
 NSW,1990,Transport,PJ,334.5
@@ -756,7 +756,7 @@ NSW,1991,Mining,PJ,13.4
 NSW,1991,Other,PJ,22.9
 NSW,1991,Residential,PJ,102.3
 NSW,1991,Total,PJ,1219.4
-NSW,1991,Transport,PJ,342.0
+NSW,1991,Transport,PJ,342
 NSW,1991,Water and waste,PJ,2.2
 NSW,1992,Agriculture,PJ,11.7
 NSW,1992,Commercial and services,PJ,51.4
@@ -773,8 +773,8 @@ NSW,1993,Agriculture,PJ,11.9
 NSW,1993,Commercial and services,PJ,51.6
 NSW,1993,Construction,PJ,6.4
 NSW,1993,Electricity generation,PJ,346.3
-NSW,1993,Manufacturing,PJ,356.0
-NSW,1993,Mining,PJ,14.0
+NSW,1993,Manufacturing,PJ,356
+NSW,1993,Mining,PJ,14
 NSW,1993,Other,PJ,24.9
 NSW,1993,Residential,PJ,106.4
 NSW,1993,Total,PJ,1276.7
@@ -783,7 +783,7 @@ NSW,1993,Water and waste,PJ,2.2
 NSW,1994,Agriculture,PJ,12.4
 NSW,1994,Commercial and services,PJ,54.2
 NSW,1994,Construction,PJ,6.2
-NSW,1994,Electricity generation,PJ,354.0
+NSW,1994,Electricity generation,PJ,354
 NSW,1994,Manufacturing,PJ,361.9
 NSW,1994,Mining,PJ,14.4
 NSW,1994,Other,PJ,22.8
@@ -793,7 +793,7 @@ NSW,1994,Transport,PJ,377.1
 NSW,1994,Water and waste,PJ,2.3
 NSW,1995,Agriculture,PJ,12.8
 NSW,1995,Commercial and services,PJ,59.3
-NSW,1995,Construction,PJ,6.0
+NSW,1995,Construction,PJ,6
 NSW,1995,Electricity generation,PJ,371.3
 NSW,1995,Manufacturing,PJ,353.9
 NSW,1995,Mining,PJ,15.7
@@ -811,9 +811,9 @@ NSW,1996,Mining,PJ,16.7
 NSW,1996,Other,PJ,27.1
 NSW,1996,Residential,PJ,115.3
 NSW,1996,Total,PJ,1380.6
-NSW,1996,Transport,PJ,397.0
+NSW,1996,Transport,PJ,397
 NSW,1996,Water and waste,PJ,2.4
-NSW,1997,Agriculture,PJ,14.0
+NSW,1997,Agriculture,PJ,14
 NSW,1997,Commercial and services,PJ,64.6
 NSW,1997,Construction,PJ,5.6
 NSW,1997,Electricity generation,PJ,378.9
@@ -821,7 +821,7 @@ NSW,1997,Manufacturing,PJ,357.3
 NSW,1997,Mining,PJ,17.9
 NSW,1997,Other,PJ,25.4
 NSW,1997,Residential,PJ,116.7
-NSW,1997,Total,PJ,1382.0
+NSW,1997,Total,PJ,1382
 NSW,1997,Transport,PJ,399.2
 NSW,1997,Water and waste,PJ,2.4
 NSW,1998,Agriculture,PJ,13.9
@@ -831,7 +831,7 @@ NSW,1998,Electricity generation,PJ,386.2
 NSW,1998,Manufacturing,PJ,369.4
 NSW,1998,Mining,PJ,18.5
 NSW,1998,Other,PJ,24.2
-NSW,1998,Residential,PJ,119.0
+NSW,1998,Residential,PJ,119
 NSW,1998,Total,PJ,1413.8
 NSW,1998,Transport,PJ,406.6
 NSW,1998,Water and waste,PJ,2.5
@@ -842,11 +842,11 @@ NSW,1999,Electricity generation,PJ,393.3
 NSW,1999,Manufacturing,PJ,353.9
 NSW,1999,Mining,PJ,18.5
 NSW,1999,Other,PJ,25.7
-NSW,1999,Residential,PJ,122.0
+NSW,1999,Residential,PJ,122
 NSW,1999,Total,PJ,1426.3
 NSW,1999,Transport,PJ,421.3
 NSW,1999,Water and waste,PJ,2.6
-NSW,2000,Agriculture,PJ,29.0
+NSW,2000,Agriculture,PJ,29
 NSW,2000,Commercial and services,PJ,60.3
 NSW,2000,Construction,PJ,5.1
 NSW,2000,Electricity generation,PJ,426.2
@@ -866,7 +866,7 @@ NSW,2001,Mining,PJ,24.6
 NSW,2001,Other,PJ,20.6
 NSW,2001,Residential,PJ,112.6
 NSW,2001,Total,PJ,1445.7
-NSW,2001,Transport,PJ,401.0
+NSW,2001,Transport,PJ,401
 NSW,2001,Water and waste,PJ,4.2
 NSW,2002,Agriculture,PJ,30.669
 NSW,2002,Commercial and services,PJ,72.489
@@ -1158,7 +1158,7 @@ NT,1978,Agriculture,PJ,0.7
 NT,1978,Commercial and services,PJ,1.5
 NT,1978,Construction,PJ,0.4
 NT,1978,Electricity generation,PJ,5.7
-NT,1978,Manufacturing,PJ,16.0
+NT,1978,Manufacturing,PJ,16
 NT,1978,Mining,PJ,0.7
 NT,1978,Other,PJ,0.4
 NT,1978,Residential,PJ,1.3
@@ -1170,10 +1170,10 @@ NT,1979,Commercial and services,PJ,1.7
 NT,1979,Construction,PJ,0.4
 NT,1979,Electricity generation,PJ,7.3
 NT,1979,Manufacturing,PJ,16.3
-NT,1979,Mining,PJ,1.0
+NT,1979,Mining,PJ,1
 NT,1979,Other,PJ,0.5
 NT,1979,Residential,PJ,1.4
-NT,1979,Total,PJ,40.0
+NT,1979,Total,PJ,40
 NT,1979,Transport,PJ,10.5
 NT,1979,Water and waste,PJ,0.2
 NT,1980,Agriculture,PJ,0.8
@@ -1188,33 +1188,33 @@ NT,1980,Total,PJ,41.3
 NT,1980,Transport,PJ,9.8
 NT,1980,Water and waste,PJ,0.2
 NT,1981,Agriculture,PJ,0.8
-NT,1981,Commercial and services,PJ,2.0
+NT,1981,Commercial and services,PJ,2
 NT,1981,Construction,PJ,0.4
 NT,1981,Electricity generation,PJ,7.7
 NT,1981,Manufacturing,PJ,14.3
-NT,1981,Mining,PJ,1.0
+NT,1981,Mining,PJ,1
 NT,1981,Other,PJ,0.6
 NT,1981,Residential,PJ,1.5
 NT,1981,Total,PJ,38.6
 NT,1981,Transport,PJ,10.1
 NT,1981,Water and waste,PJ,0.2
 NT,1982,Agriculture,PJ,0.8
-NT,1982,Commercial and services,PJ,2.0
+NT,1982,Commercial and services,PJ,2
 NT,1982,Construction,PJ,0.8
-NT,1982,Electricity generation,PJ,8.0
+NT,1982,Electricity generation,PJ,8
 NT,1982,Manufacturing,PJ,15.2
-NT,1982,Mining,PJ,1.0
+NT,1982,Mining,PJ,1
 NT,1982,Other,PJ,0.6
 NT,1982,Residential,PJ,1.5
 NT,1982,Total,PJ,40.8
 NT,1982,Transport,PJ,10.7
 NT,1982,Water and waste,PJ,0.2
 NT,1983,Agriculture,PJ,0.9
-NT,1983,Commercial and services,PJ,2.0
+NT,1983,Commercial and services,PJ,2
 NT,1983,Construction,PJ,0.9
 NT,1983,Electricity generation,PJ,8.5
 NT,1983,Manufacturing,PJ,16.4
-NT,1983,Mining,PJ,1.0
+NT,1983,Mining,PJ,1
 NT,1983,Other,PJ,0.7
 NT,1983,Residential,PJ,1.6
 NT,1983,Total,PJ,43.8
@@ -1223,7 +1223,7 @@ NT,1983,Water and waste,PJ,0.2
 NT,1984,Agriculture,PJ,0.7
 NT,1984,Commercial and services,PJ,2.1
 NT,1984,Construction,PJ,0.9
-NT,1984,Electricity generation,PJ,9.0
+NT,1984,Electricity generation,PJ,9
 NT,1984,Manufacturing,PJ,16.4
 NT,1984,Mining,PJ,1.6
 NT,1984,Other,PJ,0.8
@@ -1239,7 +1239,7 @@ NT,1985,Manufacturing,PJ,15.5
 NT,1985,Mining,PJ,1.5
 NT,1985,Other,PJ,0.8
 NT,1985,Residential,PJ,1.8
-NT,1985,Total,PJ,47.0
+NT,1985,Total,PJ,47
 NT,1985,Transport,PJ,13.2
 NT,1985,Water and waste,PJ,0.2
 NT,1986,Agriculture,PJ,0.7
@@ -1271,8 +1271,8 @@ NT,1988,Electricity generation,PJ,10.4
 NT,1988,Manufacturing,PJ,16.7
 NT,1988,Mining,PJ,2.2
 NT,1988,Other,PJ,0.7
-NT,1988,Residential,PJ,2.0
-NT,1988,Total,PJ,51.0
+NT,1988,Residential,PJ,2
+NT,1988,Total,PJ,51
 NT,1988,Transport,PJ,14.3
 NT,1988,Water and waste,PJ,0.2
 NT,1989,Agriculture,PJ,1.2
@@ -1282,24 +1282,24 @@ NT,1989,Electricity generation,PJ,11.4
 NT,1989,Manufacturing,PJ,16.3
 NT,1989,Mining,PJ,2.6
 NT,1989,Other,PJ,0.6
-NT,1989,Residential,PJ,2.0
+NT,1989,Residential,PJ,2
 NT,1989,Total,PJ,52.5
 NT,1989,Transport,PJ,14.6
 NT,1989,Water and waste,PJ,0.2
-NT,1990,Agriculture,PJ,1.0
+NT,1990,Agriculture,PJ,1
 NT,1990,Commercial and services,PJ,2.8
-NT,1990,Construction,PJ,1.0
+NT,1990,Construction,PJ,1
 NT,1990,Electricity generation,PJ,11.8
 NT,1990,Manufacturing,PJ,17.9
 NT,1990,Mining,PJ,2.6
 NT,1990,Other,PJ,0.6
-NT,1990,Residential,PJ,2.0
-NT,1990,Total,PJ,55.0
+NT,1990,Residential,PJ,2
+NT,1990,Total,PJ,55
 NT,1990,Transport,PJ,15.2
 NT,1990,Water and waste,PJ,0.2
 NT,1991,Agriculture,PJ,0.9
 NT,1991,Commercial and services,PJ,2.8
-NT,1991,Construction,PJ,1.0
+NT,1991,Construction,PJ,1
 NT,1991,Electricity generation,PJ,11.8
 NT,1991,Manufacturing,PJ,18.9
 NT,1991,Mining,PJ,2.3
@@ -1347,12 +1347,12 @@ NT,1995,Construction,PJ,0.8
 NT,1995,Electricity generation,PJ,13.9
 NT,1995,Manufacturing,PJ,19.8
 NT,1995,Mining,PJ,3.2
-NT,1995,Other,PJ,1.0
+NT,1995,Other,PJ,1
 NT,1995,Residential,PJ,2.4
-NT,1995,Total,PJ,67.0
+NT,1995,Total,PJ,67
 NT,1995,Transport,PJ,21.6
 NT,1995,Water and waste,PJ,0.2
-NT,1996,Agriculture,PJ,1.0
+NT,1996,Agriculture,PJ,1
 NT,1996,Commercial and services,PJ,3.4
 NT,1996,Construction,PJ,0.8
 NT,1996,Electricity generation,PJ,14.4
@@ -1372,7 +1372,7 @@ NT,1997,Mining,PJ,4.3
 NT,1997,Other,PJ,0.8
 NT,1997,Residential,PJ,2.6
 NT,1997,Total,PJ,70.4
-NT,1997,Transport,PJ,22.0
+NT,1997,Transport,PJ,22
 NT,1997,Water and waste,PJ,0.2
 NT,1998,Agriculture,PJ,1.3
 NT,1998,Commercial and services,PJ,3.8
@@ -1380,7 +1380,7 @@ NT,1998,Construction,PJ,0.7
 NT,1998,Electricity generation,PJ,16.5
 NT,1998,Manufacturing,PJ,21.4
 NT,1998,Mining,PJ,3.8
-NT,1998,Other,PJ,1.0
+NT,1998,Other,PJ,1
 NT,1998,Residential,PJ,2.4
 NT,1998,Total,PJ,73.2
 NT,1998,Transport,PJ,22.1
@@ -1391,7 +1391,7 @@ NT,1999,Construction,PJ,0.7
 NT,1999,Electricity generation,PJ,18.1
 NT,1999,Manufacturing,PJ,22.2
 NT,1999,Mining,PJ,3.9
-NT,1999,Other,PJ,1.0
+NT,1999,Other,PJ,1
 NT,1999,Residential,PJ,2.7
 NT,1999,Total,PJ,76.4
 NT,1999,Transport,PJ,22.4
@@ -1401,7 +1401,7 @@ NT,2000,Commercial and services,PJ,5.3
 NT,2000,Construction,PJ,0.7
 NT,2000,Electricity generation,PJ,15.6
 NT,2000,Manufacturing,PJ,21.8
-NT,2000,Mining,PJ,3.0
+NT,2000,Mining,PJ,3
 NT,2000,Other,PJ,0.9
 NT,2000,Residential,PJ,2.3
 NT,2000,Total,PJ,73.2
@@ -1416,7 +1416,7 @@ NT,2001,Mining,PJ,3.4
 NT,2001,Other,PJ,0.7
 NT,2001,Residential,PJ,2.3
 NT,2001,Total,PJ,73.4
-NT,2001,Transport,PJ,22.0
+NT,2001,Transport,PJ,22
 NT,2001,Water and waste,PJ,0.2
 NT,2002,Agriculture,PJ,1.266
 NT,2002,Commercial and services,PJ,6.197
@@ -1652,7 +1652,7 @@ NT,2022,Water and waste,PJ,0.115
 QLD,1973,Agriculture,PJ,10.3
 QLD,1973,Commercial and services,PJ,8.6
 QLD,1973,Construction,PJ,6.8
-QLD,1973,Electricity generation,PJ,64.0
+QLD,1973,Electricity generation,PJ,64
 QLD,1973,Manufacturing,PJ,147.7
 QLD,1973,Mining,PJ,8.9
 QLD,1973,Other,PJ,8.1
@@ -1664,9 +1664,9 @@ QLD,1974,Agriculture,PJ,11.3
 QLD,1974,Commercial and services,PJ,9.1
 QLD,1974,Construction,PJ,6.9
 QLD,1974,Electricity generation,PJ,71.6
-QLD,1974,Manufacturing,PJ,156.0
+QLD,1974,Manufacturing,PJ,156
 QLD,1974,Mining,PJ,8.4
-QLD,1974,Other,PJ,8.0
+QLD,1974,Other,PJ,8
 QLD,1974,Residential,PJ,23.3
 QLD,1974,Total,PJ,392.6
 QLD,1974,Transport,PJ,97.8
@@ -1679,10 +1679,10 @@ QLD,1975,Manufacturing,PJ,165.3
 QLD,1975,Mining,PJ,8.7
 QLD,1975,Other,PJ,8.8
 QLD,1975,Residential,PJ,23.3
-QLD,1975,Total,PJ,410.0
+QLD,1975,Total,PJ,410
 QLD,1975,Transport,PJ,103.5
 QLD,1975,Water and waste,PJ,0.2
-QLD,1976,Agriculture,PJ,12.0
+QLD,1976,Agriculture,PJ,12
 QLD,1976,Commercial and services,PJ,9.7
 QLD,1976,Construction,PJ,7.4
 QLD,1976,Electricity generation,PJ,78.7
@@ -1696,7 +1696,7 @@ QLD,1976,Water and waste,PJ,0.2
 QLD,1977,Agriculture,PJ,12.2
 QLD,1977,Commercial and services,PJ,10.3
 QLD,1977,Construction,PJ,8.5
-QLD,1977,Electricity generation,PJ,92.0
+QLD,1977,Electricity generation,PJ,92
 QLD,1977,Manufacturing,PJ,179.9
 QLD,1977,Mining,PJ,9.2
 QLD,1977,Other,PJ,9.2
@@ -1713,7 +1713,7 @@ QLD,1978,Mining,PJ,9.3
 QLD,1978,Other,PJ,9.3
 QLD,1978,Residential,PJ,25.9
 QLD,1978,Total,PJ,463.2
-QLD,1978,Transport,PJ,122.0
+QLD,1978,Transport,PJ,122
 QLD,1978,Water and waste,PJ,0.2
 QLD,1979,Agriculture,PJ,12.7
 QLD,1979,Commercial and services,PJ,11.8
@@ -1729,7 +1729,7 @@ QLD,1979,Water and waste,PJ,0.2
 QLD,1980,Agriculture,PJ,13.6
 QLD,1980,Commercial and services,PJ,12.7
 QLD,1980,Construction,PJ,12.2
-QLD,1980,Electricity generation,PJ,106.0
+QLD,1980,Electricity generation,PJ,106
 QLD,1980,Manufacturing,PJ,182.1
 QLD,1980,Mining,PJ,10.1
 QLD,1980,Other,PJ,8.6
@@ -1744,18 +1744,18 @@ QLD,1981,Electricity generation,PJ,117.3
 QLD,1981,Manufacturing,PJ,186.2
 QLD,1981,Mining,PJ,10.9
 QLD,1981,Other,PJ,9.4
-QLD,1981,Residential,PJ,27.0
+QLD,1981,Residential,PJ,27
 QLD,1981,Total,PJ,537.2
-QLD,1981,Transport,PJ,141.0
+QLD,1981,Transport,PJ,141
 QLD,1981,Water and waste,PJ,0.3
 QLD,1982,Agriculture,PJ,16.2
 QLD,1982,Commercial and services,PJ,13.5
 QLD,1982,Construction,PJ,11.2
 QLD,1982,Electricity generation,PJ,132.5
-QLD,1982,Manufacturing,PJ,179.0
+QLD,1982,Manufacturing,PJ,179
 QLD,1982,Mining,PJ,11.4
 QLD,1982,Other,PJ,8.8
-QLD,1982,Residential,PJ,27.0
+QLD,1982,Residential,PJ,27
 QLD,1982,Total,PJ,541.5
 QLD,1982,Transport,PJ,141.7
 QLD,1982,Water and waste,PJ,0.3
@@ -1764,28 +1764,28 @@ QLD,1983,Commercial and services,PJ,13.3
 QLD,1983,Construction,PJ,10.9
 QLD,1983,Electricity generation,PJ,146.5
 QLD,1983,Manufacturing,PJ,185.9
-QLD,1983,Mining,PJ,12.0
+QLD,1983,Mining,PJ,12
 QLD,1983,Other,PJ,9.7
 QLD,1983,Residential,PJ,27.3
 QLD,1983,Total,PJ,571.6
 QLD,1983,Transport,PJ,148.6
 QLD,1983,Water and waste,PJ,0.3
 QLD,1984,Agriculture,PJ,17.4
-QLD,1984,Commercial and services,PJ,14.0
-QLD,1984,Construction,PJ,9.0
+QLD,1984,Commercial and services,PJ,14
+QLD,1984,Construction,PJ,9
 QLD,1984,Electricity generation,PJ,160.1
 QLD,1984,Manufacturing,PJ,192.9
 QLD,1984,Mining,PJ,12.9
 QLD,1984,Other,PJ,9.9
-QLD,1984,Residential,PJ,28.0
+QLD,1984,Residential,PJ,28
 QLD,1984,Total,PJ,600.3
 QLD,1984,Transport,PJ,155.9
 QLD,1984,Water and waste,PJ,0.3
 QLD,1985,Agriculture,PJ,17.4
 QLD,1985,Commercial and services,PJ,15.5
-QLD,1985,Construction,PJ,10.0
+QLD,1985,Construction,PJ,10
 QLD,1985,Electricity generation,PJ,157.1
-QLD,1985,Manufacturing,PJ,191.0
+QLD,1985,Manufacturing,PJ,191
 QLD,1985,Mining,PJ,14.2
 QLD,1985,Other,PJ,10.2
 QLD,1985,Residential,PJ,28.6
@@ -1800,12 +1800,12 @@ QLD,1986,Manufacturing,PJ,196.8
 QLD,1986,Mining,PJ,15.8
 QLD,1986,Other,PJ,10.3
 QLD,1986,Residential,PJ,29.2
-QLD,1986,Total,PJ,620.0
+QLD,1986,Total,PJ,620
 QLD,1986,Transport,PJ,164.8
 QLD,1986,Water and waste,PJ,0.3
 QLD,1987,Agriculture,PJ,17.8
 QLD,1987,Commercial and services,PJ,18.3
-QLD,1987,Construction,PJ,13.0
+QLD,1987,Construction,PJ,13
 QLD,1987,Electricity generation,PJ,159.2
 QLD,1987,Manufacturing,PJ,202.4
 QLD,1987,Mining,PJ,17.5
@@ -1844,7 +1844,7 @@ QLD,1990,Manufacturing,PJ,213.8
 QLD,1990,Mining,PJ,20.7
 QLD,1990,Other,PJ,12.8
 QLD,1990,Residential,PJ,34.5
-QLD,1990,Total,PJ,702.0
+QLD,1990,Total,PJ,702
 QLD,1990,Transport,PJ,191.7
 QLD,1990,Water and waste,PJ,0.4
 QLD,1991,Agriculture,PJ,17.3
@@ -1855,7 +1855,7 @@ QLD,1991,Manufacturing,PJ,206.1
 QLD,1991,Mining,PJ,22.8
 QLD,1991,Other,PJ,13.8
 QLD,1991,Residential,PJ,35.3
-QLD,1991,Total,PJ,715.0
+QLD,1991,Total,PJ,715
 QLD,1991,Transport,PJ,197.4
 QLD,1991,Water and waste,PJ,0.4
 QLD,1992,Agriculture,PJ,18.1
@@ -1863,7 +1863,7 @@ QLD,1992,Commercial and services,PJ,24.1
 QLD,1992,Construction,PJ,11.8
 QLD,1992,Electricity generation,PJ,199.3
 QLD,1992,Manufacturing,PJ,220.6
-QLD,1992,Mining,PJ,25.0
+QLD,1992,Mining,PJ,25
 QLD,1992,Other,PJ,15.6
 QLD,1992,Residential,PJ,37.2
 QLD,1992,Total,PJ,758.5
@@ -1878,15 +1878,15 @@ QLD,1993,Mining,PJ,26.9
 QLD,1993,Other,PJ,17.8
 QLD,1993,Residential,PJ,38.1
 QLD,1993,Total,PJ,793.2
-QLD,1993,Transport,PJ,218.0
+QLD,1993,Transport,PJ,218
 QLD,1993,Water and waste,PJ,0.4
-QLD,1994,Agriculture,PJ,19.0
+QLD,1994,Agriculture,PJ,19
 QLD,1994,Commercial and services,PJ,27.8
-QLD,1994,Construction,PJ,11.0
+QLD,1994,Construction,PJ,11
 QLD,1994,Electricity generation,PJ,219.2
 QLD,1994,Manufacturing,PJ,245.2
 QLD,1994,Mining,PJ,28.6
-QLD,1994,Other,PJ,20.0
+QLD,1994,Other,PJ,20
 QLD,1994,Residential,PJ,39.3
 QLD,1994,Total,PJ,847.3
 QLD,1994,Transport,PJ,236.8
@@ -1895,7 +1895,7 @@ QLD,1995,Agriculture,PJ,19.3
 QLD,1995,Commercial and services,PJ,30.2
 QLD,1995,Construction,PJ,10.6
 QLD,1995,Electricity generation,PJ,235.8
-QLD,1995,Manufacturing,PJ,255.0
+QLD,1995,Manufacturing,PJ,255
 QLD,1995,Mining,PJ,29.9
 QLD,1995,Other,PJ,19.6
 QLD,1995,Residential,PJ,39.5
@@ -1905,13 +1905,13 @@ QLD,1995,Water and waste,PJ,0.5
 QLD,1996,Agriculture,PJ,19.9
 QLD,1996,Commercial and services,PJ,31.9
 QLD,1996,Construction,PJ,10.3
-QLD,1996,Electricity generation,PJ,241.0
+QLD,1996,Electricity generation,PJ,241
 QLD,1996,Manufacturing,PJ,265.3
 QLD,1996,Mining,PJ,31.6
 QLD,1996,Other,PJ,21.8
 QLD,1996,Residential,PJ,40.8
 QLD,1996,Total,PJ,914.1
-QLD,1996,Transport,PJ,251.0
+QLD,1996,Transport,PJ,251
 QLD,1996,Water and waste,PJ,0.5
 QLD,1997,Agriculture,PJ,20.6
 QLD,1997,Commercial and services,PJ,33.9
@@ -1954,16 +1954,16 @@ QLD,2000,Manufacturing,PJ,267.7
 QLD,2000,Mining,PJ,51.5
 QLD,2000,Other,PJ,16.3
 QLD,2000,Residential,PJ,45.5
-QLD,2000,Total,PJ,1020.0
+QLD,2000,Total,PJ,1020
 QLD,2000,Transport,PJ,257.5
 QLD,2000,Water and waste,PJ,0.5
 QLD,2001,Agriculture,PJ,15.8
 QLD,2001,Commercial and services,PJ,40.6
 QLD,2001,Construction,PJ,9.4
 QLD,2001,Electricity generation,PJ,334.1
-QLD,2001,Manufacturing,PJ,273.0
+QLD,2001,Manufacturing,PJ,273
 QLD,2001,Mining,PJ,56.7
-QLD,2001,Other,PJ,20.0
+QLD,2001,Other,PJ,20
 QLD,2001,Residential,PJ,45.9
 QLD,2001,Total,PJ,1057.8
 QLD,2001,Transport,PJ,261.8
@@ -2208,7 +2208,7 @@ SA,1973,Mining,PJ,3.7
 SA,1973,Other,PJ,7.3
 SA,1973,Residential,PJ,18.6
 SA,1973,Total,PJ,215.4
-SA,1973,Transport,PJ,56.0
+SA,1973,Transport,PJ,56
 SA,1973,Water and waste,PJ,0.6
 SA,1974,Agriculture,PJ,4.1
 SA,1974,Commercial and services,PJ,6.5
@@ -2222,11 +2222,11 @@ SA,1974,Total,PJ,222.8
 SA,1974,Transport,PJ,57.8
 SA,1974,Water and waste,PJ,0.5
 SA,1975,Agriculture,PJ,4.2
-SA,1975,Commercial and services,PJ,7.0
+SA,1975,Commercial and services,PJ,7
 SA,1975,Construction,PJ,2.5
-SA,1975,Electricity generation,PJ,55.0
+SA,1975,Electricity generation,PJ,55
 SA,1975,Manufacturing,PJ,72.4
-SA,1975,Mining,PJ,5.0
+SA,1975,Mining,PJ,5
 SA,1975,Other,PJ,6.2
 SA,1975,Residential,PJ,20.4
 SA,1975,Total,PJ,234.5
@@ -2247,25 +2247,25 @@ SA,1977,Agriculture,PJ,4.4
 SA,1977,Commercial and services,PJ,7.5
 SA,1977,Construction,PJ,1.9
 SA,1977,Electricity generation,PJ,60.4
-SA,1977,Manufacturing,PJ,67.0
+SA,1977,Manufacturing,PJ,67
 SA,1977,Mining,PJ,7.7
 SA,1977,Other,PJ,6.7
 SA,1977,Residential,PJ,21.5
 SA,1977,Total,PJ,247.7
-SA,1977,Transport,PJ,69.0
+SA,1977,Transport,PJ,69
 SA,1977,Water and waste,PJ,1.6
 SA,1978,Agriculture,PJ,4.7
 SA,1978,Commercial and services,PJ,7.9
 SA,1978,Construction,PJ,2.2
-SA,1978,Electricity generation,PJ,60.0
+SA,1978,Electricity generation,PJ,60
 SA,1978,Manufacturing,PJ,74.5
 SA,1978,Mining,PJ,8.3
 SA,1978,Other,PJ,7.3
 SA,1978,Residential,PJ,22.8
 SA,1978,Total,PJ,259.6
-SA,1978,Transport,PJ,71.0
+SA,1978,Transport,PJ,71
 SA,1978,Water and waste,PJ,0.9
-SA,1979,Agriculture,PJ,5.0
+SA,1979,Agriculture,PJ,5
 SA,1979,Commercial and services,PJ,8.1
 SA,1979,Construction,PJ,3.6
 SA,1979,Electricity generation,PJ,60.5
@@ -2276,7 +2276,7 @@ SA,1979,Residential,PJ,21.4
 SA,1979,Total,PJ,264.2
 SA,1979,Transport,PJ,71.4
 SA,1979,Water and waste,PJ,0.8
-SA,1980,Agriculture,PJ,5.0
+SA,1980,Agriculture,PJ,5
 SA,1980,Commercial and services,PJ,8.1
 SA,1980,Construction,PJ,3.1
 SA,1980,Electricity generation,PJ,60.9
@@ -2285,8 +2285,8 @@ SA,1980,Mining,PJ,10.7
 SA,1980,Other,PJ,5.5
 SA,1980,Residential,PJ,21.3
 SA,1980,Total,PJ,255.7
-SA,1980,Transport,PJ,71.0
-SA,1980,Water and waste,PJ,1.0
+SA,1980,Transport,PJ,71
+SA,1980,Water and waste,PJ,1
 SA,1981,Agriculture,PJ,5.4
 SA,1981,Commercial and services,PJ,8.1
 SA,1981,Construction,PJ,4.5
@@ -2295,12 +2295,12 @@ SA,1981,Manufacturing,PJ,67.4
 SA,1981,Mining,PJ,12.3
 SA,1981,Other,PJ,6.1
 SA,1981,Residential,PJ,22.2
-SA,1981,Total,PJ,260.0
+SA,1981,Total,PJ,260
 SA,1981,Transport,PJ,69.1
 SA,1981,Water and waste,PJ,0.7
 SA,1982,Agriculture,PJ,5.1
 SA,1982,Commercial and services,PJ,8.3
-SA,1982,Construction,PJ,4.0
+SA,1982,Construction,PJ,4
 SA,1982,Electricity generation,PJ,62.4
 SA,1982,Manufacturing,PJ,61.6
 SA,1982,Mining,PJ,12.2
@@ -2317,8 +2317,8 @@ SA,1983,Manufacturing,PJ,62.1
 SA,1983,Mining,PJ,16.6
 SA,1983,Other,PJ,6.7
 SA,1983,Residential,PJ,22.5
-SA,1983,Total,PJ,258.0
-SA,1983,Transport,PJ,73.0
+SA,1983,Total,PJ,258
+SA,1983,Transport,PJ,73
 SA,1983,Water and waste,PJ,0.9
 SA,1984,Agriculture,PJ,5.3
 SA,1984,Commercial and services,PJ,8.6
@@ -2373,7 +2373,7 @@ SA,1988,Mining,PJ,26.7
 SA,1988,Other,PJ,6.3
 SA,1988,Residential,PJ,25.5
 SA,1988,Total,PJ,299.3
-SA,1988,Transport,PJ,83.0
+SA,1988,Transport,PJ,83
 SA,1988,Water and waste,PJ,0.7
 SA,1989,Agriculture,PJ,5.7
 SA,1989,Commercial and services,PJ,10.7
@@ -2387,13 +2387,13 @@ SA,1989,Total,PJ,301.9
 SA,1989,Transport,PJ,82.9
 SA,1989,Water and waste,PJ,0.6
 SA,1990,Agriculture,PJ,5.8
-SA,1990,Commercial and services,PJ,11.0
+SA,1990,Commercial and services,PJ,11
 SA,1990,Construction,PJ,2.4
-SA,1990,Electricity generation,PJ,53.0
+SA,1990,Electricity generation,PJ,53
 SA,1990,Manufacturing,PJ,75.3
 SA,1990,Mining,PJ,26.3
 SA,1990,Other,PJ,5.6
-SA,1990,Residential,PJ,27.0
+SA,1990,Residential,PJ,27
 SA,1990,Total,PJ,287.4
 SA,1990,Transport,PJ,80.2
 SA,1990,Water and waste,PJ,0.8
@@ -2419,31 +2419,31 @@ SA,1992,Residential,PJ,28.7
 SA,1992,Total,PJ,300.1
 SA,1992,Transport,PJ,83.4
 SA,1992,Water and waste,PJ,0.4
-SA,1993,Agriculture,PJ,6.0
+SA,1993,Agriculture,PJ,6
 SA,1993,Commercial and services,PJ,12.1
 SA,1993,Construction,PJ,2.1
 SA,1993,Electricity generation,PJ,61.5
 SA,1993,Manufacturing,PJ,78.3
 SA,1993,Mining,PJ,25.4
-SA,1993,Other,PJ,6.0
+SA,1993,Other,PJ,6
 SA,1993,Residential,PJ,27.8
 SA,1993,Total,PJ,304.8
 SA,1993,Transport,PJ,84.7
 SA,1993,Water and waste,PJ,0.8
 SA,1994,Agriculture,PJ,5.7
 SA,1994,Commercial and services,PJ,12.6
-SA,1994,Construction,PJ,2.0
+SA,1994,Construction,PJ,2
 SA,1994,Electricity generation,PJ,57.5
 SA,1994,Manufacturing,PJ,79.8
-SA,1994,Mining,PJ,26.0
+SA,1994,Mining,PJ,26
 SA,1994,Other,PJ,6.4
 SA,1994,Residential,PJ,29.1
 SA,1994,Total,PJ,304.4
 SA,1994,Transport,PJ,84.2
-SA,1994,Water and waste,PJ,1.0
+SA,1994,Water and waste,PJ,1
 SA,1995,Agriculture,PJ,5.5
 SA,1995,Commercial and services,PJ,12.7
-SA,1995,Construction,PJ,2.0
+SA,1995,Construction,PJ,2
 SA,1995,Electricity generation,PJ,49.9
 SA,1995,Manufacturing,PJ,80.8
 SA,1995,Mining,PJ,25.6
@@ -2459,7 +2459,7 @@ SA,1996,Electricity generation,PJ,51.9
 SA,1996,Manufacturing,PJ,79.1
 SA,1996,Mining,PJ,25.9
 SA,1996,Other,PJ,6.2
-SA,1996,Residential,PJ,30.0
+SA,1996,Residential,PJ,30
 SA,1996,Total,PJ,299.7
 SA,1996,Transport,PJ,84.7
 SA,1996,Water and waste,PJ,0.7
@@ -2477,23 +2477,23 @@ SA,1997,Water and waste,PJ,0.8
 SA,1998,Agriculture,PJ,6.6
 SA,1998,Commercial and services,PJ,14.3
 SA,1998,Construction,PJ,1.8
-SA,1998,Electricity generation,PJ,70.0
+SA,1998,Electricity generation,PJ,70
 SA,1998,Manufacturing,PJ,78.3
 SA,1998,Mining,PJ,29.5
 SA,1998,Other,PJ,6.3
 SA,1998,Residential,PJ,30.8
 SA,1998,Total,PJ,327.2
 SA,1998,Transport,PJ,88.6
-SA,1998,Water and waste,PJ,1.0
+SA,1998,Water and waste,PJ,1
 SA,1999,Agriculture,PJ,6.7
 SA,1999,Commercial and services,PJ,14.7
 SA,1999,Construction,PJ,1.7
 SA,1999,Electricity generation,PJ,72.6
 SA,1999,Manufacturing,PJ,73.9
 SA,1999,Mining,PJ,27.9
-SA,1999,Other,PJ,7.0
+SA,1999,Other,PJ,7
 SA,1999,Residential,PJ,31.2
-SA,1999,Total,PJ,328.0
+SA,1999,Total,PJ,328
 SA,1999,Transport,PJ,91.1
 SA,1999,Water and waste,PJ,1.2
 SA,2000,Agriculture,PJ,7.3
@@ -2750,7 +2750,7 @@ SA,2022,Total,PJ,300.001
 SA,2022,Transport,PJ,101.076
 SA,2022,Water and waste,PJ,2.558
 TAS,1973,Agriculture,PJ,0.7
-TAS,1973,Commercial and services,PJ,3.0
+TAS,1973,Commercial and services,PJ,3
 TAS,1973,Construction,PJ,0.7
 TAS,1973,Electricity generation,PJ,2.7
 TAS,1973,Manufacturing,PJ,30.3
@@ -2758,7 +2758,7 @@ TAS,1973,Mining,PJ,4.4
 TAS,1973,Other,PJ,1.1
 TAS,1973,Residential,PJ,10.9
 TAS,1973,Total,PJ,71.9
-TAS,1973,Transport,PJ,18.0
+TAS,1973,Transport,PJ,18
 TAS,1973,Water and waste,PJ,0.1
 TAS,1974,Agriculture,PJ,0.7
 TAS,1974,Commercial and services,PJ,3.1
@@ -2771,7 +2771,7 @@ TAS,1974,Residential,PJ,11.5
 TAS,1974,Total,PJ,71.3
 TAS,1974,Transport,PJ,17.9
 TAS,1974,Water and waste,PJ,0.1
-TAS,1975,Agriculture,PJ,1.0
+TAS,1975,Agriculture,PJ,1
 TAS,1975,Commercial and services,PJ,3.1
 TAS,1975,Construction,PJ,0.8
 TAS,1975,Electricity generation,PJ,3.5
@@ -2790,19 +2790,19 @@ TAS,1976,Manufacturing,PJ,31.3
 TAS,1976,Mining,PJ,4.3
 TAS,1976,Other,PJ,1.2
 TAS,1976,Residential,PJ,12.2
-TAS,1976,Total,PJ,77.0
+TAS,1976,Total,PJ,77
 TAS,1976,Transport,PJ,20.1
 TAS,1976,Water and waste,PJ,0.1
 TAS,1977,Agriculture,PJ,1.2
 TAS,1977,Commercial and services,PJ,3.5
 TAS,1977,Construction,PJ,0.7
 TAS,1977,Electricity generation,PJ,3.2
-TAS,1977,Manufacturing,PJ,32.0
+TAS,1977,Manufacturing,PJ,32
 TAS,1977,Mining,PJ,4.5
 TAS,1977,Other,PJ,1.1
 TAS,1977,Residential,PJ,12.1
 TAS,1977,Total,PJ,78.4
-TAS,1977,Transport,PJ,20.0
+TAS,1977,Transport,PJ,20
 TAS,1977,Water and waste,PJ,0.1
 TAS,1978,Agriculture,PJ,1.2
 TAS,1978,Commercial and services,PJ,3.6
@@ -2812,14 +2812,14 @@ TAS,1978,Manufacturing,PJ,35.1
 TAS,1978,Mining,PJ,4.4
 TAS,1978,Other,PJ,1.4
 TAS,1978,Residential,PJ,12.1
-TAS,1978,Total,PJ,82.0
+TAS,1978,Total,PJ,82
 TAS,1978,Transport,PJ,20.7
 TAS,1978,Water and waste,PJ,0.1
 TAS,1979,Agriculture,PJ,1.3
 TAS,1979,Commercial and services,PJ,3.7
 TAS,1979,Construction,PJ,1.4
 TAS,1979,Electricity generation,PJ,2.8
-TAS,1979,Manufacturing,PJ,37.0
+TAS,1979,Manufacturing,PJ,37
 TAS,1979,Mining,PJ,4.4
 TAS,1979,Other,PJ,1.2
 TAS,1979,Residential,PJ,11.4
@@ -2829,8 +2829,8 @@ TAS,1979,Water and waste,PJ,0.1
 TAS,1980,Agriculture,PJ,1.4
 TAS,1980,Commercial and services,PJ,3.8
 TAS,1980,Construction,PJ,1.4
-TAS,1980,Electricity generation,PJ,4.0
-TAS,1980,Manufacturing,PJ,35.0
+TAS,1980,Electricity generation,PJ,4
+TAS,1980,Manufacturing,PJ,35
 TAS,1980,Mining,PJ,4.4
 TAS,1980,Other,PJ,1.2
 TAS,1980,Residential,PJ,11.1
@@ -2838,10 +2838,10 @@ TAS,1980,Total,PJ,83.3
 TAS,1980,Transport,PJ,20.9
 TAS,1980,Water and waste,PJ,0.1
 TAS,1981,Agriculture,PJ,1.4
-TAS,1981,Commercial and services,PJ,4.0
+TAS,1981,Commercial and services,PJ,4
 TAS,1981,Construction,PJ,1.2
 TAS,1981,Electricity generation,PJ,5.1
-TAS,1981,Manufacturing,PJ,36.0
+TAS,1981,Manufacturing,PJ,36
 TAS,1981,Mining,PJ,4.1
 TAS,1981,Other,PJ,1.1
 TAS,1981,Residential,PJ,11.4
@@ -2851,8 +2851,8 @@ TAS,1981,Water and waste,PJ,0.1
 TAS,1982,Agriculture,PJ,1.4
 TAS,1982,Commercial and services,PJ,3.9
 TAS,1982,Construction,PJ,1.1
-TAS,1982,Electricity generation,PJ,5.0
-TAS,1982,Manufacturing,PJ,34.0
+TAS,1982,Electricity generation,PJ,5
+TAS,1982,Manufacturing,PJ,34
 TAS,1982,Mining,PJ,4.4
 TAS,1982,Other,PJ,1.2
 TAS,1982,Residential,PJ,11.5
@@ -2864,7 +2864,7 @@ TAS,1983,Commercial and services,PJ,3.9
 TAS,1983,Construction,PJ,1.2
 TAS,1983,Electricity generation,PJ,4.9
 TAS,1983,Manufacturing,PJ,33.7
-TAS,1983,Mining,PJ,4.0
+TAS,1983,Mining,PJ,4
 TAS,1983,Other,PJ,1.3
 TAS,1983,Residential,PJ,11.9
 TAS,1983,Total,PJ,83.3
@@ -2878,7 +2878,7 @@ TAS,1984,Manufacturing,PJ,35.2
 TAS,1984,Mining,PJ,4.2
 TAS,1984,Other,PJ,1.4
 TAS,1984,Residential,PJ,12.4
-TAS,1984,Total,PJ,85.0
+TAS,1984,Total,PJ,85
 TAS,1984,Transport,PJ,21.2
 TAS,1984,Water and waste,PJ,0.1
 TAS,1985,Agriculture,PJ,1.4
@@ -2906,7 +2906,7 @@ TAS,1986,Water and waste,PJ,0.1
 TAS,1987,Agriculture,PJ,1.9
 TAS,1987,Commercial and services,PJ,4.2
 TAS,1987,Construction,PJ,1.2
-TAS,1987,Electricity generation,PJ,3.0
+TAS,1987,Electricity generation,PJ,3
 TAS,1987,Manufacturing,PJ,38.1
 TAS,1987,Mining,PJ,4.3
 TAS,1987,Other,PJ,1.1
@@ -2922,7 +2922,7 @@ TAS,1988,Manufacturing,PJ,39.3
 TAS,1988,Mining,PJ,4.5
 TAS,1988,Other,PJ,0.9
 TAS,1988,Residential,PJ,13.6
-TAS,1988,Total,PJ,92.0
+TAS,1988,Total,PJ,92
 TAS,1988,Transport,PJ,22.8
 TAS,1988,Water and waste,PJ,0.1
 TAS,1989,Agriculture,PJ,1.9
@@ -2934,7 +2934,7 @@ TAS,1989,Mining,PJ,4.5
 TAS,1989,Other,PJ,1.1
 TAS,1989,Residential,PJ,13.6
 TAS,1989,Total,PJ,96.6
-TAS,1989,Transport,PJ,23.0
+TAS,1989,Transport,PJ,23
 TAS,1989,Water and waste,PJ,0.1
 TAS,1990,Agriculture,PJ,2.1
 TAS,1990,Commercial and services,PJ,4.3
@@ -2947,7 +2947,7 @@ TAS,1990,Residential,PJ,13.7
 TAS,1990,Total,PJ,97.6
 TAS,1990,Transport,PJ,22.8
 TAS,1990,Water and waste,PJ,0.1
-TAS,1991,Agriculture,PJ,2.0
+TAS,1991,Agriculture,PJ,2
 TAS,1991,Commercial and services,PJ,4.4
 TAS,1991,Construction,PJ,1.1
 TAS,1991,Electricity generation,PJ,2.9
@@ -2958,11 +2958,11 @@ TAS,1991,Residential,PJ,13.7
 TAS,1991,Total,PJ,89.3
 TAS,1991,Transport,PJ,22.2
 TAS,1991,Water and waste,PJ,0.1
-TAS,1992,Agriculture,PJ,2.0
+TAS,1992,Agriculture,PJ,2
 TAS,1992,Commercial and services,PJ,4.4
 TAS,1992,Construction,PJ,1.1
 TAS,1992,Electricity generation,PJ,2.7
-TAS,1992,Manufacturing,PJ,37.0
+TAS,1992,Manufacturing,PJ,37
 TAS,1992,Mining,PJ,3.7
 TAS,1992,Other,PJ,1.6
 TAS,1992,Residential,PJ,14.1
@@ -2971,23 +2971,23 @@ TAS,1992,Transport,PJ,23.5
 TAS,1992,Water and waste,PJ,0.1
 TAS,1993,Agriculture,PJ,2.2
 TAS,1993,Commercial and services,PJ,4.4
-TAS,1993,Construction,PJ,1.0
+TAS,1993,Construction,PJ,1
 TAS,1993,Electricity generation,PJ,2.7
 TAS,1993,Manufacturing,PJ,38.5
 TAS,1993,Mining,PJ,3.8
 TAS,1993,Other,PJ,1.4
 TAS,1993,Residential,PJ,14.1
-TAS,1993,Total,PJ,92.0
+TAS,1993,Total,PJ,92
 TAS,1993,Transport,PJ,23.8
 TAS,1993,Water and waste,PJ,0.1
 TAS,1994,Agriculture,PJ,2.4
-TAS,1994,Commercial and services,PJ,5.0
-TAS,1994,Construction,PJ,1.0
+TAS,1994,Commercial and services,PJ,5
+TAS,1994,Construction,PJ,1
 TAS,1994,Electricity generation,PJ,2.7
-TAS,1994,Manufacturing,PJ,38.0
+TAS,1994,Manufacturing,PJ,38
 TAS,1994,Mining,PJ,3.6
 TAS,1994,Other,PJ,1.5
-TAS,1994,Residential,PJ,14.0
+TAS,1994,Residential,PJ,14
 TAS,1994,Total,PJ,92.4
 TAS,1994,Transport,PJ,24.1
 TAS,1994,Water and waste,PJ,0.1
@@ -2999,13 +2999,13 @@ TAS,1995,Manufacturing,PJ,37.9
 TAS,1995,Mining,PJ,3.9
 TAS,1995,Other,PJ,1.5
 TAS,1995,Residential,PJ,14.1
-TAS,1995,Total,PJ,93.0
+TAS,1995,Total,PJ,93
 TAS,1995,Transport,PJ,23.8
 TAS,1995,Water and waste,PJ,0.1
 TAS,1996,Agriculture,PJ,2.1
 TAS,1996,Commercial and services,PJ,5.6
 TAS,1996,Construction,PJ,0.9
-TAS,1996,Electricity generation,PJ,3.0
+TAS,1996,Electricity generation,PJ,3
 TAS,1996,Manufacturing,PJ,39.7
 TAS,1996,Mining,PJ,3.7
 TAS,1996,Other,PJ,1.4
@@ -3016,11 +3016,11 @@ TAS,1996,Water and waste,PJ,0.1
 TAS,1997,Agriculture,PJ,2.3
 TAS,1997,Commercial and services,PJ,5.7
 TAS,1997,Construction,PJ,0.9
-TAS,1997,Electricity generation,PJ,3.0
+TAS,1997,Electricity generation,PJ,3
 TAS,1997,Manufacturing,PJ,40.3
-TAS,1997,Mining,PJ,4.0
+TAS,1997,Mining,PJ,4
 TAS,1997,Other,PJ,1.4
-TAS,1997,Residential,PJ,14.0
+TAS,1997,Residential,PJ,14
 TAS,1997,Total,PJ,95.8
 TAS,1997,Transport,PJ,24.1
 TAS,1997,Water and waste,PJ,0.1
@@ -3033,7 +3033,7 @@ TAS,1998,Mining,PJ,4.1
 TAS,1998,Other,PJ,1.4
 TAS,1998,Residential,PJ,13.7
 TAS,1998,Total,PJ,95.7
-TAS,1998,Transport,PJ,24.0
+TAS,1998,Transport,PJ,24
 TAS,1998,Water and waste,PJ,0.1
 TAS,1999,Agriculture,PJ,2.4
 TAS,1999,Commercial and services,PJ,5.9
@@ -3055,7 +3055,7 @@ TAS,2000,Mining,PJ,5.7
 TAS,2000,Other,PJ,1.7
 TAS,2000,Residential,PJ,13.7
 TAS,2000,Total,PJ,93.6
-TAS,2000,Transport,PJ,23.0
+TAS,2000,Transport,PJ,23
 TAS,2000,Water and waste,PJ,0.1
 TAS,2001,Agriculture,PJ,2.7
 TAS,2001,Commercial and services,PJ,6.5
@@ -3066,7 +3066,7 @@ TAS,2001,Mining,PJ,4.7
 TAS,2001,Other,PJ,1.6
 TAS,2001,Residential,PJ,15.8
 TAS,2001,Total,PJ,97.2
-TAS,2001,Transport,PJ,24.0
+TAS,2001,Transport,PJ,24
 TAS,2001,Water and waste,PJ,0.1
 TAS,2002,Agriculture,PJ,3.611
 TAS,2002,Commercial and services,PJ,7.53
@@ -3301,14 +3301,14 @@ TAS,2022,Transport,PJ,25.411
 TAS,2022,Water and waste,PJ,0.41
 VIC,1973,Agriculture,PJ,8.5
 VIC,1973,Commercial and services,PJ,25.7
-VIC,1973,Construction,PJ,6.0
+VIC,1973,Construction,PJ,6
 VIC,1973,Electricity generation,PJ,193.4
 VIC,1973,Manufacturing,PJ,170.6
 VIC,1973,Mining,PJ,14.9
 VIC,1973,Other,PJ,20.4
 VIC,1973,Residential,PJ,89.6
 VIC,1973,Total,PJ,710.9
-VIC,1973,Transport,PJ,181.0
+VIC,1973,Transport,PJ,181
 VIC,1973,Water and waste,PJ,0.8
 VIC,1974,Agriculture,PJ,8.8
 VIC,1974,Commercial and services,PJ,27.1
@@ -3318,8 +3318,8 @@ VIC,1974,Manufacturing,PJ,167.2
 VIC,1974,Mining,PJ,19.1
 VIC,1974,Other,PJ,19.6
 VIC,1974,Residential,PJ,97.1
-VIC,1974,Total,PJ,731.0
-VIC,1974,Transport,PJ,184.0
+VIC,1974,Total,PJ,731
+VIC,1974,Transport,PJ,184
 VIC,1974,Water and waste,PJ,0.9
 VIC,1975,Agriculture,PJ,8.7
 VIC,1975,Commercial and services,PJ,27.7
@@ -3328,10 +3328,10 @@ VIC,1975,Electricity generation,PJ,215.8
 VIC,1975,Manufacturing,PJ,166.1
 VIC,1975,Mining,PJ,21.2
 VIC,1975,Other,PJ,19.1
-VIC,1975,Residential,PJ,95.0
+VIC,1975,Residential,PJ,95
 VIC,1975,Total,PJ,752.8
 VIC,1975,Transport,PJ,189.1
-VIC,1975,Water and waste,PJ,1.0
+VIC,1975,Water and waste,PJ,1
 VIC,1976,Agriculture,PJ,8.9
 VIC,1976,Commercial and services,PJ,28.5
 VIC,1976,Construction,PJ,12.8
@@ -3342,8 +3342,8 @@ VIC,1976,Other,PJ,19.7
 VIC,1976,Residential,PJ,102.1
 VIC,1976,Total,PJ,802.1
 VIC,1976,Transport,PJ,198.1
-VIC,1976,Water and waste,PJ,1.0
-VIC,1977,Agriculture,PJ,9.0
+VIC,1976,Water and waste,PJ,1
+VIC,1977,Agriculture,PJ,9
 VIC,1977,Commercial and services,PJ,28.1
 VIC,1977,Construction,PJ,12.2
 VIC,1977,Electricity generation,PJ,234.6
@@ -3367,7 +3367,7 @@ VIC,1978,Transport,PJ,214.5
 VIC,1978,Water and waste,PJ,1.1
 VIC,1979,Agriculture,PJ,9.7
 VIC,1979,Commercial and services,PJ,30.4
-VIC,1979,Construction,PJ,9.0
+VIC,1979,Construction,PJ,9
 VIC,1979,Electricity generation,PJ,267.7
 VIC,1979,Manufacturing,PJ,190.5
 VIC,1979,Mining,PJ,22.7
@@ -3398,19 +3398,19 @@ VIC,1981,Residential,PJ,108.4
 VIC,1981,Total,PJ,939.4
 VIC,1981,Transport,PJ,217.5
 VIC,1981,Water and waste,PJ,1.3
-VIC,1982,Agriculture,PJ,10.0
+VIC,1982,Agriculture,PJ,10
 VIC,1982,Commercial and services,PJ,32.9
-VIC,1982,Construction,PJ,8.0
+VIC,1982,Construction,PJ,8
 VIC,1982,Electricity generation,PJ,295.1
 VIC,1982,Manufacturing,PJ,180.2
 VIC,1982,Mining,PJ,23.8
-VIC,1982,Other,PJ,22.0
+VIC,1982,Other,PJ,22
 VIC,1982,Residential,PJ,109.2
 VIC,1982,Total,PJ,896.5
-VIC,1982,Transport,PJ,214.0
+VIC,1982,Transport,PJ,214
 VIC,1982,Water and waste,PJ,1.3
-VIC,1983,Agriculture,PJ,11.0
-VIC,1983,Commercial and services,PJ,34.0
+VIC,1983,Agriculture,PJ,11
+VIC,1983,Commercial and services,PJ,34
 VIC,1983,Construction,PJ,7.9
 VIC,1983,Electricity generation,PJ,288.8
 VIC,1983,Manufacturing,PJ,185.5
@@ -3440,7 +3440,7 @@ VIC,1985,Mining,PJ,21.9
 VIC,1985,Other,PJ,20.1
 VIC,1985,Residential,PJ,110.8
 VIC,1985,Total,PJ,926.4
-VIC,1985,Transport,PJ,228.0
+VIC,1985,Transport,PJ,228
 VIC,1985,Water and waste,PJ,1.4
 VIC,1986,Agriculture,PJ,10.2
 VIC,1986,Commercial and services,PJ,38.6
@@ -3513,16 +3513,16 @@ VIC,1992,Commercial and services,PJ,48.6
 VIC,1992,Construction,PJ,7.4
 VIC,1992,Electricity generation,PJ,382.9
 VIC,1992,Manufacturing,PJ,221.5
-VIC,1992,Mining,PJ,26.0
+VIC,1992,Mining,PJ,26
 VIC,1992,Other,PJ,18.6
 VIC,1992,Residential,PJ,131.3
 VIC,1992,Total,PJ,1104.7
-VIC,1992,Transport,PJ,256.0
+VIC,1992,Transport,PJ,256
 VIC,1992,Water and waste,PJ,1.7
 VIC,1993,Agriculture,PJ,10.9
 VIC,1993,Commercial and services,PJ,49.2
 VIC,1993,Construction,PJ,7.1
-VIC,1993,Electricity generation,PJ,377.0
+VIC,1993,Electricity generation,PJ,377
 VIC,1993,Manufacturing,PJ,227.2
 VIC,1993,Mining,PJ,22.8
 VIC,1993,Other,PJ,21.2
@@ -3533,9 +3533,9 @@ VIC,1993,Water and waste,PJ,1.7
 VIC,1994,Agriculture,PJ,11.3
 VIC,1994,Commercial and services,PJ,52.7
 VIC,1994,Construction,PJ,6.8
-VIC,1994,Electricity generation,PJ,400.0
+VIC,1994,Electricity generation,PJ,400
 VIC,1994,Manufacturing,PJ,230.1
-VIC,1994,Mining,PJ,24.0
+VIC,1994,Mining,PJ,24
 VIC,1994,Other,PJ,22.9
 VIC,1994,Residential,PJ,135.2
 VIC,1994,Total,PJ,1152.2
@@ -3545,7 +3545,7 @@ VIC,1995,Agriculture,PJ,10.8
 VIC,1995,Commercial and services,PJ,54.8
 VIC,1995,Construction,PJ,6.6
 VIC,1995,Electricity generation,PJ,415.7
-VIC,1995,Manufacturing,PJ,228.0
+VIC,1995,Manufacturing,PJ,228
 VIC,1995,Mining,PJ,27.6
 VIC,1995,Other,PJ,23.5
 VIC,1995,Residential,PJ,141.8
@@ -3563,7 +3563,7 @@ VIC,1996,Residential,PJ,143.2
 VIC,1996,Total,PJ,1202.7
 VIC,1996,Transport,PJ,278.4
 VIC,1996,Water and waste,PJ,1.8
-VIC,1997,Agriculture,PJ,12.0
+VIC,1997,Agriculture,PJ,12
 VIC,1997,Commercial and services,PJ,57.7
 VIC,1997,Construction,PJ,7.5
 VIC,1997,Electricity generation,PJ,485.8
@@ -3591,11 +3591,11 @@ VIC,1999,Construction,PJ,7.3
 VIC,1999,Electricity generation,PJ,525.4
 VIC,1999,Manufacturing,PJ,241.6
 VIC,1999,Mining,PJ,26.2
-VIC,1999,Other,PJ,26.0
+VIC,1999,Other,PJ,26
 VIC,1999,Residential,PJ,145.3
 VIC,1999,Total,PJ,1346.3
-VIC,1999,Transport,PJ,300.0
-VIC,1999,Water and waste,PJ,2.0
+VIC,1999,Transport,PJ,300
+VIC,1999,Water and waste,PJ,2
 VIC,2000,Agriculture,PJ,16.9
 VIC,2000,Commercial and services,PJ,66.2
 VIC,2000,Construction,PJ,7.3
@@ -3606,8 +3606,8 @@ VIC,2000,Other,PJ,20.9
 VIC,2000,Residential,PJ,147.7
 VIC,2000,Total,PJ,1337.2
 VIC,2000,Transport,PJ,296.2
-VIC,2000,Water and waste,PJ,2.0
-VIC,2001,Agriculture,PJ,17.0
+VIC,2000,Water and waste,PJ,2
+VIC,2001,Agriculture,PJ,17
 VIC,2001,Commercial and services,PJ,67.5
 VIC,2001,Construction,PJ,7.3
 VIC,2001,Electricity generation,PJ,541.5
@@ -3858,13 +3858,13 @@ WA,1973,Mining,PJ,21.5
 WA,1973,Other,PJ,5.4
 WA,1973,Residential,PJ,18.5
 WA,1973,Total,PJ,272.6
-WA,1973,Transport,PJ,89.0
+WA,1973,Transport,PJ,89
 WA,1973,Water and waste,PJ,0.3
 WA,1974,Agriculture,PJ,4.6
 WA,1974,Commercial and services,PJ,6.3
-WA,1974,Construction,PJ,4.0
+WA,1974,Construction,PJ,4
 WA,1974,Electricity generation,PJ,45.1
-WA,1974,Manufacturing,PJ,86.0
+WA,1974,Manufacturing,PJ,86
 WA,1974,Mining,PJ,21.3
 WA,1974,Other,PJ,4.7
 WA,1974,Residential,PJ,18.7
@@ -3874,19 +3874,19 @@ WA,1974,Water and waste,PJ,0.2
 WA,1975,Agriculture,PJ,4.8
 WA,1975,Commercial and services,PJ,6.8
 WA,1975,Construction,PJ,3.4
-WA,1975,Electricity generation,PJ,49.0
+WA,1975,Electricity generation,PJ,49
 WA,1975,Manufacturing,PJ,99.7
 WA,1975,Mining,PJ,21.3
 WA,1975,Other,PJ,5.3
-WA,1975,Residential,PJ,19.0
+WA,1975,Residential,PJ,19
 WA,1975,Total,PJ,296.5
-WA,1975,Transport,PJ,87.0
+WA,1975,Transport,PJ,87
 WA,1975,Water and waste,PJ,0.2
 WA,1976,Agriculture,PJ,4.9
 WA,1976,Commercial and services,PJ,7.1
 WA,1976,Construction,PJ,3.7
 WA,1976,Electricity generation,PJ,52.3
-WA,1976,Manufacturing,PJ,107.0
+WA,1976,Manufacturing,PJ,107
 WA,1976,Mining,PJ,23.5
 WA,1976,Other,PJ,5.2
 WA,1976,Residential,PJ,19.6
@@ -3905,14 +3905,14 @@ WA,1977,Total,PJ,328.4
 WA,1977,Transport,PJ,100.7
 WA,1977,Water and waste,PJ,0.3
 WA,1978,Agriculture,PJ,5.9
-WA,1978,Commercial and services,PJ,8.0
+WA,1978,Commercial and services,PJ,8
 WA,1978,Construction,PJ,4.2
 WA,1978,Electricity generation,PJ,54.9
 WA,1978,Manufacturing,PJ,112.1
 WA,1978,Mining,PJ,24.7
 WA,1978,Other,PJ,5.4
 WA,1978,Residential,PJ,20.8
-WA,1978,Total,PJ,336.0
+WA,1978,Total,PJ,336
 WA,1978,Transport,PJ,99.8
 WA,1978,Water and waste,PJ,0.2
 WA,1979,Agriculture,PJ,6.5
@@ -3934,7 +3934,7 @@ WA,1980,Manufacturing,PJ,98.1
 WA,1980,Mining,PJ,16.3
 WA,1980,Other,PJ,5.1
 WA,1980,Residential,PJ,21.4
-WA,1980,Total,PJ,322.0
+WA,1980,Total,PJ,322
 WA,1980,Transport,PJ,99.1
 WA,1980,Water and waste,PJ,0.3
 WA,1981,Agriculture,PJ,7.4
@@ -3960,10 +3960,10 @@ WA,1982,Total,PJ,304.6
 WA,1982,Transport,PJ,97.8
 WA,1982,Water and waste,PJ,0.3
 WA,1983,Agriculture,PJ,8.8
-WA,1983,Commercial and services,PJ,9.0
+WA,1983,Commercial and services,PJ,9
 WA,1983,Construction,PJ,5.7
 WA,1983,Electricity generation,PJ,62.8
-WA,1983,Manufacturing,PJ,93.0
+WA,1983,Manufacturing,PJ,93
 WA,1983,Mining,PJ,13.7
 WA,1983,Other,PJ,5.4
 WA,1983,Residential,PJ,20.9
@@ -3973,15 +3973,15 @@ WA,1983,Water and waste,PJ,0.3
 WA,1984,Agriculture,PJ,8.7
 WA,1984,Commercial and services,PJ,9.7
 WA,1984,Construction,PJ,4.9
-WA,1984,Electricity generation,PJ,65.0
+WA,1984,Electricity generation,PJ,65
 WA,1984,Manufacturing,PJ,108.3
 WA,1984,Mining,PJ,19.6
 WA,1984,Other,PJ,5.8
 WA,1984,Residential,PJ,21.8
 WA,1984,Total,PJ,343.1
-WA,1984,Transport,PJ,99.0
+WA,1984,Transport,PJ,99
 WA,1984,Water and waste,PJ,0.3
-WA,1985,Agriculture,PJ,8.0
+WA,1985,Agriculture,PJ,8
 WA,1985,Commercial and services,PJ,9.8
 WA,1985,Construction,PJ,4.8
 WA,1985,Electricity generation,PJ,67.3
@@ -3993,7 +3993,7 @@ WA,1985,Total,PJ,344.8
 WA,1985,Transport,PJ,99.7
 WA,1985,Water and waste,PJ,0.3
 WA,1986,Agriculture,PJ,9.4
-WA,1986,Commercial and services,PJ,11.0
+WA,1986,Commercial and services,PJ,11
 WA,1986,Construction,PJ,4.6
 WA,1986,Electricity generation,PJ,71.4
 WA,1986,Manufacturing,PJ,108.5
@@ -4033,12 +4033,12 @@ WA,1989,Manufacturing,PJ,135.4
 WA,1989,Mining,PJ,66.9
 WA,1989,Other,PJ,6.6
 WA,1989,Residential,PJ,24.7
-WA,1989,Total,PJ,473.0
+WA,1989,Total,PJ,473
 WA,1989,Transport,PJ,110.6
 WA,1989,Water and waste,PJ,0.4
 WA,1990,Agriculture,PJ,8.8
 WA,1990,Commercial and services,PJ,14.7
-WA,1990,Construction,PJ,5.0
+WA,1990,Construction,PJ,5
 WA,1990,Electricity generation,PJ,102.4
 WA,1990,Manufacturing,PJ,141.1
 WA,1990,Mining,PJ,74.5
@@ -4066,7 +4066,7 @@ WA,1992,Manufacturing,PJ,146.2
 WA,1992,Mining,PJ,93.2
 WA,1992,Other,PJ,8.1
 WA,1992,Residential,PJ,27.3
-WA,1992,Total,PJ,522.0
+WA,1992,Total,PJ,522
 WA,1992,Transport,PJ,113.6
 WA,1992,Water and waste,PJ,0.5
 WA,1993,Agriculture,PJ,10.5
@@ -4092,10 +4092,10 @@ WA,1994,Total,PJ,592.7
 WA,1994,Transport,PJ,130.5
 WA,1994,Water and waste,PJ,0.5
 WA,1995,Agriculture,PJ,11.5
-WA,1995,Commercial and services,PJ,18.0
+WA,1995,Commercial and services,PJ,18
 WA,1995,Construction,PJ,4.2
 WA,1995,Electricity generation,PJ,122.5
-WA,1995,Manufacturing,PJ,160.0
+WA,1995,Manufacturing,PJ,160
 WA,1995,Mining,PJ,131.7
 WA,1995,Other,PJ,11.7
 WA,1995,Residential,PJ,29.6
@@ -4104,14 +4104,14 @@ WA,1995,Transport,PJ,140.5
 WA,1995,Water and waste,PJ,0.6
 WA,1996,Agriculture,PJ,11.7
 WA,1996,Commercial and services,PJ,18.5
-WA,1996,Construction,PJ,4.0
+WA,1996,Construction,PJ,4
 WA,1996,Electricity generation,PJ,127.3
 WA,1996,Manufacturing,PJ,161.4
 WA,1996,Mining,PJ,138.2
 WA,1996,Other,PJ,11.7
 WA,1996,Residential,PJ,30.2
 WA,1996,Total,PJ,649.6
-WA,1996,Transport,PJ,146.0
+WA,1996,Transport,PJ,146
 WA,1996,Water and waste,PJ,0.6
 WA,1997,Agriculture,PJ,11.2
 WA,1997,Commercial and services,PJ,19.3
@@ -4127,7 +4127,7 @@ WA,1997,Water and waste,PJ,0.6
 WA,1998,Agriculture,PJ,11.1
 WA,1998,Commercial and services,PJ,20.6
 WA,1998,Construction,PJ,3.7
-WA,1998,Electricity generation,PJ,126.0
+WA,1998,Electricity generation,PJ,126
 WA,1998,Manufacturing,PJ,173.3
 WA,1998,Mining,PJ,145.8
 WA,1998,Other,PJ,12.2

@@ -3,13 +3,13 @@ Exports,ADO,1973,PJ,24.2
 Exports,ADO,1974,PJ,12.9
 Exports,ADO,1975,PJ,14.9
 Exports,ADO,1976,PJ,10.1
-Exports,ADO,1977,PJ,20.0
+Exports,ADO,1977,PJ,20
 Exports,ADO,1978,PJ,28.2
 Exports,ADO,1979,PJ,24.5
 Exports,ADO,1980,PJ,27.1
 Exports,ADO,1981,PJ,25.7
 Exports,ADO,1982,PJ,30.5
-Exports,ADO,1983,PJ,40.0
+Exports,ADO,1983,PJ,40
 Exports,ADO,1984,PJ,22.2
 Exports,ADO,1985,PJ,22.3
 Exports,ADO,1986,PJ,17.1
@@ -19,7 +19,7 @@ Exports,ADO,1989,PJ,27.1
 Exports,ADO,1990,PJ,31.6
 Exports,ADO,1991,PJ,29.9
 Exports,ADO,1992,PJ,22.6
-Exports,ADO,1993,PJ,29.0
+Exports,ADO,1993,PJ,29
 Exports,ADO,1994,PJ,22.9
 Exports,ADO,1995,PJ,42.8
 Exports,ADO,1996,PJ,50.4
@@ -73,7 +73,7 @@ Exports,Automotive gasoline,1993,PJ,30.5
 Exports,Automotive gasoline,1994,PJ,22.2
 Exports,Automotive gasoline,1995,PJ,38.6
 Exports,Automotive gasoline,1996,PJ,43.6
-Exports,Automotive gasoline,1997,PJ,52.0
+Exports,Automotive gasoline,1997,PJ,52
 Exports,Automotive gasoline,1998,PJ,52.4
 Exports,Automotive gasoline,1999,PJ,46.9
 Exports,Automotive gasoline,2000,PJ,44.1
@@ -119,7 +119,7 @@ Exports,Aviation gasoline,1989,PJ,2.8
 Exports,Aviation gasoline,1990,PJ,2.1
 Exports,Aviation gasoline,1991,PJ,5.2
 Exports,Aviation gasoline,1992,PJ,2.3
-Exports,Aviation gasoline,1993,PJ,2.0
+Exports,Aviation gasoline,1993,PJ,2
 Exports,Aviation gasoline,1994,PJ,1.4
 Exports,Aviation gasoline,1995,PJ,2.3
 Exports,Aviation gasoline,1996,PJ,2.3
@@ -152,8 +152,8 @@ Exports,Aviation gasoline,2022,PJ,0.024
 Exports,Aviation turbine fuel,1973,PJ,13.9
 Exports,Aviation turbine fuel,1974,PJ,13.1
 Exports,Aviation turbine fuel,1975,PJ,10.3
-Exports,Aviation turbine fuel,1976,PJ,10.0
-Exports,Aviation turbine fuel,1977,PJ,12.0
+Exports,Aviation turbine fuel,1976,PJ,10
+Exports,Aviation turbine fuel,1977,PJ,12
 Exports,Aviation turbine fuel,1978,PJ,11.6
 Exports,Aviation turbine fuel,1979,PJ,7.7
 Exports,Aviation turbine fuel,1980,PJ,10.2
@@ -199,33 +199,33 @@ Exports,Aviation turbine fuel,2019,PJ,5.722
 Exports,Aviation turbine fuel,2020,PJ,0.02
 Exports,Aviation turbine fuel,2021,PJ,0.015
 Exports,Aviation turbine fuel,2022,PJ,0.243
-Exports,Bitumen,1973,PJ,0.0
-Exports,Bitumen,1974,PJ,0.0
-Exports,Bitumen,1975,PJ,0.0
-Exports,Bitumen,1976,PJ,0.0
-Exports,Bitumen,1977,PJ,0.0
-Exports,Bitumen,1978,PJ,0.0
-Exports,Bitumen,1979,PJ,0.0
-Exports,Bitumen,1980,PJ,0.0
-Exports,Bitumen,1981,PJ,0.0
-Exports,Bitumen,1982,PJ,0.0
-Exports,Bitumen,1983,PJ,0.0
-Exports,Bitumen,1984,PJ,0.0
-Exports,Bitumen,1985,PJ,0.0
-Exports,Bitumen,1986,PJ,0.0
+Exports,Bitumen,1973,PJ,0
+Exports,Bitumen,1974,PJ,0
+Exports,Bitumen,1975,PJ,0
+Exports,Bitumen,1976,PJ,0
+Exports,Bitumen,1977,PJ,0
+Exports,Bitumen,1978,PJ,0
+Exports,Bitumen,1979,PJ,0
+Exports,Bitumen,1980,PJ,0
+Exports,Bitumen,1981,PJ,0
+Exports,Bitumen,1982,PJ,0
+Exports,Bitumen,1983,PJ,0
+Exports,Bitumen,1984,PJ,0
+Exports,Bitumen,1985,PJ,0
+Exports,Bitumen,1986,PJ,0
 Exports,Bitumen,1987,PJ,0.1
-Exports,Bitumen,1988,PJ,0.0
-Exports,Bitumen,1989,PJ,0.0
-Exports,Bitumen,1990,PJ,0.0
-Exports,Bitumen,1991,PJ,0.0
-Exports,Bitumen,1992,PJ,0.0
-Exports,Bitumen,1993,PJ,0.0
-Exports,Bitumen,1994,PJ,0.0
-Exports,Bitumen,1995,PJ,0.0
-Exports,Bitumen,1996,PJ,0.0
-Exports,Bitumen,1997,PJ,0.0
-Exports,Bitumen,1998,PJ,0.0
-Exports,Bitumen,1999,PJ,0.0
+Exports,Bitumen,1988,PJ,0
+Exports,Bitumen,1989,PJ,0
+Exports,Bitumen,1990,PJ,0
+Exports,Bitumen,1991,PJ,0
+Exports,Bitumen,1992,PJ,0
+Exports,Bitumen,1993,PJ,0
+Exports,Bitumen,1994,PJ,0
+Exports,Bitumen,1995,PJ,0
+Exports,Bitumen,1996,PJ,0
+Exports,Bitumen,1997,PJ,0
+Exports,Bitumen,1998,PJ,0
+Exports,Bitumen,1999,PJ,0
 Exports,Bitumen,2000,PJ,0.1
 Exports,Bitumen,2001,PJ,
 Exports,Bitumen,2002,PJ,
@@ -253,20 +253,20 @@ Exports,Black coal,1973,PJ,836.9
 Exports,Black coal,1974,PJ,950.3
 Exports,Black coal,1975,PJ,892.7
 Exports,Black coal,1976,PJ,1038.4
-Exports,Black coal,1977,PJ,1111.0
+Exports,Black coal,1977,PJ,1111
 Exports,Black coal,1978,PJ,1118.7
 Exports,Black coal,1979,PJ,1258.6
 Exports,Black coal,1980,PJ,1377.2
 Exports,Black coal,1981,PJ,1371.4
 Exports,Black coal,1982,PJ,1608.4
 Exports,Black coal,1983,PJ,1913.9
-Exports,Black coal,1984,PJ,2398.0
+Exports,Black coal,1984,PJ,2398
 Exports,Black coal,1985,PJ,2558.7
 Exports,Black coal,1986,PJ,2718.2
 Exports,Black coal,1987,PJ,2910.4
 Exports,Black coal,1988,PJ,2834.4
 Exports,Black coal,1989,PJ,2965.6
-Exports,Black coal,1990,PJ,3217.0
+Exports,Black coal,1990,PJ,3217
 Exports,Black coal,1991,PJ,3502.2
 Exports,Black coal,1992,PJ,3660.6
 Exports,Black coal,1993,PJ,3668.1
@@ -300,23 +300,23 @@ Exports,Black coal,2020,PJ,10323.577
 Exports,Black coal,2021,PJ,10173.475
 Exports,Black coal,2022,PJ,9606.136
 Exports,Briquettes,1973,PJ,0.1
-Exports,Briquettes,1974,PJ,0.0
-Exports,Briquettes,1975,PJ,0.0
-Exports,Briquettes,1976,PJ,1.0
+Exports,Briquettes,1974,PJ,0
+Exports,Briquettes,1975,PJ,0
+Exports,Briquettes,1976,PJ,1
 Exports,Briquettes,1977,PJ,0.9
 Exports,Briquettes,1978,PJ,0.6
 Exports,Briquettes,1979,PJ,0.6
 Exports,Briquettes,1980,PJ,0.9
-Exports,Briquettes,1981,PJ,1.0
-Exports,Briquettes,1982,PJ,1.0
+Exports,Briquettes,1981,PJ,1
+Exports,Briquettes,1982,PJ,1
 Exports,Briquettes,1983,PJ,1.2
-Exports,Briquettes,1984,PJ,1.0
+Exports,Briquettes,1984,PJ,1
 Exports,Briquettes,1985,PJ,1.4
 Exports,Briquettes,1986,PJ,1.2
 Exports,Briquettes,1987,PJ,1.7
 Exports,Briquettes,1988,PJ,0.5
 Exports,Briquettes,1989,PJ,0.7
-Exports,Briquettes,1990,PJ,1.0
+Exports,Briquettes,1990,PJ,1
 Exports,Briquettes,1991,PJ,1.8
 Exports,Briquettes,1992,PJ,1.3
 Exports,Briquettes,1993,PJ,2.2
@@ -353,8 +353,8 @@ Exports,Coke,1973,PJ,3.8
 Exports,Coke,1974,PJ,11.4
 Exports,Coke,1975,PJ,4.9
 Exports,Coke,1976,PJ,5.1
-Exports,Coke,1977,PJ,4.0
-Exports,Coke,1978,PJ,4.0
+Exports,Coke,1977,PJ,4
+Exports,Coke,1978,PJ,4
 Exports,Coke,1979,PJ,3.3
 Exports,Coke,1980,PJ,0.6
 Exports,Coke,1981,PJ,0.2
@@ -370,7 +370,7 @@ Exports,Coke,1990,PJ,22.6
 Exports,Coke,1991,PJ,19.6
 Exports,Coke,1992,PJ,16.2
 Exports,Coke,1993,PJ,14.3
-Exports,Coke,1994,PJ,8.0
+Exports,Coke,1994,PJ,8
 Exports,Coke,1995,PJ,11.4
 Exports,Coke,1996,PJ,8.9
 Exports,Coke,1997,PJ,4.8
@@ -399,10 +399,10 @@ Exports,Coke,2019,PJ,26.486
 Exports,Coke,2020,PJ,22.688
 Exports,Coke,2021,PJ,22.118
 Exports,Coke,2022,PJ,19.718
-Exports,Crude oil and ORF,1973,PJ,0.0
-Exports,Crude oil and ORF,1974,PJ,0.0
-Exports,Crude oil and ORF,1975,PJ,0.0
-Exports,Crude oil and ORF,1976,PJ,0.0
+Exports,Crude oil and ORF,1973,PJ,0
+Exports,Crude oil and ORF,1974,PJ,0
+Exports,Crude oil and ORF,1975,PJ,0
+Exports,Crude oil and ORF,1976,PJ,0
 Exports,Crude oil and ORF,1977,PJ,7.8
 Exports,Crude oil and ORF,1978,PJ,13.7
 Exports,Crude oil and ORF,1979,PJ,4.7
@@ -412,18 +412,18 @@ Exports,Crude oil and ORF,1982,PJ,2.3
 Exports,Crude oil and ORF,1983,PJ,39.1
 Exports,Crude oil and ORF,1984,PJ,215.3
 Exports,Crude oil and ORF,1985,PJ,186.9
-Exports,Crude oil and ORF,1986,PJ,211.0
+Exports,Crude oil and ORF,1986,PJ,211
 Exports,Crude oil and ORF,1987,PJ,238.8
 Exports,Crude oil and ORF,1988,PJ,181.9
 Exports,Crude oil and ORF,1989,PJ,266.5
 Exports,Crude oil and ORF,1990,PJ,326.4
-Exports,Crude oil and ORF,1991,PJ,332.0
+Exports,Crude oil and ORF,1991,PJ,332
 Exports,Crude oil and ORF,1992,PJ,373.6
 Exports,Crude oil and ORF,1993,PJ,352.9
 Exports,Crude oil and ORF,1994,PJ,423.5
 Exports,Crude oil and ORF,1995,PJ,403.3
 Exports,Crude oil and ORF,1996,PJ,458.8
-Exports,Crude oil and ORF,1997,PJ,547.0
+Exports,Crude oil and ORF,1997,PJ,547
 Exports,Crude oil and ORF,1998,PJ,528.8
 Exports,Crude oil and ORF,1999,PJ,772.5
 Exports,Crude oil and ORF,2000,PJ,889.6
@@ -453,7 +453,7 @@ Exports,Fuel oil,1973,PJ,18.6
 Exports,Fuel oil,1974,PJ,21.9
 Exports,Fuel oil,1975,PJ,33.3
 Exports,Fuel oil,1976,PJ,28.9
-Exports,Fuel oil,1977,PJ,16.0
+Exports,Fuel oil,1977,PJ,16
 Exports,Fuel oil,1978,PJ,10.2
 Exports,Fuel oil,1979,PJ,14.3
 Exports,Fuel oil,1980,PJ,13.1
@@ -465,7 +465,7 @@ Exports,Fuel oil,1985,PJ,28.7
 Exports,Fuel oil,1986,PJ,30.4
 Exports,Fuel oil,1987,PJ,30.4
 Exports,Fuel oil,1988,PJ,24.1
-Exports,Fuel oil,1989,PJ,18.0
+Exports,Fuel oil,1989,PJ,18
 Exports,Fuel oil,1990,PJ,35.6
 Exports,Fuel oil,1991,PJ,41.8
 Exports,Fuel oil,1992,PJ,42.2
@@ -474,7 +474,7 @@ Exports,Fuel oil,1994,PJ,34.2
 Exports,Fuel oil,1995,PJ,25.2
 Exports,Fuel oil,1996,PJ,37.1
 Exports,Fuel oil,1997,PJ,25.1
-Exports,Fuel oil,1998,PJ,10.0
+Exports,Fuel oil,1998,PJ,10
 Exports,Fuel oil,1999,PJ,23.2
 Exports,Fuel oil,2000,PJ,28.7
 Exports,Fuel oil,2001,PJ,11.6
@@ -524,8 +524,8 @@ Exports,IDF,1994,PJ,2.7
 Exports,IDF,1995,PJ,3.6
 Exports,IDF,1996,PJ,2.2
 Exports,IDF,1997,PJ,1.5
-Exports,IDF,1998,PJ,0.0
-Exports,IDF,1999,PJ,2.0
+Exports,IDF,1998,PJ,0
+Exports,IDF,1999,PJ,2
 Exports,IDF,2000,PJ,4.7
 Exports,IDF,2001,PJ,
 Exports,IDF,2002,PJ,
@@ -550,8 +550,8 @@ Exports,IDF,2020,PJ,
 Exports,IDF,2021,PJ,
 Exports,IDF,2022,PJ,
 Exports,Lighting kerosene,1973,PJ,0.8
-Exports,Lighting kerosene,1974,PJ,1.0
-Exports,Lighting kerosene,1975,PJ,1.0
+Exports,Lighting kerosene,1974,PJ,1
+Exports,Lighting kerosene,1975,PJ,1
 Exports,Lighting kerosene,1976,PJ,1.5
 Exports,Lighting kerosene,1977,PJ,2.2
 Exports,Lighting kerosene,1978,PJ,2.5
@@ -559,7 +559,7 @@ Exports,Lighting kerosene,1979,PJ,1.1
 Exports,Lighting kerosene,1980,PJ,2.2
 Exports,Lighting kerosene,1981,PJ,1.4
 Exports,Lighting kerosene,1982,PJ,0.8
-Exports,Lighting kerosene,1983,PJ,1.0
+Exports,Lighting kerosene,1983,PJ,1
 Exports,Lighting kerosene,1984,PJ,0.5
 Exports,Lighting kerosene,1985,PJ,0.4
 Exports,Lighting kerosene,1986,PJ,0.7
@@ -567,7 +567,7 @@ Exports,Lighting kerosene,1987,PJ,0.3
 Exports,Lighting kerosene,1988,PJ,0.3
 Exports,Lighting kerosene,1989,PJ,0.8
 Exports,Lighting kerosene,1990,PJ,2.5
-Exports,Lighting kerosene,1991,PJ,5.0
+Exports,Lighting kerosene,1991,PJ,5
 Exports,Lighting kerosene,1992,PJ,2.7
 Exports,Lighting kerosene,1993,PJ,1.9
 Exports,Lighting kerosene,1994,PJ,5.3
@@ -599,7 +599,7 @@ Exports,Lighting kerosene,2019,PJ,
 Exports,Lighting kerosene,2020,PJ,
 Exports,Lighting kerosene,2021,PJ,
 Exports,Lighting kerosene,2022,PJ,
-Exports,LPG,1973,PJ,53.0
+Exports,LPG,1973,PJ,53
 Exports,LPG,1974,PJ,53.4
 Exports,LPG,1975,PJ,52.1
 Exports,LPG,1976,PJ,60.2
@@ -607,7 +607,7 @@ Exports,LPG,1977,PJ,76.5
 Exports,LPG,1978,PJ,80.9
 Exports,LPG,1979,PJ,73.8
 Exports,LPG,1980,PJ,68.6
-Exports,LPG,1981,PJ,70.0
+Exports,LPG,1981,PJ,70
 Exports,LPG,1982,PJ,62.3
 Exports,LPG,1983,PJ,75.6
 Exports,LPG,1984,PJ,69.4
@@ -616,7 +616,7 @@ Exports,LPG,1986,PJ,70.9
 Exports,LPG,1987,PJ,63.6
 Exports,LPG,1988,PJ,57.7
 Exports,LPG,1989,PJ,52.6
-Exports,LPG,1990,PJ,40.0
+Exports,LPG,1990,PJ,40
 Exports,LPG,1991,PJ,41.6
 Exports,LPG,1992,PJ,39.3
 Exports,LPG,1993,PJ,34.2
@@ -649,25 +649,25 @@ Exports,LPG,2019,PJ,141.309
 Exports,LPG,2020,PJ,128.894
 Exports,LPG,2021,PJ,149.16
 Exports,LPG,2022,PJ,120.014
-Exports,Lubes and greases,1973,PJ,0.0
-Exports,Lubes and greases,1974,PJ,0.0
-Exports,Lubes and greases,1975,PJ,0.0
-Exports,Lubes and greases,1976,PJ,0.0
+Exports,Lubes and greases,1973,PJ,0
+Exports,Lubes and greases,1974,PJ,0
+Exports,Lubes and greases,1975,PJ,0
+Exports,Lubes and greases,1976,PJ,0
 Exports,Lubes and greases,1977,PJ,10.7
-Exports,Lubes and greases,1978,PJ,10.0
+Exports,Lubes and greases,1978,PJ,10
 Exports,Lubes and greases,1979,PJ,9.7
 Exports,Lubes and greases,1980,PJ,6.7
 Exports,Lubes and greases,1981,PJ,8.8
 Exports,Lubes and greases,1982,PJ,8.6
 Exports,Lubes and greases,1983,PJ,9.5
 Exports,Lubes and greases,1984,PJ,9.5
-Exports,Lubes and greases,1985,PJ,7.0
+Exports,Lubes and greases,1985,PJ,7
 Exports,Lubes and greases,1986,PJ,8.9
 Exports,Lubes and greases,1987,PJ,8.6
 Exports,Lubes and greases,1988,PJ,10.3
 Exports,Lubes and greases,1989,PJ,9.8
 Exports,Lubes and greases,1990,PJ,11.6
-Exports,Lubes and greases,1991,PJ,16.0
+Exports,Lubes and greases,1991,PJ,16
 Exports,Lubes and greases,1992,PJ,15.6
 Exports,Lubes and greases,1993,PJ,15.5
 Exports,Lubes and greases,1994,PJ,17.3
@@ -675,7 +675,7 @@ Exports,Lubes and greases,1995,PJ,13.6
 Exports,Lubes and greases,1996,PJ,14.1
 Exports,Lubes and greases,1997,PJ,15.5
 Exports,Lubes and greases,1998,PJ,12.4
-Exports,Lubes and greases,1999,PJ,10.0
+Exports,Lubes and greases,1999,PJ,10
 Exports,Lubes and greases,2000,PJ,10.8
 Exports,Lubes and greases,2001,PJ,6.3
 Exports,Lubes and greases,2002,PJ,6.323
@@ -699,33 +699,33 @@ Exports,Lubes and greases,2019,PJ,7.358
 Exports,Lubes and greases,2020,PJ,6.617
 Exports,Lubes and greases,2021,PJ,4.402
 Exports,Lubes and greases,2022,PJ,3.555
-Exports,Natural gas,1973,PJ,0.0
-Exports,Natural gas,1974,PJ,0.0
-Exports,Natural gas,1975,PJ,0.0
-Exports,Natural gas,1976,PJ,0.0
-Exports,Natural gas,1977,PJ,0.0
-Exports,Natural gas,1978,PJ,0.0
-Exports,Natural gas,1979,PJ,0.0
-Exports,Natural gas,1980,PJ,0.0
-Exports,Natural gas,1981,PJ,0.0
-Exports,Natural gas,1982,PJ,0.0
-Exports,Natural gas,1983,PJ,0.0
-Exports,Natural gas,1984,PJ,0.0
-Exports,Natural gas,1985,PJ,0.0
-Exports,Natural gas,1986,PJ,0.0
-Exports,Natural gas,1987,PJ,0.0
-Exports,Natural gas,1988,PJ,0.0
+Exports,Natural gas,1973,PJ,0
+Exports,Natural gas,1974,PJ,0
+Exports,Natural gas,1975,PJ,0
+Exports,Natural gas,1976,PJ,0
+Exports,Natural gas,1977,PJ,0
+Exports,Natural gas,1978,PJ,0
+Exports,Natural gas,1979,PJ,0
+Exports,Natural gas,1980,PJ,0
+Exports,Natural gas,1981,PJ,0
+Exports,Natural gas,1982,PJ,0
+Exports,Natural gas,1983,PJ,0
+Exports,Natural gas,1984,PJ,0
+Exports,Natural gas,1985,PJ,0
+Exports,Natural gas,1986,PJ,0
+Exports,Natural gas,1987,PJ,0
+Exports,Natural gas,1988,PJ,0
 Exports,Natural gas,1989,PJ,109.3
-Exports,Natural gas,1990,PJ,185.0
+Exports,Natural gas,1990,PJ,185
 Exports,Natural gas,1991,PJ,253.5
 Exports,Natural gas,1992,PJ,271.1
 Exports,Natural gas,1993,PJ,328.1
 Exports,Natural gas,1994,PJ,381.8
-Exports,Natural gas,1995,PJ,407.0
+Exports,Natural gas,1995,PJ,407
 Exports,Natural gas,1996,PJ,407.2
 Exports,Natural gas,1997,PJ,416.2
 Exports,Natural gas,1998,PJ,425.4
-Exports,Natural gas,1999,PJ,431.0
+Exports,Natural gas,1999,PJ,431
 Exports,Natural gas,2000,PJ,409.6
 Exports,Natural gas,2001,PJ,413.4
 Exports,Natural gas,2002,PJ,425.758
@@ -763,12 +763,12 @@ Exports,Other petroleum products,1983,PJ,0.5
 Exports,Other petroleum products,1984,PJ,0.6
 Exports,Other petroleum products,1985,PJ,1.3
 Exports,Other petroleum products,1986,PJ,2.4
-Exports,Other petroleum products,1987,PJ,5.0
+Exports,Other petroleum products,1987,PJ,5
 Exports,Other petroleum products,1988,PJ,6.8
 Exports,Other petroleum products,1989,PJ,9.7
 Exports,Other petroleum products,1990,PJ,5.7
 Exports,Other petroleum products,1991,PJ,12.4
-Exports,Other petroleum products,1992,PJ,15.0
+Exports,Other petroleum products,1992,PJ,15
 Exports,Other petroleum products,1993,PJ,10.5
 Exports,Other petroleum products,1994,PJ,10.1
 Exports,Other petroleum products,1995,PJ,12.7
@@ -799,53 +799,3 @@ Exports,Other petroleum products,2019,PJ,11.468
 Exports,Other petroleum products,2020,PJ,13.66
 Exports,Other petroleum products,2021,PJ,2.428
 Exports,Other petroleum products,2022,PJ,2.396
-Exports,Total,1973,PJ,987.2
-Exports,Total,1974,PJ,1089.0
-Exports,Total,1975,PJ,1033.8
-Exports,Total,1976,PJ,1185.3
-Exports,Total,1977,PJ,1275.0
-Exports,Total,1978,PJ,1306.0
-Exports,Total,1979,PJ,1416.4
-Exports,Total,1980,PJ,1525.9
-Exports,Total,1981,PJ,1517.9
-Exports,Total,1982,PJ,1765.7
-Exports,Total,1983,PJ,2140.5
-Exports,Total,1984,PJ,2767.4
-Exports,Total,1985,PJ,2921.9
-Exports,Total,1986,PJ,3092.3
-Exports,Total,1987,PJ,3340.7
-Exports,Total,1988,PJ,3205.8
-Exports,Total,1989,PJ,3507.7
-Exports,Total,1990,PJ,3906.3
-Exports,Total,1991,PJ,4296.0
-Exports,Total,1992,PJ,4503.0
-Exports,Total,1993,PJ,4534.7
-Exports,Total,1994,PJ,4856.4
-Exports,Total,1995,PJ,4970.3
-Exports,Total,1996,PJ,5286.6
-Exports,Total,1997,PJ,5839.0
-Exports,Total,1998,PJ,5980.3
-Exports,Total,1999,PJ,6442.4
-Exports,Total,2000,PJ,7058.1
-Exports,Total,2001,PJ,7138.82
-Exports,Total,2002,PJ,7344.201
-Exports,Total,2003,PJ,7476.71
-Exports,Total,2004,PJ,7916.807
-Exports,Total,2005,PJ,7900.314
-Exports,Total,2006,PJ,8461.877
-Exports,Total,2007,PJ,8628.523
-Exports,Total,2008,PJ,8947.371
-Exports,Total,2009,PJ,10066.331
-Exports,Total,2010,PJ,9984.231
-Exports,Total,2011,PJ,10322.683
-Exports,Total,2012,PJ,11487.754
-Exports,Total,2013,PJ,12528.099
-Exports,Total,2014,PJ,13112.358
-Exports,Total,2015,PJ,13672.937
-Exports,Total,2016,PJ,14194.219
-Exports,Total,2017,PJ,14811.906
-Exports,Total,2018,PJ,15994.333
-Exports,Total,2019,PJ,16310.772
-Exports,Total,2020,PJ,15420.636
-Exports,Total,2021,PJ,15623.23
-Exports,Total,2022,PJ,14903.868

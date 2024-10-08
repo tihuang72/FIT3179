@@ -1,13 +1,328 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 400,
-    "height": 300,
-    "description": "Stock prices of 5 Tech Companies over Time.",
-    "data": {"url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyExport.csv"},
-    "mark": "line",
-    "encoding": {
-      "x": {"timeUnit": "year", "type": "temporal"},
-      "y": {"field": "Quantity", "type": "quantitative"},
-      "color": {"field": "symbol", "type": "nominal"}
+    "params": [
+        {
+            "name": "yearRange",
+            "value": [
+                1973
+            ],
+            "bind": {
+                "input": "range",
+                "min": 1973,
+                "max": 2021,
+                "step": 1,
+                "name": "Select Year Range: "
+            }
+        }
+    ],
+    "vconcat": [
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyExport.csv"
+            },
+            "title": "Energy export by fuel type",
+            "width": 300,
+            "height": 200,
+            "transform": [
+                {
+                    "filter": {
+                        "not": {
+                            "field": "Fuel",
+                            "equal": "Total"
+                        }
+                    }
+                },
+                {
+                    "filter": {
+                        "field": "datum.Quantity",
+                        "lt": 5000
+                    }
+                },
+                {
+                    "filter": "year(datum.Year) >= yearRange"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "Year",
+                    "type": "temporal"
+                }
+            },
+            "layer": [
+                {
+                    "encoding": {
+                        "color": {
+                            "field": "Fuel",
+                            "type": "nominal",
+                            "scale": {
+                                "domain": [
+                                    "Black coal",
+                                    "Natural gas",
+                                    "Crude oil and ORF",
+                                    "LPG"
+                                ]
+                            }
+                        },
+                        "y": {
+                            "field": "Quantity",
+                            "type": "quantitative"
+                        }
+                    },
+                    "layer": [
+                        {
+                            "mark": "area"
+                        },
+                        {
+                            "transform": [
+                                {
+                                    "filter": {
+                                        "param": "hover",
+                                        "empty": false
+                                    }
+                                }
+                            ],
+                            "mark": "point"
+                        }
+                    ]
+                },
+                {
+                    "transform": [
+                        {
+                            "pivot": "Fuel",
+                            "value": "Quantity",
+                            "groupby": [
+                                "Year"
+                            ]
+                        }
+                    ],
+                    "mark": "rule",
+                    "encoding": {
+                        "opacity": {
+                            "condition": {
+                                "value": 0.3,
+                                "param": "hover",
+                                "empty": false
+                            },
+                            "value": 0
+                        },
+                        "tooltip": [
+                            {
+                                "timeUnit": "year",
+                                "field": "Year",
+                                "title": "Year"
+                            },
+                            {
+                                "field": "Black coal",
+                                "type": "quantitative",
+                                "title": "Black Coal (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Natural gas",
+                                "type": "quantitative",
+                                "title": "Natural Gas (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Crude oil and ORF",
+                                "type": "quantitative",
+                                "title": "Crude Oil and ORF (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "LPG",
+                                "type": "quantitative",
+                                "title": "LPG (PJ)",
+                                "format": ".0f"
+                            }
+                        ]
+                    },
+                    "params": [
+                        {
+                            "name": "hover",
+                            "select": {
+                                "type": "point",
+                                "fields": [
+                                    "Year"
+                                ],
+                                "nearest": true,
+                                "on": "pointerover",
+                                "clear": "pointerout"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/ConsumptionStateSector.csv"
+            },
+            "title": "Energy Consumption by Industry",
+            "width": 300,
+            "height": 200,
+            "transform": [
+                {
+                    "filter": {
+                        "field": "Jurisdiction",
+                        "equal": "AUS"
+                    }
+                },
+                {
+                    "filter": {
+                        "not": {
+                            "field": "Industry",
+                            "equal": "Total"
+                        }
+                    }
+                },
+                {
+                    "filter": {
+                        "field": "datum.Quantity",
+                        "lt": 1000
+                    }
+                },
+                {
+                    "filter": "year(datum.Year) >= yearRange"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "Year",
+                    "type": "temporal"
+                }
+            },
+            "layer": [
+                {
+                    "encoding": {
+                        "color": {
+                            "field": "Industry",
+                            "type": "nominal",
+                            "scale": {
+                                "domain": [
+                                    "Transport",
+                                    "Electricity generation",
+                                    "Manufacturing",
+                                    "Mining",
+                                    "Commercial and services",
+                                    "Agriculture",
+                                    "Residential"
+                                ]
+                            }
+                        },
+                        "y": {
+                            "field": "Quantity",
+                            "type": "quantitative"
+                        }
+                    },
+                    "layer": [
+                        {
+                            "mark": "area"
+                        },
+                        {
+                            "transform": [
+                                {
+                                    "filter": {
+                                        "param": "hover",
+                                        "empty": false
+                                    }
+                                }
+                            ],
+                            "mark": "point"
+                        }
+                    ]
+                },
+                {
+                    "transform": [
+                        {
+                            "pivot": "Industry",
+                            "value": "Quantity",
+                            "groupby": [
+                                "Year"
+                            ]
+                        }
+                    ],
+                    "mark": "rule",
+                    "encoding": {
+                        "opacity": {
+                            "condition": {
+                                "value": 0.3,
+                                "param": "hover",
+                                "empty": false
+                            },
+                            "value": 0
+                        },
+                        "tooltip": [
+                            {
+                                "timeUnit": "year",
+                                "field": "Year",
+                                "title": "Year"
+                            },
+                            {
+                                "field": "Transport",
+                                "type": "quantitative",
+                                "title": "Transport (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Electricity generation",
+                                "type": "quantitative",
+                                "title": "Electricity Generation (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Manufacturing",
+                                "type": "quantitative",
+                                "title": "Manufacturing (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Mining",
+                                "type": "quantitative",
+                                "title": "Mining (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Commercial and services",
+                                "type": "quantitative",
+                                "title": "Commercial & Services (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Agriculture",
+                                "type": "quantitative",
+                                "title": "Agriculture (PJ)",
+                                "format": ".0f"
+                            },
+                            {
+                                "field": "Residential",
+                                "type": "quantitative",
+                                "title": "Residential (PJ)",
+                                "format": ".0f"
+                            }
+                        ]
+                    },
+                    "params": [
+                        {
+                            "name": "hover",
+                            "select": {
+                                "type": "point",
+                                "fields": [
+                                    "Year"
+                                ],
+                                "nearest": true,
+                                "on": "pointerover",
+                                "clear": "pointerout"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "resolve": {
+        "scale": {
+            "color": "independent"
+        }
     }
-  }
+}
