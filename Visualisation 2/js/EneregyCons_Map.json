@@ -52,15 +52,16 @@
       }
     },
     {
-      "name": "SolarEnergy",
+      "name": "energy",
+      "value": ["Residential Capacity (MW)"],
       "bind":{
         "input": "select",
         "options": [
-          "a",
-          "b",
-          "c",
-          "d",
-          "e"
+          "Residential Capacity (MW)",
+          "Rural / Primacy Production Capacity (MW)",
+          "Industrial Capacity (MW)",
+          "Commercial Capacity (MW)",
+          "Mixed Capacity (MW)"
         ],
         "labels": [
           "Residential",
@@ -110,23 +111,16 @@
     {
       "transform": [
         {
-          
           "lookup": "properties.LGA_CODE21",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/SolarLGA2016.csv"
+              "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA2016zones.csv"
             },
             "key": "LGA_CODE_2016",
             "fields": [
-              "Capacity"
+              "Residential Capacity (MW)"
             ]
           }
-        },
-        {
-          "filter": {
-  "field": "EnergyType",
-  "equal": {"expr": "SolarEnergy"}
-}
         }
       ],
       "mark": {
@@ -134,7 +128,7 @@
       },
       "encoding": {
         "color": {
-          "field": "Capacity",
+          "field": "Residential Capacity (MW)",
           "type": "quantitative"
         },
         "tooltip": [
@@ -144,7 +138,7 @@
             "title": "Local Government Area"
           },
           {
-            "field": "Capacity",
+            "field": "Residential Capacity (MW)",
             "type": "quantitative"
           }
         ]
