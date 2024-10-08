@@ -70,7 +70,7 @@
                     },
                     "layer": [
                         {
-                            "mark": "line"
+                            "mark": "area"
                         },
                         {
                             "transform": [
@@ -217,7 +217,7 @@
                     },
                     "layer": [
                         {
-                            "mark": "line"
+                            "mark": "area"
                         },
                         {
                             "transform": [
