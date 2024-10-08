@@ -1,0 +1,17 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 300,
+    "title": "Australia's Net Greenhouse Gas Emission",
+    "data": {"url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/Emissions.csv"},
+    "mark": {"type": "line","strokeWidth": 4},
+    "encoding": {
+      "x": {"field": "Year","type": "temporal"},
+      "y": {"field": "Net greenhouse gas emissions (MtCO2-e)", "type": "quantitative"},
+      "tooltip":[
+        {
+            "field": "Net greenhouse gas emissions (MtCO2-e)"
+        }
+      ]
+    }
+  }
