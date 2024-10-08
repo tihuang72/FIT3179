@@ -1,11 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Solar capacity",
+  "title": "Solar capacity and solar farm station locations",
   "width": 800,
   "height": 800,
-  "projection": {
-    "type": "equirectangular"
-  },
   "data": {
     "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
     "format": {
@@ -13,7 +10,80 @@
       "feature": "LGA_2021_AUST_GDA2020"
     }
   },
+  "params": [
+    {
+      "name": "zoom_level",
+      "value": 1050,
+      "bind": {
+        "input": "range",
+        "min": 1050,
+        "max": 3500,
+        "step": 100,
+        "name": "Zoom: "
+      }
+    },
+    {
+      "name": "center_to",
+      "value": [
+        132,
+        -23
+      ],
+      "bind": {
+        "input": "select",
+        "options": [
+          [132,-23],
+          [145,-37.8],
+          [151.2,-33.8],
+          [153,-27.3],
+          [138.4,-34.6],
+          [115.5,-31.6]
+        ],
+        "labels": [
+          "Central Australia",
+          "Melbourne",
+          "Sydney",
+          "Brisbane",
+          "Adelaide",
+          "Perth"
+        ],
+        "name": "Map Centre: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "equirectangular",
+    "scale": {
+      "expr": "zoom_level"
+    },
+    "center": {"expr": "center_to"}
+  },
   "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
+        "format": {
+          "type": "topojson",
+          "feature": "LGA_2021_AUST_GDA2020"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.LGA_NAME21",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ddd",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "tooltip": {
+          "field": "note"
+        }
+      }
+    },
     {
       "transform": [
         {
@@ -27,6 +97,10 @@
               "Residential Capacity (MW)"
             ]
           }
+        },
+        {
+          "calculate": "'Data is not available in ' + datum.properties.LGA_NAME21",
+          "as": "note"
         }
       ],
       "mark": {
@@ -54,7 +128,10 @@
       "data": {
         "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/solar.csv"
       },
-      "mark": "circle",
+      "mark": {
+        "type": "circle",
+        "size": "40"
+      },
       "transform": [
         {
           "filter": {
