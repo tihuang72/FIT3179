@@ -23,6 +23,11 @@
                 ],
                 "name": "Fuel Source: "
             }
+        },
+        {
+            "name": "Fuel",
+    "select": {"type": "point", "fields": ["Fuel Type"]},
+    "bind": "legend"
         }
     ],
     "transform": [
@@ -85,8 +90,9 @@
             }
         },
         "opacity": {
-            "value": 1
-        },
+      "condition": {"param": "Fuel", "value": 1},
+      "value": 0.2
+    },
         "order": {
             "field": "Type"
         },

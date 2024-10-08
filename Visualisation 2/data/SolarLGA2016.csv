@@ -1,0 +1,2696 @@
+LGA_CODE_2016,LGA_NAME_2016,EnergyType,Capacity
+40070,Adelaide (C),Residential Capacity (MW),0
+40120,Adelaide Hills (DC),Residential Capacity (MW),0
+50080,Albany (C),Residential Capacity (MW),94131
+10050,Albury (C),Residential Capacity (MW),33250
+40220,Alexandrina (DC),Residential Capacity (MW),103340
+70200,Alice Springs (T),Residential Capacity (MW),2566
+20110,Alpine (S),Residential Capacity (MW),62134
+40250,Anangu Pitjantjatjara (AC),Residential Capacity (MW),18
+20260,Ararat (RC),Residential Capacity (MW),89962
+50210,Armadale (C),Residential Capacity (MW),73196
+10130,Armidale Regional (A),Residential Capacity (MW),89668
+50250,Ashburton (S),Residential Capacity (MW),60846
+50280,Augusta-Margaret River (S),Residential Capacity (MW),59958
+30250,Aurukun (S),Residential Capacity (MW),6006
+20570,Ballarat (C),Residential Capacity (MW),78582
+10250,Ballina (A),Residential Capacity (MW),92189
+30300,Balonne (S),Residential Capacity (MW),55218
+10300,Balranald (A),Residential Capacity (MW),30861
+30370,Banana (S),Residential Capacity (MW),127553
+20660,Banyule (C),Residential Capacity (MW),3745
+30410,Barcaldine (R),Residential Capacity (MW),35408
+30450,Barcoo (S),Residential Capacity (MW),5866
+70420,Barkly (R),Residential Capacity (MW),1430
+40310,Barossa (DC),Residential Capacity (MW),145254
+40430,Barunga West (DC),Residential Capacity (MW),29121
+20740,Bass Coast (S),Residential Capacity (MW),80319
+50350,Bassendean (T),Residential Capacity (MW),0
+10470,Bathurst Regional (A),Residential Capacity (MW),150866
+20830,Baw Baw (S),Residential Capacity (MW),218863
+20910,Bayside (C),Residential Capacity (MW),0
+50420,Bayswater (C),Residential Capacity (MW),0
+10550,Bega Valley (A),Residential Capacity (MW),124807
+10600,Bellingen (A),Residential Capacity (MW),65571
+50490,Belmont (C),Residential Capacity (MW),0
+70540,Belyuen (S),Residential Capacity (MW),201
+40520,Berri and Barmera (DC),Residential Capacity (MW),80158
+10650,Berrigan (A),Residential Capacity (MW),73191
+50560,Beverley (S),Residential Capacity (MW),34577
+30760,Blackall-Tambo (R),Residential Capacity (MW),25537
+10750,Blacktown (C),Residential Capacity (MW),58177
+10800,Bland (A),Residential Capacity (MW),102189
+10850,Blayney (A),Residential Capacity (MW),45147
+10900,Blue Mountains (C),Residential Capacity (MW),288466
+50630,Boddington (S),Residential Capacity (MW),24962
+10950,Bogan (A),Residential Capacity (MW),26324
+21110,Boroondara (C),Residential Capacity (MW),0
+11100,Botany Bay (C),Residential Capacity (MW),43
+30900,Boulia (S),Residential Capacity (MW),3895
+11150,Bourke (A),Residential Capacity (MW),29529
+50770,Boyup Brook (S),Residential Capacity (MW),37137
+60210,Break O'Day (M),Residential Capacity (MW),20041
+11200,Brewarrina (A),Residential Capacity (MW),18293
+60410,Brighton (M),Residential Capacity (MW),32823
+21180,Brimbank (C),Residential Capacity (MW),8354
+31000,Brisbane (C),Residential Capacity (MW),64046
+11250,Broken Hill (C),Residential Capacity (MW),1438
+50910,Brookton (S),Residential Capacity (MW),27153
+50980,Broome (S),Residential Capacity (MW),4740
+51080,Broomehill-Tambellup (S),Residential Capacity (MW),33408
+51120,Bruce Rock (S),Residential Capacity (MW),24151
+31750,Bulloo (S),Residential Capacity (MW),4208
+21270,Buloke (S),Residential Capacity (MW),110257
+51190,Bunbury (C),Residential Capacity (MW),7368
+31820,Bundaberg (R),Residential Capacity (MW),325463
+31900,Burdekin (S),Residential Capacity (MW),83346
+31950,Burke (S),Residential Capacity (MW),1030
+60610,Burnie (C),Residential Capacity (MW),25375
+40700,Burnside (C),Residential Capacity (MW),23
+11300,Burwood (A),Residential Capacity (MW),0
+51260,Busselton (C),Residential Capacity (MW),66838
+11350,Byron (A),Residential Capacity (MW),82455
+11400,Cabonne (A),Residential Capacity (MW),122139
+32080,Cairns (R),Residential Capacity (MW),66061
+51310,Cambridge (T),Residential Capacity (MW),0
+11450,Camden (A),Residential Capacity (MW),156590
+21370,Campaspe (S),Residential Capacity (MW),240857
+11500,Campbelltown (C) (NSW),Residential Capacity (MW),38792
+40910,Campbelltown (C) (SA),Residential Capacity (MW),38792
+11520,Canada Bay (A),Residential Capacity (MW),0
+51330,Canning (C),Residential Capacity (MW),11834
+11570,Canterbury-Bankstown (A),Residential Capacity (MW),251
+51400,Capel (S),Residential Capacity (MW),47306
+21450,Cardinia (S),Residential Capacity (MW),249276
+51470,Carnamah (S),Residential Capacity (MW),14989
+51540,Carnarvon (S),Residential Capacity (MW),24032
+32250,Carpentaria (S),Residential Capacity (MW),7064
+11600,Carrathool (A),Residential Capacity (MW),49321
+21610,Casey (C),Residential Capacity (MW),146693
+32260,Cassowary Coast (R),Residential Capacity (MW),105867
+41010,Ceduna (DC),Residential Capacity (MW),15323
+11650,Central Coast (C) (NSW),Residential Capacity (MW),198502
+60810,Central Coast (M) (Tas.),Residential Capacity (MW),66521
+11700,Central Darling (A),Residential Capacity (MW),26802
+70620,Central Desert (R),Residential Capacity (MW),550
+21670,Central Goldfields (S),Residential Capacity (MW),64573
+61010,Central Highlands (M) (Tas.),Residential Capacity (MW),7699
+32270,Central Highlands (R) (Qld),Residential Capacity (MW),122282
+11720,Cessnock (C),Residential Capacity (MW),120017
+41060,Charles Sturt (C),Residential Capacity (MW),0
+32310,Charters Towers (R),Residential Capacity (MW),63283
+32330,Cherbourg (S),Residential Capacity (MW),8766
+51680,Chittering (S),Residential Capacity (MW),51385
+61210,Circular Head (M),Residential Capacity (MW),56321
+41140,Clare and Gilbert Valleys (DC),Residential Capacity (MW),105796
+51750,Claremont (T),Residential Capacity (MW),0
+61410,Clarence (C),Residential Capacity (MW),23544
+11730,Clarence Valley (A),Residential Capacity (MW),179097
+41190,Cleve (DC),Residential Capacity (MW),36318
+32450,Cloncurry (S),Residential Capacity (MW),21090
+11750,Cobar (A),Residential Capacity (MW),25060
+51820,Cockburn (C),Residential Capacity (MW),49134
+11800,Coffs Harbour (C),Residential Capacity (MW),135212
+21750,Colac-Otway (S),Residential Capacity (MW),128239
+51890,Collie (S),Residential Capacity (MW),41073
+41330,Coober Pedy (DC),Residential Capacity (MW),0
+32500,Cook (S),Residential Capacity (MW),11247
+12000,Coolamon (A),Residential Capacity (MW),56660
+51960,Coolgardie (S),Residential Capacity (MW),9459
+70700,Coomalie (S),Residential Capacity (MW),475
+12150,Coonamble (A),Residential Capacity (MW),56515
+52030,Coorow (S),Residential Capacity (MW),15890
+41560,Copper Coast (DC),Residential Capacity (MW),39283
+21830,Corangamite (S),Residential Capacity (MW),197085
+52100,Corrigin (S),Residential Capacity (MW),24967
+52170,Cottesloe (T),Residential Capacity (MW),0
+12350,Cowra (A),Residential Capacity (MW),79538
+32600,Croydon (S),Residential Capacity (MW),1555
+52310,Cuballing (S),Residential Capacity (MW),21942
+52380,Cue (S),Residential Capacity (MW),3455
+12380,Cumberland (A),Residential Capacity (MW),29
+52450,Cunderdin (S),Residential Capacity (MW),22563
+52520,Dalwallinu (S),Residential Capacity (MW),28853
+52590,Dandaragan (S),Residential Capacity (MW),38794
+52660,Dardanup (S),Residential Capacity (MW),40380
+21890,Darebin (C),Residential Capacity (MW),0
+71000,Darwin (C),Residential Capacity (MW),1345
+52730,Denmark (S),Residential Capacity (MW),45027
+52800,Derby-West Kimberley (S),Residential Capacity (MW),2880
+61510,Derwent Valley (M),Residential Capacity (MW),37150
+61610,Devonport (C),Residential Capacity (MW),46981
+32750,Diamantina (S),Residential Capacity (MW),2723
+52870,Donnybrook-Balingup (S),Residential Capacity (MW),49903
+32770,Doomadgee (S),Residential Capacity (MW),2363
+61810,Dorset (M),Residential Capacity (MW),49765
+32810,Douglas (S),Residential Capacity (MW),4922
+52940,Dowerin (S),Residential Capacity (MW),19420
+53010,Dumbleyung (S),Residential Capacity (MW),17530
+53080,Dundas (S),Residential Capacity (MW),11615
+12700,Dungog (A),Residential Capacity (MW),75407
+71300,East Arnhem (R),Residential Capacity (MW),7856
+53150,East Fremantle (T),Residential Capacity (MW),0
+22110,East Gippsland (S),Residential Capacity (MW),168006
+53220,East Pilbara (S),Residential Capacity (MW),88710
+12730,Edward River (A),Residential Capacity (MW),70763
+41750,Elliston (DC),Residential Capacity (MW),18618
+53290,Esperance (S),Residential Capacity (MW),104605
+33100,Etheridge (S),Residential Capacity (MW),4162
+12750,Eurobodalla (A),Residential Capacity (MW),79876
+53360,Exmouth (S),Residential Capacity (MW),1501
+12850,Fairfield (C),Residential Capacity (MW),48692
+12870,Federation (A),Residential Capacity (MW),94831
+62010,Flinders (M) (Tas.),Residential Capacity (MW),0
+33200,Flinders (S) (Qld),Residential Capacity (MW),22839
+41830,Flinders Ranges (DC),Residential Capacity (MW),13636
+12900,Forbes (A),Residential Capacity (MW),87414
+41960,Franklin Harbour (DC),Residential Capacity (MW),14717
+22170,Frankston (C),Residential Capacity (MW),29567
+33220,Fraser Coast (R),Residential Capacity (MW),115664
+53430,Fremantle (C),Residential Capacity (MW),0
+22250,Gannawarra (S),Residential Capacity (MW),110787
+42030,Gawler (T),Residential Capacity (MW),25777
+62210,George Town (M),Residential Capacity (MW),20178
+12930,Georges River (A),Residential Capacity (MW),34403
+12950,Gilgandra (A),Residential Capacity (MW),48250
+53570,Gingin (S),Residential Capacity (MW),96409
+33360,Gladstone (R),Residential Capacity (MW),142863
+62410,Glamorgan/Spring Bay (M),Residential Capacity (MW),20495
+13010,Glen Innes Severn (A),Residential Capacity (MW),71146
+22410,Glenelg (S),Residential Capacity (MW),124283
+62610,Glenorchy (C),Residential Capacity (MW),7380
+53640,Gnowangerup (S),Residential Capacity (MW),32500
+33430,Gold Coast (C),Residential Capacity (MW),164459
+22490,Golden Plains (S),Residential Capacity (MW),143723
+53710,Goomalling (S),Residential Capacity (MW),10791
+33610,Goondiwindi (R),Residential Capacity (MW),100332
+53780,Gosnells (C),Residential Capacity (MW),39669
+13310,Goulburn Mulwaree (A),Residential Capacity (MW),121969
+42110,Goyder (DC),Residential Capacity (MW),95139
+42250,Grant (DC),Residential Capacity (MW),76656
+22620,Greater Bendigo (C),Residential Capacity (MW),190260
+22670,Greater Dandenong (C),Residential Capacity (MW),22811
+22750,Greater Geelong (C),Residential Capacity (MW),141160
+53800,Greater Geraldton (C),Residential Capacity (MW),96496
+13340,Greater Hume Shire (A),Residential Capacity (MW),136788
+22830,Greater Shepparton (C),Residential Capacity (MW),254460
+13450,Griffith (C),Residential Capacity (MW),141007
+13510,Gundagai (A),Residential Capacity (MW),86195
+13550,Gunnedah (A),Residential Capacity (MW),90032
+13660,Gwydir (A),Residential Capacity (MW),74699
+33620,Gympie (R),Residential Capacity (MW),213303
+53920,Halls Creek (S),Residential Capacity (MW),1512
+53990,Harvey (S),Residential Capacity (MW),75550
+13800,Hawkesbury (C),Residential Capacity (MW),359021
+13850,Hay (A),Residential Capacity (MW),38544
+22910,Hepburn (S),Residential Capacity (MW),94918
+13910,Hilltops (A),Residential Capacity (MW),190259
+33800,Hinchinbrook (S),Residential Capacity (MW),73744
+22980,Hindmarsh (S),Residential Capacity (MW),96978
+62810,Hobart (C),Residential Capacity (MW),637
+23110,Hobsons Bay (C),Residential Capacity (MW),0
+42600,Holdfast Bay (C),Residential Capacity (MW),0
+33830,Hope Vale (S),Residential Capacity (MW),2325
+14000,Hornsby (A),Residential Capacity (MW),94390
+23190,Horsham (RC),Residential Capacity (MW),117565
+23270,Hume (C),Residential Capacity (MW),57441
+63010,Huon Valley (M),Residential Capacity (MW),90000
+23350,Indigo (S),Residential Capacity (MW),91414
+14170,Inner West (A),Residential Capacity (MW),0
+14200,Inverell (A),Residential Capacity (MW),97049
+33960,Ipswich (C),Residential Capacity (MW),105257
+54060,Irwin (S),Residential Capacity (MW),18069
+33980,Isaac (R),Residential Capacity (MW),146189
+54130,Jerramungup (S),Residential Capacity (MW),33563
+54170,Joondalup (C),Residential Capacity (MW),418
+14300,Junee (A),Residential Capacity (MW),22911
+54200,Kalamunda (S),Residential Capacity (MW),56627
+54280,Kalgoorlie/Boulder (C),Residential Capacity (MW),8773
+42750,Kangaroo Island (DC),Residential Capacity (MW),42373
+43080,Karoonda East Murray (DC),Residential Capacity (MW),29295
+54310,Karratha (C),Residential Capacity (MW),23321
+54340,Katanning (S),Residential Capacity (MW),26484
+72200,Katherine (T),Residential Capacity (MW),15000
+54410,Kellerberrin (S),Residential Capacity (MW),17116
+14350,Kempsey (A),Residential Capacity (MW),118148
+54480,Kent (S),Residential Capacity (MW),0
+63210,Kentish (M),Residential Capacity (MW),42514
+14400,Kiama (A),Residential Capacity (MW),23433
+43220,Kimba (DC),Residential Capacity (MW),26660
+63410,King Island (M),Residential Capacity (MW),17638
+63610,Kingborough (M),Residential Capacity (MW),27841
+23430,Kingston (C) (Vic.),Residential Capacity (MW),20522
+43360,Kingston (DC) (SA),Residential Capacity (MW),22384
+23670,Knox (C),Residential Capacity (MW),14470
+54550,Kojonup (S),Residential Capacity (MW),51289
+54620,Kondinin (S),Residential Capacity (MW),29920
+54690,Koorda (S),Residential Capacity (MW),12893
+34420,Kowanyama (S),Residential Capacity (MW),4794
+54760,Kulin (S),Residential Capacity (MW),29678
+14500,Ku-ring-gai (A),Residential Capacity (MW),30769
+54830,Kwinana (C),Residential Capacity (MW),40415
+14550,Kyogle (A),Residential Capacity (MW),81588
+14600,Lachlan (A),Residential Capacity (MW),96846
+54900,Lake Grace (S),Residential Capacity (MW),49515
+14650,Lake Macquarie (C),Residential Capacity (MW),62215
+14700,Lane Cove (A),Residential Capacity (MW),2485
+23810,Latrobe (C) (Vic.),Residential Capacity (MW),100662
+63810,Latrobe (M) (Tas.),Residential Capacity (MW),36168
+64010,Launceston (C),Residential Capacity (MW),55806
+54970,Laverton (S),Residential Capacity (MW),19679
+14750,Leeton (A),Residential Capacity (MW),60703
+55040,Leonora (S),Residential Capacity (MW),1320
+43650,Light (RegC),Residential Capacity (MW),78907
+14850,Lismore (C),Residential Capacity (MW),153687
+72300,Litchfield (M),Residential Capacity (MW),28084
+14870,Lithgow (C),Residential Capacity (MW),55233
+14900,Liverpool (C),Residential Capacity (MW),143220
+14920,Liverpool Plains (A),Residential Capacity (MW),96061
+34530,Livingstone (S),Residential Capacity (MW),82632
+14950,Lockhart (A),Residential Capacity (MW),45901
+34570,Lockhart River (S),Residential Capacity (MW),2253
+34580,Lockyer Valley (R),Residential Capacity (MW),240863
+23940,Loddon (S),Residential Capacity (MW),121106
+34590,Logan (C),Residential Capacity (MW),89343
+34710,Longreach (R),Residential Capacity (MW),35199
+43710,Lower Eyre Peninsula (DC),Residential Capacity (MW),61831
+43790,Loxton Waikerie (DC),Residential Capacity (MW),141174
+72330,MacDonnell (R),Residential Capacity (MW),59
+24130,Macedon Ranges (S),Residential Capacity (MW),156823
+34770,Mackay (R),Residential Capacity (MW),267834
+15050,Maitland (C),Residential Capacity (MW),145293
+43920,Mallala (DC),Residential Capacity (MW),126237
+55110,Mandurah (C),Residential Capacity (MW),3933
+55180,Manjimup (S),Residential Capacity (MW),81251
+24210,Manningham (C),Residential Capacity (MW),28978
+24250,Mansfield (S),Residential Capacity (MW),62049
+34830,Mapoon (S),Residential Capacity (MW),459
+44000,Maralinga Tjarutja (AC),Residential Capacity (MW),273
+34860,Maranoa (R),Residential Capacity (MW),123412
+34880,Mareeba (S),Residential Capacity (MW),127465
+24330,Maribyrnong (C),Residential Capacity (MW),0
+44060,Marion (C),Residential Capacity (MW),504
+24410,Maroondah (C),Residential Capacity (MW),10273
+34800,McKinlay (S),Residential Capacity (MW),28286
+64210,Meander Valley (M),Residential Capacity (MW),84893
+55250,Meekatharra (S),Residential Capacity (MW),0
+24600,Melbourne (C),Residential Capacity (MW),0
+24650,Melton (C),Residential Capacity (MW),39850
+55320,Melville (C),Residential Capacity (MW),0
+55390,Menzies (S),Residential Capacity (MW),7404
+55460,Merredin (S),Residential Capacity (MW),27593
+44210,Mid Murray (DC),Residential Capacity (MW),131536
+15240,Mid-Coast (A),Residential Capacity (MW),320003
+15270,Mid-Western Regional (A),Residential Capacity (MW),143182
+24780,Mildura (RC),Residential Capacity (MW),239604
+55530,Mingenew (S),Residential Capacity (MW),13231
+44340,Mitcham (C),Residential Capacity (MW),444
+24850,Mitchell (S),Residential Capacity (MW),123900
+24900,Moira (S),Residential Capacity (MW),199703
+24970,Monash (C),Residential Capacity (MW),0
+25060,Moonee Valley (C),Residential Capacity (MW),358
+55600,Moora (S),Residential Capacity (MW),39899
+25150,Moorabool (S),Residential Capacity (MW),116416
+55670,Morawa (S),Residential Capacity (MW),20682
+15300,Moree Plains (A),Residential Capacity (MW),131468
+25250,Moreland (C),Residential Capacity (MW),0
+35010,Moreton Bay (R),Residential Capacity (MW),249520
+35250,Mornington (S),Residential Capacity (MW),5342
+25340,Mornington Peninsula (S),Residential Capacity (MW),244048
+15350,Mosman (A),Residential Capacity (MW),0
+55740,Mosman Park (T),Residential Capacity (MW),0
+25430,Mount Alexander (S),Residential Capacity (MW),85519
+44550,Mount Barker (DC),Residential Capacity (MW),120346
+44620,Mount Gambier (C),Residential Capacity (MW),3855
+35300,Mount Isa (C),Residential Capacity (MW),47940
+55810,Mount Magnet (S),Residential Capacity (MW),5150
+55880,Mount Marshall (S),Residential Capacity (MW),22247
+44830,Mount Remarkable (DC),Residential Capacity (MW),43186
+25490,Moyne (S),Residential Capacity (MW),193928
+55950,Mukinbudin (S),Residential Capacity (MW),15658
+56090,Mundaring (S),Residential Capacity (MW),32483
+56160,Murchison (S),Residential Capacity (MW),3617
+56230,Murray (S),Residential Capacity (MW),91423
+45040,Murray Bridge (RC),Residential Capacity (MW),104194
+15520,Murray River (A),Residential Capacity (MW),106788
+25620,Murrindindi (S),Residential Capacity (MW),103654
+15560,Murrumbidgee (A),Residential Capacity (MW),68647
+35600,Murweh (S),Residential Capacity (MW),20449
+15650,Muswellbrook (A),Residential Capacity (MW),68533
+15700,Nambucca (A),Residential Capacity (MW),55522
+56300,Nannup (S),Residential Capacity (MW),22047
+35670,Napranum (S),Residential Capacity (MW),1570
+45090,Naracoorte and Lucindale (DC),Residential Capacity (MW),99427
+56370,Narembeen (S),Residential Capacity (MW),26541
+15750,Narrabri (A),Residential Capacity (MW),147188
+15800,Narrandera (A),Residential Capacity (MW),51327
+56460,Narrogin (S),Residential Capacity (MW),39066
+15850,Narromine (A),Residential Capacity (MW),75771
+56580,Nedlands (C),Residential Capacity (MW),0
+15900,Newcastle (C),Residential Capacity (MW),10224
+56620,Ngaanyatjarraku (S),Residential Capacity (MW),11328
+25710,Nillumbik (S),Residential Capacity (MW),129600
+35740,Noosa (S),Residential Capacity (MW),78364
+35760,North Burnett (R),Residential Capacity (MW),127390
+15950,North Sydney (A),Residential Capacity (MW),4200
+56730,Northam (S),Residential Capacity (MW),55694
+56790,Northampton (S),Residential Capacity (MW),26615
+45120,Northern Areas (DC),Residential Capacity (MW),64044
+15990,Northern Beaches (A),Residential Capacity (MW),167192
+25810,Northern Grampians (S),Residential Capacity (MW),93340
+64610,Northern Midlands (M),Residential Capacity (MW),80056
+35780,Northern Peninsula Area (R),Residential Capacity (MW),0
+45290,Norwood Payneham St Peters (C),Residential Capacity (MW),0
+56860,Nungarin (S),Residential Capacity (MW),171
+16100,Oberon (A),Residential Capacity (MW),37160
+45340,Onkaparinga (C),Residential Capacity (MW),89816
+16150,Orange (C),Residential Capacity (MW),82681
+45400,Orroroo/Carrieton (DC),Residential Capacity (MW),19494
+35790,Palm Island (S),Residential Capacity (MW),16330
+72800,Palmerston (C),Residential Capacity (MW),91
+16200,Parkes (A),Residential Capacity (MW),116392
+35800,Paroo (S),Residential Capacity (MW),25406
+16260,Parramatta (C),Residential Capacity (MW),29231
+16350,Penrith (C),Residential Capacity (MW),212451
+56930,Peppermint Grove (S),Residential Capacity (MW),0
+57000,Perenjori (S),Residential Capacity (MW),25139
+57080,Perth (C),Residential Capacity (MW),0
+45540,Peterborough (DC),Residential Capacity (MW),14060
+57140,Pingelly (S),Residential Capacity (MW),24528
+57210,Plantagenet (S),Residential Capacity (MW),79555
+45680,Playford (C),Residential Capacity (MW),344460
+36070,Pormpuraaw (S),Residential Capacity (MW),3010
+45890,Port Adelaide Enfield (C),Residential Capacity (MW),0
+46090,Port Augusta (C),Residential Capacity (MW),272
+57280,Port Hedland (T),Residential Capacity (MW),13309
+46300,Port Lincoln (C),Residential Capacity (MW),5452
+16380,Port Macquarie-Hastings (A),Residential Capacity (MW),105640
+25900,Port Phillip (C),Residential Capacity (MW),0
+46450,Port Pirie City and Dists (M),Residential Capacity (MW),48497
+16400,Port Stephens (A),Residential Capacity (MW),118048
+46510,Prospect (C),Residential Capacity (MW),0
+25990,Pyrenees (S),Residential Capacity (MW),66846
+57350,Quairading (S),Residential Capacity (MW),21711
+16490,Queanbeyan-Palerang Regional (A),Residential Capacity (MW),94214
+26080,Queenscliffe (B),Residential Capacity (MW),2758
+36150,Quilpie (S),Residential Capacity (MW),15668
+16550,Randwick (C),Residential Capacity (MW),158
+57420,Ravensthorpe (S),Residential Capacity (MW),30215
+36250,Redland (C),Residential Capacity (MW),46200
+46670,Renmark Paringa (DC),Residential Capacity (MW),63076
+36300,Richmond (S),Residential Capacity (MW),12749
+16610,Richmond Valley (A),Residential Capacity (MW),108615
+46860,Robe (DC),Residential Capacity (MW),9221
+16650,Rockdale (C),Residential Capacity (MW),4823
+36370,Rockhampton (R),Residential Capacity (MW),194837
+57490,Rockingham (C),Residential Capacity (MW),56583
+73600,Roper Gulf (R),Residential Capacity (MW),4296
+46970,Roxby Downs (M),Residential Capacity (MW),0
+16700,Ryde (C),Residential Capacity (MW),73
+47140,Salisbury (C),Residential Capacity (MW),150920
+57630,Sandstone (S),Residential Capacity (MW),2724
+36510,Scenic Rim (R),Residential Capacity (MW),222408
+57700,Serpentine-Jarrahdale (S),Residential Capacity (MW),176416
+57770,Shark Bay (S),Residential Capacity (MW),2726
+16900,Shellharbour (C),Residential Capacity (MW),13122
+16950,Shoalhaven (C),Residential Capacity (MW),141504
+17000,Singleton (A),Residential Capacity (MW),138907
+17040,Snowy Monaro Regional (A),Residential Capacity (MW),113938
+17080,Snowy Valleys (A),Residential Capacity (MW),105263
+36580,Somerset (R),Residential Capacity (MW),204885
+64810,Sorell (M),Residential Capacity (MW),27532
+36630,South Burnett (R),Residential Capacity (MW),207022
+26170,South Gippsland (S),Residential Capacity (MW),232851
+57840,South Perth (C),Residential Capacity (MW),0
+36660,Southern Downs (R),Residential Capacity (MW),236351
+26260,Southern Grampians (S),Residential Capacity (MW),151881
+47290,Southern Mallee (DC),Residential Capacity (MW),50704
+65010,Southern Midlands (M),Residential Capacity (MW),45250
+57910,Stirling (C),Residential Capacity (MW),0
+26350,Stonnington (C),Residential Capacity (MW),0
+26430,Strathbogie (S),Residential Capacity (MW),125725
+17100,Strathfield (A),Residential Capacity (MW),0
+47490,Streaky Bay (DC),Residential Capacity (MW),29639
+57980,Subiaco (C),Residential Capacity (MW),0
+36720,Sunshine Coast (R),Residential Capacity (MW),412889
+26490,Surf Coast (S),Residential Capacity (MW),82878
+17150,Sutherland Shire (A),Residential Capacity (MW),301788
+58050,Swan (C),Residential Capacity (MW),151329
+26610,Swan Hill (RC),Residential Capacity (MW),155902
+17200,Sydney (C),Residential Capacity (MW),0
+36820,Tablelands (R),Residential Capacity (MW),150931
+58190,Tammin (S),Residential Capacity (MW),12929
+17310,Tamworth Regional (A),Residential Capacity (MW),276233
+65210,Tasman (M),Residential Capacity (MW),20241
+47630,Tatiara (DC),Residential Capacity (MW),90815
+47700,Tea Tree Gully (C),Residential Capacity (MW),1654
+17350,Temora (A),Residential Capacity (MW),68568
+17400,Tenterfield (A),Residential Capacity (MW),60534
+47800,The Coorong (DC),Residential Capacity (MW),100723
+17420,The Hills Shire (A),Residential Capacity (MW),79761
+58260,Three Springs (S),Residential Capacity (MW),15424
+74050,Tiwi Islands (R),Residential Capacity (MW),2873
+58330,Toodyay (S),Residential Capacity (MW),35621
+36910,Toowoomba (R),Residential Capacity (MW),505305
+36950,Torres (S),Residential Capacity (MW),0
+36960,Torres Strait Island (R),Residential Capacity (MW),0
+37010,Townsville (C),Residential Capacity (MW),136743
+26670,Towong (S),Residential Capacity (MW),62963
+58400,Trayning (S),Residential Capacity (MW),12348
+47910,Tumby Bay (DC),Residential Capacity (MW),20578
+17550,Tweed (A),Residential Capacity (MW),128179
+99399,Unincorp. Other Territories,Residential Capacity (MW),606
+89399,Unincorporated ACT,Residential Capacity (MW),3198
+19399,Unincorporated NSW,Residential Capacity (MW),1397
+79399,Unincorporated NT,Residential Capacity (MW),4773
+49399,Unincorporated SA,Residential Capacity (MW),3191
+29399,Unincorporated Vic,Residential Capacity (MW),7097
+47980,Unley (C),Residential Capacity (MW),0
+58470,Upper Gascoyne (S),Residential Capacity (MW),0
+17620,Upper Hunter Shire (A),Residential Capacity (MW),121056
+17640,Upper Lachlan Shire (A),Residential Capacity (MW),99543
+17650,Uralla (A),Residential Capacity (MW),52067
+48050,Victor Harbor (C),Residential Capacity (MW),20907
+74550,Victoria Daly (R),Residential Capacity (MW),2728
+58510,Victoria Park (T),Residential Capacity (MW),0
+58540,Victoria Plains (S),Residential Capacity (MW),38115
+58570,Vincent (C),Residential Capacity (MW),0
+74560,Wagait (S),Residential Capacity (MW),414
+17750,Wagga Wagga (C),Residential Capacity (MW),166240
+58610,Wagin (S),Residential Capacity (MW),33588
+48130,Wakefield (DC),Residential Capacity (MW),111471
+17850,Walcha (A),Residential Capacity (MW),52399
+17900,Walgett (A),Residential Capacity (MW),77092
+48260,Walkerville (M),Residential Capacity (MW),0
+58680,Wandering (S),Residential Capacity (MW),8938
+26700,Wangaratta (RC),Residential Capacity (MW),151364
+58760,Wanneroo (C),Residential Capacity (MW),109911
+65410,Waratah/Wynyard (M),Residential Capacity (MW),61278
+58820,Waroona (S),Residential Capacity (MW),18447
+17950,Warren (A),Residential Capacity (MW),29444
+26730,Warrnambool (C),Residential Capacity (MW),28569
+18020,Warrumbungle Shire (A),Residential Capacity (MW),116761
+48340,Wattle Range (DC),Residential Capacity (MW),99886
+18050,Waverley (A),Residential Capacity (MW),0
+18100,Weddin (A),Residential Capacity (MW),52792
+37300,Weipa (T),Residential Capacity (MW),6103
+26810,Wellington (S),Residential Capacity (MW),217086
+18200,Wentworth (A),Residential Capacity (MW),62978
+74660,West Arnhem (R),Residential Capacity (MW),5677
+58890,West Arthur (S),Residential Capacity (MW),24577
+65610,West Coast (M),Residential Capacity (MW),11974
+74680,West Daly (R),Residential Capacity (MW),2841
+65810,West Tamar (M),Residential Capacity (MW),35651
+48410,West Torrens (C),Residential Capacity (MW),0
+26890,West Wimmera (S),Residential Capacity (MW),84243
+37310,Western Downs (R),Residential Capacity (MW),348553
+18230,Western Plains Regional (A),Residential Capacity (MW),146367
+59030,Westonia (S),Residential Capacity (MW),160
+26980,Whitehorse (C),Residential Capacity (MW),0
+37340,Whitsunday (R),Residential Capacity (MW),128499
+27070,Whittlesea (C),Residential Capacity (MW),65811
+48540,Whyalla (C),Residential Capacity (MW),0
+59100,Wickepin (S),Residential Capacity (MW),18120
+59170,Williams (S),Residential Capacity (MW),30853
+18250,Willoughby (C),Residential Capacity (MW),32922
+59250,Wiluna (S),Residential Capacity (MW),15435
+18350,Wingecarribee (A),Residential Capacity (MW),79132
+37400,Winton (S),Residential Capacity (MW),18523
+27170,Wodonga (C),Residential Capacity (MW),33872
+18400,Wollondilly (A),Residential Capacity (MW),208994
+18450,Wollongong (C),Residential Capacity (MW),35570
+59310,Wongan-Ballidu (S),Residential Capacity (MW),33028
+59320,Woodanilling (S),Residential Capacity (MW),14828
+18500,Woollahra (A),Residential Capacity (MW),0
+37550,Woorabinda (S),Residential Capacity (MW),40
+48640,Wudinna (DC),Residential Capacity (MW),34324
+37570,Wujal Wujal (S),Residential Capacity (MW),627
+59330,Wyalkatchem (S),Residential Capacity (MW),13467
+27260,Wyndham (C),Residential Capacity (MW),58222
+59340,Wyndham-East Kimberley (S),Residential Capacity (MW),18162
+59350,Yalgoo (S),Residential Capacity (MW),12885
+48750,Yankalilla (DC),Residential Capacity (MW),476
+27350,Yarra (C),Residential Capacity (MW),0
+27450,Yarra Ranges (S),Residential Capacity (MW),"543,349"
+37600,Yarrabah (S),Residential Capacity (MW),"11,181"
+27630,Yarriambiack (S),Residential Capacity (MW),"120,164"
+18710,Yass Valley (A),Residential Capacity (MW),"76,694"
+59360,Yilgarn (S),Residential Capacity (MW),"32,278"
+59370,York (S),Residential Capacity (MW),"42,725"
+48830,Yorke Peninsula (DC),Residential Capacity (MW),"128,461"
+40070,Adelaide (C),Rural / Primacy Production Capacity (MW),0
+40120,Adelaide Hills (DC),Rural / Primacy Production Capacity (MW),0
+50080,Albany (C),Rural / Primacy Production Capacity (MW),4456
+10050,Albury (C),Rural / Primacy Production Capacity (MW),79
+40220,Alexandrina (DC),Rural / Primacy Production Capacity (MW),0
+70200,Alice Springs (T),Rural / Primacy Production Capacity (MW),2123
+20110,Alpine (S),Rural / Primacy Production Capacity (MW),3608
+40250,Anangu Pitjantjatjara (AC),Rural / Primacy Production Capacity (MW),0
+20260,Ararat (RC),Rural / Primacy Production Capacity (MW),103
+50210,Armadale (C),Rural / Primacy Production Capacity (MW),148523
+10130,Armidale Regional (A),Rural / Primacy Production Capacity (MW),0
+50250,Ashburton (S),Rural / Primacy Production Capacity (MW),2391
+50280,Augusta-Margaret River (S),Rural / Primacy Production Capacity (MW),6294
+30250,Aurukun (S),Rural / Primacy Production Capacity (MW),16
+20570,Ballarat (C),Rural / Primacy Production Capacity (MW),37014
+10250,Ballina (A),Rural / Primacy Production Capacity (MW),0
+30300,Balonne (S),Rural / Primacy Production Capacity (MW),0
+10300,Balranald (A),Rural / Primacy Production Capacity (MW),0
+30370,Banana (S),Rural / Primacy Production Capacity (MW),6746
+20660,Banyule (C),Rural / Primacy Production Capacity (MW),23846
+30410,Barcaldine (R),Rural / Primacy Production Capacity (MW),0
+30450,Barcoo (S),Rural / Primacy Production Capacity (MW),0
+70420,Barkly (R),Rural / Primacy Production Capacity (MW),163
+40310,Barossa (DC),Rural / Primacy Production Capacity (MW),0
+40430,Barunga West (DC),Rural / Primacy Production Capacity (MW),0
+20740,Bass Coast (S),Rural / Primacy Production Capacity (MW),1069
+50350,Bassendean (T),Rural / Primacy Production Capacity (MW),0
+10470,Bathurst Regional (A),Rural / Primacy Production Capacity (MW),0
+20830,Baw Baw (S),Rural / Primacy Production Capacity (MW),12974
+20910,Bayside (C),Rural / Primacy Production Capacity (MW),1894
+50420,Bayswater (C),Rural / Primacy Production Capacity (MW),2952
+10550,Bega Valley (A),Rural / Primacy Production Capacity (MW),0
+10600,Bellingen (A),Rural / Primacy Production Capacity (MW),0
+50490,Belmont (C),Rural / Primacy Production Capacity (MW),11104
+70540,Belyuen (S),Rural / Primacy Production Capacity (MW),20
+40520,Berri and Barmera (DC),Rural / Primacy Production Capacity (MW),0
+10650,Berrigan (A),Rural / Primacy Production Capacity (MW),1
+50560,Beverley (S),Rural / Primacy Production Capacity (MW),3
+30760,Blackall-Tambo (R),Rural / Primacy Production Capacity (MW),0
+10750,Blacktown (C),Rural / Primacy Production Capacity (MW),80
+10800,Bland (A),Rural / Primacy Production Capacity (MW),0
+10850,Blayney (A),Rural / Primacy Production Capacity (MW),0
+10900,Blue Mountains (C),Rural / Primacy Production Capacity (MW),54
+50630,Boddington (S),Rural / Primacy Production Capacity (MW),170
+10950,Bogan (A),Rural / Primacy Production Capacity (MW),0
+21110,Boroondara (C),Rural / Primacy Production Capacity (MW),3887
+11100,Botany Bay (C),Rural / Primacy Production Capacity (MW),4244
+30900,Boulia (S),Rural / Primacy Production Capacity (MW),0
+11150,Bourke (A),Rural / Primacy Production Capacity (MW),0
+50770,Boyup Brook (S),Rural / Primacy Production Capacity (MW),1601
+60210,Break O'Day (M),Rural / Primacy Production Capacity (MW),358
+11200,Brewarrina (A),Rural / Primacy Production Capacity (MW),0
+60410,Brighton (M),Rural / Primacy Production Capacity (MW),1778
+21180,Brimbank (C),Rural / Primacy Production Capacity (MW),52423
+31000,Brisbane (C),Rural / Primacy Production Capacity (MW),65900
+11250,Broken Hill (C),Rural / Primacy Production Capacity (MW),0
+50910,Brookton (S),Rural / Primacy Production Capacity (MW),0
+50980,Broome (S),Rural / Primacy Production Capacity (MW),6730
+51080,Broomehill-Tambellup (S),Rural / Primacy Production Capacity (MW),237
+51120,Bruce Rock (S),Rural / Primacy Production Capacity (MW),1096
+31750,Bulloo (S),Rural / Primacy Production Capacity (MW),0
+21270,Buloke (S),Rural / Primacy Production Capacity (MW),38
+51190,Bunbury (C),Rural / Primacy Production Capacity (MW),76769
+31820,Bundaberg (R),Rural / Primacy Production Capacity (MW),1950
+31900,Burdekin (S),Rural / Primacy Production Capacity (MW),0
+31950,Burke (S),Rural / Primacy Production Capacity (MW),0
+60610,Burnie (C),Rural / Primacy Production Capacity (MW),0
+40700,Burnside (C),Rural / Primacy Production Capacity (MW),0
+11300,Burwood (A),Rural / Primacy Production Capacity (MW),0
+51260,Busselton (C),Rural / Primacy Production Capacity (MW),18786
+11350,Byron (A),Rural / Primacy Production Capacity (MW),0
+11400,Cabonne (A),Rural / Primacy Production Capacity (MW),3
+32080,Cairns (R),Rural / Primacy Production Capacity (MW),25
+51310,Cambridge (T),Rural / Primacy Production Capacity (MW),1257
+11450,Camden (A),Rural / Primacy Production Capacity (MW),0
+21370,Campaspe (S),Rural / Primacy Production Capacity (MW),1539
+11500,Campbelltown (C) (NSW),Rural / Primacy Production Capacity (MW),0
+40910,Campbelltown (C) (SA),Rural / Primacy Production Capacity (MW),0
+11520,Canada Bay (A),Rural / Primacy Production Capacity (MW),0
+51330,Canning (C),Rural / Primacy Production Capacity (MW),29030
+11570,Canterbury-Bankstown (A),Rural / Primacy Production Capacity (MW),0
+51400,Capel (S),Rural / Primacy Production Capacity (MW),28410
+21450,Cardinia (S),Rural / Primacy Production Capacity (MW),188004
+51470,Carnamah (S),Rural / Primacy Production Capacity (MW),469
+51540,Carnarvon (S),Rural / Primacy Production Capacity (MW),1773
+32250,Carpentaria (S),Rural / Primacy Production Capacity (MW),0
+11600,Carrathool (A),Rural / Primacy Production Capacity (MW),0
+21610,Casey (C),Rural / Primacy Production Capacity (MW),234157
+32260,Cassowary Coast (R),Rural / Primacy Production Capacity (MW),36
+41010,Ceduna (DC),Rural / Primacy Production Capacity (MW),0
+11650,Central Coast (C) (NSW),Rural / Primacy Production Capacity (MW),0
+60810,Central Coast (M) (Tas.),Rural / Primacy Production Capacity (MW),0
+11700,Central Darling (A),Rural / Primacy Production Capacity (MW),0
+70620,Central Desert (R),Rural / Primacy Production Capacity (MW),117
+21670,Central Goldfields (S),Rural / Primacy Production Capacity (MW),132
+61010,Central Highlands (M) (Tas.),Rural / Primacy Production Capacity (MW),466
+32270,Central Highlands (R) (Qld),Rural / Primacy Production Capacity (MW),902
+11720,Cessnock (C),Rural / Primacy Production Capacity (MW),0
+41060,Charles Sturt (C),Rural / Primacy Production Capacity (MW),0
+32310,Charters Towers (R),Rural / Primacy Production Capacity (MW),0
+32330,Cherbourg (S),Rural / Primacy Production Capacity (MW),0
+51680,Chittering (S),Rural / Primacy Production Capacity (MW),17272
+61210,Circular Head (M),Rural / Primacy Production Capacity (MW),0
+41140,Clare and Gilbert Valleys (DC),Rural / Primacy Production Capacity (MW),0
+51750,Claremont (T),Rural / Primacy Production Capacity (MW),3513
+61410,Clarence (C),Rural / Primacy Production Capacity (MW),3239
+11730,Clarence Valley (A),Rural / Primacy Production Capacity (MW),0
+41190,Cleve (DC),Rural / Primacy Production Capacity (MW),0
+32450,Cloncurry (S),Rural / Primacy Production Capacity (MW),0
+11750,Cobar (A),Rural / Primacy Production Capacity (MW),0
+51820,Cockburn (C),Rural / Primacy Production Capacity (MW),338507
+11800,Coffs Harbour (C),Rural / Primacy Production Capacity (MW),0
+21750,Colac-Otway (S),Rural / Primacy Production Capacity (MW),61
+51890,Collie (S),Rural / Primacy Production Capacity (MW),4491
+41330,Coober Pedy (DC),Rural / Primacy Production Capacity (MW),0
+32500,Cook (S),Rural / Primacy Production Capacity (MW),11
+12000,Coolamon (A),Rural / Primacy Production Capacity (MW),0
+51960,Coolgardie (S),Rural / Primacy Production Capacity (MW),759
+70700,Coomalie (S),Rural / Primacy Production Capacity (MW),47
+12150,Coonamble (A),Rural / Primacy Production Capacity (MW),0
+52030,Coorow (S),Rural / Primacy Production Capacity (MW),326
+41560,Copper Coast (DC),Rural / Primacy Production Capacity (MW),0
+21830,Corangamite (S),Rural / Primacy Production Capacity (MW),2106
+52100,Corrigin (S),Rural / Primacy Production Capacity (MW),0
+52170,Cottesloe (T),Rural / Primacy Production Capacity (MW),1313
+12350,Cowra (A),Rural / Primacy Production Capacity (MW),0
+32600,Croydon (S),Rural / Primacy Production Capacity (MW),4
+52310,Cuballing (S),Rural / Primacy Production Capacity (MW),20
+52380,Cue (S),Rural / Primacy Production Capacity (MW),159
+12380,Cumberland (A),Rural / Primacy Production Capacity (MW),0
+52450,Cunderdin (S),Rural / Primacy Production Capacity (MW),80
+52520,Dalwallinu (S),Rural / Primacy Production Capacity (MW),2230
+52590,Dandaragan (S),Rural / Primacy Production Capacity (MW),6623
+52660,Dardanup (S),Rural / Primacy Production Capacity (MW),17360
+21890,Darebin (C),Rural / Primacy Production Capacity (MW),7184
+71000,Darwin (C),Rural / Primacy Production Capacity (MW),50355
+52730,Denmark (S),Rural / Primacy Production Capacity (MW),0
+52800,Derby-West Kimberley (S),Rural / Primacy Production Capacity (MW),568
+61510,Derwent Valley (M),Rural / Primacy Production Capacity (MW),2514
+61610,Devonport (C),Rural / Primacy Production Capacity (MW),0
+32750,Diamantina (S),Rural / Primacy Production Capacity (MW),0
+52870,Donnybrook-Balingup (S),Rural / Primacy Production Capacity (MW),786
+32770,Doomadgee (S),Rural / Primacy Production Capacity (MW),0
+61810,Dorset (M),Rural / Primacy Production Capacity (MW),3032
+32810,Douglas (S),Rural / Primacy Production Capacity (MW),2
+52940,Dowerin (S),Rural / Primacy Production Capacity (MW),389
+53010,Dumbleyung (S),Rural / Primacy Production Capacity (MW),415
+53080,Dundas (S),Rural / Primacy Production Capacity (MW),115
+12700,Dungog (A),Rural / Primacy Production Capacity (MW),0
+71300,East Arnhem (R),Rural / Primacy Production Capacity (MW),780
+53150,East Fremantle (T),Rural / Primacy Production Capacity (MW),0
+22110,East Gippsland (S),Rural / Primacy Production Capacity (MW),1589
+53220,East Pilbara (S),Rural / Primacy Production Capacity (MW),4609
+12730,Edward River (A),Rural / Primacy Production Capacity (MW),0
+41750,Elliston (DC),Rural / Primacy Production Capacity (MW),0
+53290,Esperance (S),Rural / Primacy Production Capacity (MW),8422
+33100,Etheridge (S),Rural / Primacy Production Capacity (MW),11
+12750,Eurobodalla (A),Rural / Primacy Production Capacity (MW),0
+53360,Exmouth (S),Rural / Primacy Production Capacity (MW),4777
+12850,Fairfield (C),Rural / Primacy Production Capacity (MW),0
+12870,Federation (A),Rural / Primacy Production Capacity (MW),0
+62010,Flinders (M) (Tas.),Rural / Primacy Production Capacity (MW),0
+33200,Flinders (S) (Qld),Rural / Primacy Production Capacity (MW),0
+41830,Flinders Ranges (DC),Rural / Primacy Production Capacity (MW),0
+12900,Forbes (A),Rural / Primacy Production Capacity (MW),3
+41960,Franklin Harbour (DC),Rural / Primacy Production Capacity (MW),0
+22170,Frankston (C),Rural / Primacy Production Capacity (MW),30085
+33220,Fraser Coast (R),Rural / Primacy Production Capacity (MW),10225
+53430,Fremantle (C),Rural / Primacy Production Capacity (MW),13608
+22250,Gannawarra (S),Rural / Primacy Production Capacity (MW),439
+42030,Gawler (T),Rural / Primacy Production Capacity (MW),0
+62210,George Town (M),Rural / Primacy Production Capacity (MW),0
+12930,Georges River (A),Rural / Primacy Production Capacity (MW),0
+12950,Gilgandra (A),Rural / Primacy Production Capacity (MW),0
+53570,Gingin (S),Rural / Primacy Production Capacity (MW),603
+33360,Gladstone (R),Rural / Primacy Production Capacity (MW),15922
+62410,Glamorgan/Spring Bay (M),Rural / Primacy Production Capacity (MW),3550
+13010,Glen Innes Severn (A),Rural / Primacy Production Capacity (MW),0
+22410,Glenelg (S),Rural / Primacy Production Capacity (MW),461
+62610,Glenorchy (C),Rural / Primacy Production Capacity (MW),1791
+53640,Gnowangerup (S),Rural / Primacy Production Capacity (MW),1893
+33430,Gold Coast (C),Rural / Primacy Production Capacity (MW),206629
+22490,Golden Plains (S),Rural / Primacy Production Capacity (MW),2487
+53710,Goomalling (S),Rural / Primacy Production Capacity (MW),152
+33610,Goondiwindi (R),Rural / Primacy Production Capacity (MW),2
+53780,Gosnells (C),Rural / Primacy Production Capacity (MW),14171
+13310,Goulburn Mulwaree (A),Rural / Primacy Production Capacity (MW),0
+42110,Goyder (DC),Rural / Primacy Production Capacity (MW),0
+42250,Grant (DC),Rural / Primacy Production Capacity (MW),0
+22620,Greater Bendigo (C),Rural / Primacy Production Capacity (MW),8040
+22670,Greater Dandenong (C),Rural / Primacy Production Capacity (MW),29875
+22750,Greater Geelong (C),Rural / Primacy Production Capacity (MW),105714
+53800,Greater Geraldton (C),Rural / Primacy Production Capacity (MW),15513
+13340,Greater Hume Shire (A),Rural / Primacy Production Capacity (MW),0
+22830,Greater Shepparton (C),Rural / Primacy Production Capacity (MW),37968
+13450,Griffith (C),Rural / Primacy Production Capacity (MW),0
+13510,Gundagai (A),Rural / Primacy Production Capacity (MW),0
+13550,Gunnedah (A),Rural / Primacy Production Capacity (MW),0
+13660,Gwydir (A),Rural / Primacy Production Capacity (MW),0
+33620,Gympie (R),Rural / Primacy Production Capacity (MW),89
+53920,Halls Creek (S),Rural / Primacy Production Capacity (MW),17
+53990,Harvey (S),Rural / Primacy Production Capacity (MW),2988
+13800,Hawkesbury (C),Rural / Primacy Production Capacity (MW),0
+13850,Hay (A),Rural / Primacy Production Capacity (MW),0
+22910,Hepburn (S),Rural / Primacy Production Capacity (MW),987
+13910,Hilltops (A),Rural / Primacy Production Capacity (MW),0
+33800,Hinchinbrook (S),Rural / Primacy Production Capacity (MW),0
+22980,Hindmarsh (S),Rural / Primacy Production Capacity (MW),1
+62810,Hobart (C),Rural / Primacy Production Capacity (MW),10676
+23110,Hobsons Bay (C),Rural / Primacy Production Capacity (MW),116362
+42600,Holdfast Bay (C),Rural / Primacy Production Capacity (MW),0
+33830,Hope Vale (S),Rural / Primacy Production Capacity (MW),0
+14000,Hornsby (A),Rural / Primacy Production Capacity (MW),0
+23190,Horsham (RC),Rural / Primacy Production Capacity (MW),1414
+23270,Hume (C),Rural / Primacy Production Capacity (MW),431352
+63010,Huon Valley (M),Rural / Primacy Production Capacity (MW),1965
+23350,Indigo (S),Rural / Primacy Production Capacity (MW),6782
+14170,Inner West (A),Rural / Primacy Production Capacity (MW),0
+14200,Inverell (A),Rural / Primacy Production Capacity (MW),0
+33960,Ipswich (C),Rural / Primacy Production Capacity (MW),75020
+54060,Irwin (S),Rural / Primacy Production Capacity (MW),2806
+33980,Isaac (R),Rural / Primacy Production Capacity (MW),277
+54130,Jerramungup (S),Rural / Primacy Production Capacity (MW),2091
+54170,Joondalup (C),Rural / Primacy Production Capacity (MW),62987
+14300,Junee (A),Rural / Primacy Production Capacity (MW),0
+54200,Kalamunda (S),Rural / Primacy Production Capacity (MW),71580
+54280,Kalgoorlie/Boulder (C),Rural / Primacy Production Capacity (MW),669
+42750,Kangaroo Island (DC),Rural / Primacy Production Capacity (MW),0
+43080,Karoonda East Murray (DC),Rural / Primacy Production Capacity (MW),0
+54310,Karratha (C),Rural / Primacy Production Capacity (MW),61833
+54340,Katanning (S),Rural / Primacy Production Capacity (MW),2909
+72200,Katherine (T),Rural / Primacy Production Capacity (MW),789
+54410,Kellerberrin (S),Rural / Primacy Production Capacity (MW),288
+14350,Kempsey (A),Rural / Primacy Production Capacity (MW),0
+54480,Kent (S),Rural / Primacy Production Capacity (MW),67
+63210,Kentish (M),Rural / Primacy Production Capacity (MW),0
+14400,Kiama (A),Rural / Primacy Production Capacity (MW),0
+43220,Kimba (DC),Rural / Primacy Production Capacity (MW),0
+63410,King Island (M),Rural / Primacy Production Capacity (MW),0
+63610,Kingborough (M),Rural / Primacy Production Capacity (MW),49
+23430,Kingston (C) (Vic.),Rural / Primacy Production Capacity (MW),46283
+43360,Kingston (DC) (SA),Rural / Primacy Production Capacity (MW),0
+23670,Knox (C),Rural / Primacy Production Capacity (MW),10568
+54550,Kojonup (S),Rural / Primacy Production Capacity (MW),129
+54620,Kondinin (S),Rural / Primacy Production Capacity (MW),67
+54690,Koorda (S),Rural / Primacy Production Capacity (MW),0
+34420,Kowanyama (S),Rural / Primacy Production Capacity (MW),13
+54760,Kulin (S),Rural / Primacy Production Capacity (MW),796
+14500,Ku-ring-gai (A),Rural / Primacy Production Capacity (MW),0
+54830,Kwinana (C),Rural / Primacy Production Capacity (MW),39178
+14550,Kyogle (A),Rural / Primacy Production Capacity (MW),0
+14600,Lachlan (A),Rural / Primacy Production Capacity (MW),0
+54900,Lake Grace (S),Rural / Primacy Production Capacity (MW),659
+14650,Lake Macquarie (C),Rural / Primacy Production Capacity (MW),0
+14700,Lane Cove (A),Rural / Primacy Production Capacity (MW),0
+23810,Latrobe (C) (Vic.),Rural / Primacy Production Capacity (MW),7402
+63810,Latrobe (M) (Tas.),Rural / Primacy Production Capacity (MW),0
+64010,Launceston (C),Rural / Primacy Production Capacity (MW),13803
+54970,Laverton (S),Rural / Primacy Production Capacity (MW),724
+14750,Leeton (A),Rural / Primacy Production Capacity (MW),0
+55040,Leonora (S),Rural / Primacy Production Capacity (MW),58
+43650,Light (RegC),Rural / Primacy Production Capacity (MW),0
+14850,Lismore (C),Rural / Primacy Production Capacity (MW),0
+72300,Litchfield (M),Rural / Primacy Production Capacity (MW),2240
+14870,Lithgow (C),Rural / Primacy Production Capacity (MW),0
+14900,Liverpool (C),Rural / Primacy Production Capacity (MW),1137
+14920,Liverpool Plains (A),Rural / Primacy Production Capacity (MW),0
+34530,Livingstone (S),Rural / Primacy Production Capacity (MW),15580
+14950,Lockhart (A),Rural / Primacy Production Capacity (MW),0
+34570,Lockhart River (S),Rural / Primacy Production Capacity (MW),6
+34580,Lockyer Valley (R),Rural / Primacy Production Capacity (MW),2897
+23940,Loddon (S),Rural / Primacy Production Capacity (MW),80
+34590,Logan (C),Rural / Primacy Production Capacity (MW),1902
+34710,Longreach (R),Rural / Primacy Production Capacity (MW),0
+43710,Lower Eyre Peninsula (DC),Rural / Primacy Production Capacity (MW),0
+43790,Loxton Waikerie (DC),Rural / Primacy Production Capacity (MW),0
+72330,MacDonnell (R),Rural / Primacy Production Capacity (MW),0
+24130,Macedon Ranges (S),Rural / Primacy Production Capacity (MW),2234
+34770,Mackay (R),Rural / Primacy Production Capacity (MW),25289
+15050,Maitland (C),Rural / Primacy Production Capacity (MW),0
+43920,Mallala (DC),Rural / Primacy Production Capacity (MW),0
+55110,Mandurah (C),Rural / Primacy Production Capacity (MW),308080
+55180,Manjimup (S),Rural / Primacy Production Capacity (MW),9147
+24210,Manningham (C),Rural / Primacy Production Capacity (MW),19199
+24250,Mansfield (S),Rural / Primacy Production Capacity (MW),5715
+34830,Mapoon (S),Rural / Primacy Production Capacity (MW),0
+44000,Maralinga Tjarutja (AC),Rural / Primacy Production Capacity (MW),0
+34860,Maranoa (R),Rural / Primacy Production Capacity (MW),6265
+34880,Mareeba (S),Rural / Primacy Production Capacity (MW),3238
+24330,Maribyrnong (C),Rural / Primacy Production Capacity (MW),42427
+44060,Marion (C),Rural / Primacy Production Capacity (MW),0
+24410,Maroondah (C),Rural / Primacy Production Capacity (MW),272
+34800,McKinlay (S),Rural / Primacy Production Capacity (MW),0
+64210,Meander Valley (M),Rural / Primacy Production Capacity (MW),532
+55250,Meekatharra (S),Rural / Primacy Production Capacity (MW),0
+24600,Melbourne (C),Rural / Primacy Production Capacity (MW),174268
+24650,Melton (C),Rural / Primacy Production Capacity (MW),43977
+55320,Melville (C),Rural / Primacy Production Capacity (MW),7479
+55390,Menzies (S),Rural / Primacy Production Capacity (MW),341
+55460,Merredin (S),Rural / Primacy Production Capacity (MW),836
+44210,Mid Murray (DC),Rural / Primacy Production Capacity (MW),0
+15240,Mid-Coast (A),Rural / Primacy Production Capacity (MW),0
+15270,Mid-Western Regional (A),Rural / Primacy Production Capacity (MW),0
+24780,Mildura (RC),Rural / Primacy Production Capacity (MW),11724
+55530,Mingenew (S),Rural / Primacy Production Capacity (MW),30
+44340,Mitcham (C),Rural / Primacy Production Capacity (MW),0
+24850,Mitchell (S),Rural / Primacy Production Capacity (MW),24103
+24900,Moira (S),Rural / Primacy Production Capacity (MW),10
+24970,Monash (C),Rural / Primacy Production Capacity (MW),135765
+25060,Moonee Valley (C),Rural / Primacy Production Capacity (MW),48700
+55600,Moora (S),Rural / Primacy Production Capacity (MW),15
+25150,Moorabool (S),Rural / Primacy Production Capacity (MW),2387
+55670,Morawa (S),Rural / Primacy Production Capacity (MW),446
+15300,Moree Plains (A),Rural / Primacy Production Capacity (MW),0
+25250,Moreland (C),Rural / Primacy Production Capacity (MW),15935
+35010,Moreton Bay (R),Rural / Primacy Production Capacity (MW),884
+35250,Mornington (S),Rural / Primacy Production Capacity (MW),14
+25340,Mornington Peninsula (S),Rural / Primacy Production Capacity (MW),49744
+15350,Mosman (A),Rural / Primacy Production Capacity (MW),0
+55740,Mosman Park (T),Rural / Primacy Production Capacity (MW),3074
+25430,Mount Alexander (S),Rural / Primacy Production Capacity (MW),2
+44550,Mount Barker (DC),Rural / Primacy Production Capacity (MW),0
+44620,Mount Gambier (C),Rural / Primacy Production Capacity (MW),0
+35300,Mount Isa (C),Rural / Primacy Production Capacity (MW),0
+55810,Mount Magnet (S),Rural / Primacy Production Capacity (MW),232
+55880,Mount Marshall (S),Rural / Primacy Production Capacity (MW),0
+44830,Mount Remarkable (DC),Rural / Primacy Production Capacity (MW),0
+25490,Moyne (S),Rural / Primacy Production Capacity (MW),1525
+55950,Mukinbudin (S),Rural / Primacy Production Capacity (MW),137
+56090,Mundaring (S),Rural / Primacy Production Capacity (MW),6503
+56160,Murchison (S),Rural / Primacy Production Capacity (MW),13
+56230,Murray (S),Rural / Primacy Production Capacity (MW),38941
+45040,Murray Bridge (RC),Rural / Primacy Production Capacity (MW),0
+15520,Murray River (A),Rural / Primacy Production Capacity (MW),29
+25620,Murrindindi (S),Rural / Primacy Production Capacity (MW),305
+15560,Murrumbidgee (A),Rural / Primacy Production Capacity (MW),0
+35600,Murweh (S),Rural / Primacy Production Capacity (MW),0
+15650,Muswellbrook (A),Rural / Primacy Production Capacity (MW),0
+15700,Nambucca (A),Rural / Primacy Production Capacity (MW),0
+56300,Nannup (S),Rural / Primacy Production Capacity (MW),2508
+35670,Napranum (S),Rural / Primacy Production Capacity (MW),0
+45090,Naracoorte and Lucindale (DC),Rural / Primacy Production Capacity (MW),0
+56370,Narembeen (S),Rural / Primacy Production Capacity (MW),154
+15750,Narrabri (A),Rural / Primacy Production Capacity (MW),0
+15800,Narrandera (A),Rural / Primacy Production Capacity (MW),0
+56460,Narrogin (S),Rural / Primacy Production Capacity (MW),0
+15850,Narromine (A),Rural / Primacy Production Capacity (MW),0
+56580,Nedlands (C),Rural / Primacy Production Capacity (MW),6987
+15900,Newcastle (C),Rural / Primacy Production Capacity (MW),74663
+56620,Ngaanyatjarraku (S),Rural / Primacy Production Capacity (MW),389
+25710,Nillumbik (S),Rural / Primacy Production Capacity (MW),15502
+35740,Noosa (S),Rural / Primacy Production Capacity (MW),5887
+35760,North Burnett (R),Rural / Primacy Production Capacity (MW),0
+15950,North Sydney (A),Rural / Primacy Production Capacity (MW),0
+56730,Northam (S),Rural / Primacy Production Capacity (MW),4580
+56790,Northampton (S),Rural / Primacy Production Capacity (MW),3143
+45120,Northern Areas (DC),Rural / Primacy Production Capacity (MW),0
+15990,Northern Beaches (A),Rural / Primacy Production Capacity (MW),7602
+25810,Northern Grampians (S),Rural / Primacy Production Capacity (MW),170
+64610,Northern Midlands (M),Rural / Primacy Production Capacity (MW),311
+35780,Northern Peninsula Area (R),Rural / Primacy Production Capacity (MW),0
+45290,Norwood Payneham St Peters (C),Rural / Primacy Production Capacity (MW),0
+56860,Nungarin (S),Rural / Primacy Production Capacity (MW),0
+16100,Oberon (A),Rural / Primacy Production Capacity (MW),0
+45340,Onkaparinga (C),Rural / Primacy Production Capacity (MW),0
+16150,Orange (C),Rural / Primacy Production Capacity (MW),0
+45400,Orroroo/Carrieton (DC),Rural / Primacy Production Capacity (MW),0
+35790,Palm Island (S),Rural / Primacy Production Capacity (MW),0
+72800,Palmerston (C),Rural / Primacy Production Capacity (MW),11032
+16200,Parkes (A),Rural / Primacy Production Capacity (MW),655
+35800,Paroo (S),Rural / Primacy Production Capacity (MW),0
+16260,Parramatta (C),Rural / Primacy Production Capacity (MW),0
+16350,Penrith (C),Rural / Primacy Production Capacity (MW),1110
+56930,Peppermint Grove (S),Rural / Primacy Production Capacity (MW),255
+57000,Perenjori (S),Rural / Primacy Production Capacity (MW),467
+57080,Perth (C),Rural / Primacy Production Capacity (MW),186
+45540,Peterborough (DC),Rural / Primacy Production Capacity (MW),0
+57140,Pingelly (S),Rural / Primacy Production Capacity (MW),31
+57210,Plantagenet (S),Rural / Primacy Production Capacity (MW),2664
+45680,Playford (C),Rural / Primacy Production Capacity (MW),0
+36070,Pormpuraaw (S),Rural / Primacy Production Capacity (MW),8
+45890,Port Adelaide Enfield (C),Rural / Primacy Production Capacity (MW),0
+46090,Port Augusta (C),Rural / Primacy Production Capacity (MW),91
+57280,Port Hedland (T),Rural / Primacy Production Capacity (MW),10800
+46300,Port Lincoln (C),Rural / Primacy Production Capacity (MW),0
+16380,Port Macquarie-Hastings (A),Rural / Primacy Production Capacity (MW),0
+25900,Port Phillip (C),Rural / Primacy Production Capacity (MW),66017
+46450,Port Pirie City and Dists (M),Rural / Primacy Production Capacity (MW),0
+16400,Port Stephens (A),Rural / Primacy Production Capacity (MW),2174
+46510,Prospect (C),Rural / Primacy Production Capacity (MW),0
+25990,Pyrenees (S),Rural / Primacy Production Capacity (MW),595
+57350,Quairading (S),Rural / Primacy Production Capacity (MW),0
+16490,Queanbeyan-Palerang Regional (A),Rural / Primacy Production Capacity (MW),0
+26080,Queenscliffe (B),Rural / Primacy Production Capacity (MW),580
+36150,Quilpie (S),Rural / Primacy Production Capacity (MW),0
+16550,Randwick (C),Rural / Primacy Production Capacity (MW),11137
+57420,Ravensthorpe (S),Rural / Primacy Production Capacity (MW),1567
+36250,Redland (C),Rural / Primacy Production Capacity (MW),4078
+46670,Renmark Paringa (DC),Rural / Primacy Production Capacity (MW),0
+36300,Richmond (S),Rural / Primacy Production Capacity (MW),0
+16610,Richmond Valley (A),Rural / Primacy Production Capacity (MW),0
+46860,Robe (DC),Rural / Primacy Production Capacity (MW),0
+16650,Rockdale (C),Rural / Primacy Production Capacity (MW),0
+36370,Rockhampton (R),Rural / Primacy Production Capacity (MW),36735
+57490,Rockingham (C),Rural / Primacy Production Capacity (MW),412615
+73600,Roper Gulf (R),Rural / Primacy Production Capacity (MW),865
+46970,Roxby Downs (M),Rural / Primacy Production Capacity (MW),0
+16700,Ryde (C),Rural / Primacy Production Capacity (MW),0
+47140,Salisbury (C),Rural / Primacy Production Capacity (MW),0
+57630,Sandstone (S),Rural / Primacy Production Capacity (MW),0
+36510,Scenic Rim (R),Rural / Primacy Production Capacity (MW),614
+57700,Serpentine-Jarrahdale (S),Rural / Primacy Production Capacity (MW),147709
+57770,Shark Bay (S),Rural / Primacy Production Capacity (MW),3908
+16900,Shellharbour (C),Rural / Primacy Production Capacity (MW),0
+16950,Shoalhaven (C),Rural / Primacy Production Capacity (MW),0
+17000,Singleton (A),Rural / Primacy Production Capacity (MW),0
+17040,Snowy Monaro Regional (A),Rural / Primacy Production Capacity (MW),0
+17080,Snowy Valleys (A),Rural / Primacy Production Capacity (MW),0
+36580,Somerset (R),Rural / Primacy Production Capacity (MW),1169
+64810,Sorell (M),Rural / Primacy Production Capacity (MW),308
+36630,South Burnett (R),Rural / Primacy Production Capacity (MW),1430
+26170,South Gippsland (S),Rural / Primacy Production Capacity (MW),140
+57840,South Perth (C),Rural / Primacy Production Capacity (MW),5469
+36660,Southern Downs (R),Rural / Primacy Production Capacity (MW),13
+26260,Southern Grampians (S),Rural / Primacy Production Capacity (MW),278
+47290,Southern Mallee (DC),Rural / Primacy Production Capacity (MW),0
+65010,Southern Midlands (M),Rural / Primacy Production Capacity (MW),402
+57910,Stirling (C),Rural / Primacy Production Capacity (MW),117493
+26350,Stonnington (C),Rural / Primacy Production Capacity (MW),938
+26430,Strathbogie (S),Rural / Primacy Production Capacity (MW),1083
+17100,Strathfield (A),Rural / Primacy Production Capacity (MW),0
+47490,Streaky Bay (DC),Rural / Primacy Production Capacity (MW),0
+57980,Subiaco (C),Rural / Primacy Production Capacity (MW),3729
+36720,Sunshine Coast (R),Rural / Primacy Production Capacity (MW),31020
+26490,Surf Coast (S),Rural / Primacy Production Capacity (MW),14423
+17150,Sutherland Shire (A),Rural / Primacy Production Capacity (MW),0
+58050,Swan (C),Rural / Primacy Production Capacity (MW),349727
+26610,Swan Hill (RC),Rural / Primacy Production Capacity (MW),506
+17200,Sydney (C),Rural / Primacy Production Capacity (MW),1182
+36820,Tablelands (R),Rural / Primacy Production Capacity (MW),3835
+58190,Tammin (S),Rural / Primacy Production Capacity (MW),0
+17310,Tamworth Regional (A),Rural / Primacy Production Capacity (MW),0
+65210,Tasman (M),Rural / Primacy Production Capacity (MW),0
+47630,Tatiara (DC),Rural / Primacy Production Capacity (MW),0
+47700,Tea Tree Gully (C),Rural / Primacy Production Capacity (MW),0
+17350,Temora (A),Rural / Primacy Production Capacity (MW),0
+17400,Tenterfield (A),Rural / Primacy Production Capacity (MW),0
+47800,The Coorong (DC),Rural / Primacy Production Capacity (MW),0
+17420,The Hills Shire (A),Rural / Primacy Production Capacity (MW),0
+58260,Three Springs (S),Rural / Primacy Production Capacity (MW),0
+74050,Tiwi Islands (R),Rural / Primacy Production Capacity (MW),285
+58330,Toodyay (S),Rural / Primacy Production Capacity (MW),1495
+36910,Toowoomba (R),Rural / Primacy Production Capacity (MW),59150
+36950,Torres (S),Rural / Primacy Production Capacity (MW),0
+36960,Torres Strait Island (R),Rural / Primacy Production Capacity (MW),0
+37010,Townsville (C),Rural / Primacy Production Capacity (MW),47806
+26670,Towong (S),Rural / Primacy Production Capacity (MW),3609
+58400,Trayning (S),Rural / Primacy Production Capacity (MW),1119
+47910,Tumby Bay (DC),Rural / Primacy Production Capacity (MW),0
+17550,Tweed (A),Rural / Primacy Production Capacity (MW),0
+99399,Unincorp. Other Territories,Rural / Primacy Production Capacity (MW),0
+89399,Unincorporated ACT,Rural / Primacy Production Capacity (MW),107986
+19399,Unincorporated NSW,Rural / Primacy Production Capacity (MW),0
+79399,Unincorporated NT,Rural / Primacy Production Capacity (MW),6109
+49399,Unincorporated SA,Rural / Primacy Production Capacity (MW),0
+29399,Unincorporated Vic,Rural / Primacy Production Capacity (MW),868
+47980,Unley (C),Rural / Primacy Production Capacity (MW),0
+58470,Upper Gascoyne (S),Rural / Primacy Production Capacity (MW),0
+17620,Upper Hunter Shire (A),Rural / Primacy Production Capacity (MW),0
+17640,Upper Lachlan Shire (A),Rural / Primacy Production Capacity (MW),0
+17650,Uralla (A),Rural / Primacy Production Capacity (MW),0
+48050,Victor Harbor (C),Rural / Primacy Production Capacity (MW),0
+74550,Victoria Daly (R),Rural / Primacy Production Capacity (MW),361
+58510,Victoria Park (T),Rural / Primacy Production Capacity (MW),6233
+58540,Victoria Plains (S),Rural / Primacy Production Capacity (MW),610
+58570,Vincent (C),Rural / Primacy Production Capacity (MW),389
+74560,Wagait (S),Rural / Primacy Production Capacity (MW),41
+17750,Wagga Wagga (C),Rural / Primacy Production Capacity (MW),72
+58610,Wagin (S),Rural / Primacy Production Capacity (MW),0
+48130,Wakefield (DC),Rural / Primacy Production Capacity (MW),0
+17850,Walcha (A),Rural / Primacy Production Capacity (MW),0
+17900,Walgett (A),Rural / Primacy Production Capacity (MW),0
+48260,Walkerville (M),Rural / Primacy Production Capacity (MW),0
+58680,Wandering (S),Rural / Primacy Production Capacity (MW),13
+26700,Wangaratta (RC),Rural / Primacy Production Capacity (MW),3481
+58760,Wanneroo (C),Rural / Primacy Production Capacity (MW),714664
+65410,Waratah/Wynyard (M),Rural / Primacy Production Capacity (MW),62
+58820,Waroona (S),Rural / Primacy Production Capacity (MW),7815
+17950,Warren (A),Rural / Primacy Production Capacity (MW),0
+26730,Warrnambool (C),Rural / Primacy Production Capacity (MW),1722
+18020,Warrumbungle Shire (A),Rural / Primacy Production Capacity (MW),0
+48340,Wattle Range (DC),Rural / Primacy Production Capacity (MW),0
+18050,Waverley (A),Rural / Primacy Production Capacity (MW),0
+18100,Weddin (A),Rural / Primacy Production Capacity (MW),0
+37300,Weipa (T),Rural / Primacy Production Capacity (MW),0
+26810,Wellington (S),Rural / Primacy Production Capacity (MW),3654
+18200,Wentworth (A),Rural / Primacy Production Capacity (MW),39
+74660,West Arnhem (R),Rural / Primacy Production Capacity (MW),2998
+58890,West Arthur (S),Rural / Primacy Production Capacity (MW),55
+65610,West Coast (M),Rural / Primacy Production Capacity (MW),0
+74680,West Daly (R),Rural / Primacy Production Capacity (MW),376
+65810,West Tamar (M),Rural / Primacy Production Capacity (MW),1068
+48410,West Torrens (C),Rural / Primacy Production Capacity (MW),0
+26890,West Wimmera (S),Rural / Primacy Production Capacity (MW),63
+37310,Western Downs (R),Rural / Primacy Production Capacity (MW),4
+18230,Western Plains Regional (A),Rural / Primacy Production Capacity (MW),0
+59030,Westonia (S),Rural / Primacy Production Capacity (MW),10
+26980,Whitehorse (C),Rural / Primacy Production Capacity (MW),493
+37340,Whitsunday (R),Rural / Primacy Production Capacity (MW),19604
+27070,Whittlesea (C),Rural / Primacy Production Capacity (MW),142333
+48540,Whyalla (C),Rural / Primacy Production Capacity (MW),0
+59100,Wickepin (S),Rural / Primacy Production Capacity (MW),4
+59170,Williams (S),Rural / Primacy Production Capacity (MW),254
+18250,Willoughby (C),Rural / Primacy Production Capacity (MW),0
+59250,Wiluna (S),Rural / Primacy Production Capacity (MW),0
+18350,Wingecarribee (A),Rural / Primacy Production Capacity (MW),0
+37400,Winton (S),Rural / Primacy Production Capacity (MW),0
+27170,Wodonga (C),Rural / Primacy Production Capacity (MW),23092
+18400,Wollondilly (A),Rural / Primacy Production Capacity (MW),12
+18450,Wollongong (C),Rural / Primacy Production Capacity (MW),11802
+59310,Wongan-Ballidu (S),Rural / Primacy Production Capacity (MW),227
+59320,Woodanilling (S),Rural / Primacy Production Capacity (MW),15
+18500,Woollahra (A),Rural / Primacy Production Capacity (MW),0
+37550,Woorabinda (S),Rural / Primacy Production Capacity (MW),0
+48640,Wudinna (DC),Rural / Primacy Production Capacity (MW),0
+37570,Wujal Wujal (S),Rural / Primacy Production Capacity (MW),0
+59330,Wyalkatchem (S),Rural / Primacy Production Capacity (MW),74
+27260,Wyndham (C),Rural / Primacy Production Capacity (MW),125135
+59340,Wyndham-East Kimberley (S),Rural / Primacy Production Capacity (MW),336
+59350,Yalgoo (S),Rural / Primacy Production Capacity (MW),1406
+48750,Yankalilla (DC),Rural / Primacy Production Capacity (MW),0
+27350,Yarra (C),Rural / Primacy Production Capacity (MW),6963
+27450,Yarra Ranges (S),Rural / Primacy Production Capacity (MW),"10,409"
+37600,Yarrabah (S),Rural / Primacy Production Capacity (MW),31
+27630,Yarriambiack (S),Rural / Primacy Production Capacity (MW),"1,116"
+18710,Yass Valley (A),Rural / Primacy Production Capacity (MW),0
+59360,Yilgarn (S),Rural / Primacy Production Capacity (MW),"4,684"
+59370,York (S),Rural / Primacy Production Capacity (MW),"1,011"
+48830,Yorke Peninsula (DC),Rural / Primacy Production Capacity (MW),0
+40070,Adelaide (C),Industrial Capacity (MW),0
+40120,Adelaide Hills (DC),Industrial Capacity (MW),67869
+50080,Albany (C),Industrial Capacity (MW),19435
+10050,Albury (C),Industrial Capacity (MW),27781
+40220,Alexandrina (DC),Industrial Capacity (MW),12705
+70200,Alice Springs (T),Industrial Capacity (MW),0
+20110,Alpine (S),Industrial Capacity (MW),686
+40250,Anangu Pitjantjatjara (AC),Industrial Capacity (MW),67
+20260,Ararat (RC),Industrial Capacity (MW),1391
+50210,Armadale (C),Industrial Capacity (MW),2172
+10130,Armidale Regional (A),Industrial Capacity (MW),0
+50250,Ashburton (S),Industrial Capacity (MW),0
+50280,Augusta-Margaret River (S),Industrial Capacity (MW),0
+30250,Aurukun (S),Industrial Capacity (MW),105
+20570,Ballarat (C),Industrial Capacity (MW),19078
+10250,Ballina (A),Industrial Capacity (MW),1314
+30300,Balonne (S),Industrial Capacity (MW),0
+10300,Balranald (A),Industrial Capacity (MW),0
+30370,Banana (S),Industrial Capacity (MW),7807
+20660,Banyule (C),Industrial Capacity (MW),3781
+30410,Barcaldine (R),Industrial Capacity (MW),20954
+30450,Barcoo (S),Industrial Capacity (MW),3591
+70420,Barkly (R),Industrial Capacity (MW),115
+40310,Barossa (DC),Industrial Capacity (MW),51472
+40430,Barunga West (DC),Industrial Capacity (MW),9904
+20740,Bass Coast (S),Industrial Capacity (MW),54
+50350,Bassendean (T),Industrial Capacity (MW),0
+10470,Bathurst Regional (A),Industrial Capacity (MW),1540
+20830,Baw Baw (S),Industrial Capacity (MW),1123
+20910,Bayside (C),Industrial Capacity (MW),2807
+50420,Bayswater (C),Industrial Capacity (MW),1626
+10550,Bega Valley (A),Industrial Capacity (MW),10049
+10600,Bellingen (A),Industrial Capacity (MW),3
+50490,Belmont (C),Industrial Capacity (MW),10827
+70540,Belyuen (S),Industrial Capacity (MW),0
+40520,Berri and Barmera (DC),Industrial Capacity (MW),10786
+10650,Berrigan (A),Industrial Capacity (MW),587
+50560,Beverley (S),Industrial Capacity (MW),39
+30760,Blackall-Tambo (R),Industrial Capacity (MW),12441
+10750,Blacktown (C),Industrial Capacity (MW),8616
+10800,Bland (A),Industrial Capacity (MW),4
+10850,Blayney (A),Industrial Capacity (MW),20
+10900,Blue Mountains (C),Industrial Capacity (MW),1
+50630,Boddington (S),Industrial Capacity (MW),0
+10950,Bogan (A),Industrial Capacity (MW),0
+21110,Boroondara (C),Industrial Capacity (MW),1808
+11100,Botany Bay (C),Industrial Capacity (MW),17475
+30900,Boulia (S),Industrial Capacity (MW),1221
+11150,Bourke (A),Industrial Capacity (MW),106
+50770,Boyup Brook (S),Industrial Capacity (MW),17
+60210,Break O'Day (M),Industrial Capacity (MW),1775
+11200,Brewarrina (A),Industrial Capacity (MW),0
+60410,Brighton (M),Industrial Capacity (MW),7246
+21180,Brimbank (C),Industrial Capacity (MW),809
+31000,Brisbane (C),Industrial Capacity (MW),265415
+11250,Broken Hill (C),Industrial Capacity (MW),5632
+50910,Brookton (S),Industrial Capacity (MW),1326
+50980,Broome (S),Industrial Capacity (MW),4649
+51080,Broomehill-Tambellup (S),Industrial Capacity (MW),0
+51120,Bruce Rock (S),Industrial Capacity (MW),0
+31750,Bulloo (S),Industrial Capacity (MW),189
+21270,Buloke (S),Industrial Capacity (MW),0
+51190,Bunbury (C),Industrial Capacity (MW),0
+31820,Bundaberg (R),Industrial Capacity (MW),14193
+31900,Burdekin (S),Industrial Capacity (MW),14076
+31950,Burke (S),Industrial Capacity (MW),9
+60610,Burnie (C),Industrial Capacity (MW),3553
+40700,Burnside (C),Industrial Capacity (MW),5645
+11300,Burwood (A),Industrial Capacity (MW),13592
+51260,Busselton (C),Industrial Capacity (MW),41
+11350,Byron (A),Industrial Capacity (MW),1460
+11400,Cabonne (A),Industrial Capacity (MW),331
+32080,Cairns (R),Industrial Capacity (MW),43019
+51310,Cambridge (T),Industrial Capacity (MW),4835
+11450,Camden (A),Industrial Capacity (MW),2911
+21370,Campaspe (S),Industrial Capacity (MW),27
+11500,Campbelltown (C) (NSW),Industrial Capacity (MW),11855
+40910,Campbelltown (C) (SA),Industrial Capacity (MW),11855
+11520,Canada Bay (A),Industrial Capacity (MW),13959
+51330,Canning (C),Industrial Capacity (MW),11
+11570,Canterbury-Bankstown (A),Industrial Capacity (MW),15103
+51400,Capel (S),Industrial Capacity (MW),0
+21450,Cardinia (S),Industrial Capacity (MW),3206
+51470,Carnamah (S),Industrial Capacity (MW),0
+51540,Carnarvon (S),Industrial Capacity (MW),5
+32250,Carpentaria (S),Industrial Capacity (MW),71
+11600,Carrathool (A),Industrial Capacity (MW),6
+21610,Casey (C),Industrial Capacity (MW),14595
+32260,Cassowary Coast (R),Industrial Capacity (MW),1858
+41010,Ceduna (DC),Industrial Capacity (MW),2418
+11650,Central Coast (C) (NSW),Industrial Capacity (MW),15472
+60810,Central Coast (M) (Tas.),Industrial Capacity (MW),1341
+11700,Central Darling (A),Industrial Capacity (MW),0
+70620,Central Desert (R),Industrial Capacity (MW),117
+21670,Central Goldfields (S),Industrial Capacity (MW),995
+61010,Central Highlands (M) (Tas.),Industrial Capacity (MW),1728
+32270,Central Highlands (R) (Qld),Industrial Capacity (MW),4845
+11720,Cessnock (C),Industrial Capacity (MW),10551
+41060,Charles Sturt (C),Industrial Capacity (MW),40
+32310,Charters Towers (R),Industrial Capacity (MW),367
+32330,Cherbourg (S),Industrial Capacity (MW),0
+51680,Chittering (S),Industrial Capacity (MW),0
+61210,Circular Head (M),Industrial Capacity (MW),4084
+41140,Clare and Gilbert Valleys (DC),Industrial Capacity (MW),12799
+51750,Claremont (T),Industrial Capacity (MW),0
+61410,Clarence (C),Industrial Capacity (MW),20629
+11730,Clarence Valley (A),Industrial Capacity (MW),59
+41190,Cleve (DC),Industrial Capacity (MW),5149
+32450,Cloncurry (S),Industrial Capacity (MW),286
+11750,Cobar (A),Industrial Capacity (MW),0
+51820,Cockburn (C),Industrial Capacity (MW),585
+11800,Coffs Harbour (C),Industrial Capacity (MW),3188
+21750,Colac-Otway (S),Industrial Capacity (MW),0
+51890,Collie (S),Industrial Capacity (MW),2800
+41330,Coober Pedy (DC),Industrial Capacity (MW),0
+32500,Cook (S),Industrial Capacity (MW),1712
+12000,Coolamon (A),Industrial Capacity (MW),0
+51960,Coolgardie (S),Industrial Capacity (MW),0
+70700,Coomalie (S),Industrial Capacity (MW),0
+12150,Coonamble (A),Industrial Capacity (MW),0
+52030,Coorow (S),Industrial Capacity (MW),150
+41560,Copper Coast (DC),Industrial Capacity (MW),2067
+21830,Corangamite (S),Industrial Capacity (MW),2
+52100,Corrigin (S),Industrial Capacity (MW),96
+52170,Cottesloe (T),Industrial Capacity (MW),0
+12350,Cowra (A),Industrial Capacity (MW),0
+32600,Croydon (S),Industrial Capacity (MW),26
+52310,Cuballing (S),Industrial Capacity (MW),2887
+52380,Cue (S),Industrial Capacity (MW),190
+12380,Cumberland (A),Industrial Capacity (MW),51190
+52450,Cunderdin (S),Industrial Capacity (MW),0
+52520,Dalwallinu (S),Industrial Capacity (MW),0
+52590,Dandaragan (S),Industrial Capacity (MW),0
+52660,Dardanup (S),Industrial Capacity (MW),0
+21890,Darebin (C),Industrial Capacity (MW),19237
+71000,Darwin (C),Industrial Capacity (MW),5160
+52730,Denmark (S),Industrial Capacity (MW),577
+52800,Derby-West Kimberley (S),Industrial Capacity (MW),1929
+61510,Derwent Valley (M),Industrial Capacity (MW),8642
+61610,Devonport (C),Industrial Capacity (MW),3434
+32750,Diamantina (S),Industrial Capacity (MW),2508
+52870,Donnybrook-Balingup (S),Industrial Capacity (MW),53
+32770,Doomadgee (S),Industrial Capacity (MW),0
+61810,Dorset (M),Industrial Capacity (MW),7800
+32810,Douglas (S),Industrial Capacity (MW),3205
+52940,Dowerin (S),Industrial Capacity (MW),0
+53010,Dumbleyung (S),Industrial Capacity (MW),0
+53080,Dundas (S),Industrial Capacity (MW),0
+12700,Dungog (A),Industrial Capacity (MW),12
+71300,East Arnhem (R),Industrial Capacity (MW),0
+53150,East Fremantle (T),Industrial Capacity (MW),1097
+22110,East Gippsland (S),Industrial Capacity (MW),5416
+53220,East Pilbara (S),Industrial Capacity (MW),4156
+12730,Edward River (A),Industrial Capacity (MW),0
+41750,Elliston (DC),Industrial Capacity (MW),1150
+53290,Esperance (S),Industrial Capacity (MW),3892
+33100,Etheridge (S),Industrial Capacity (MW),73
+12750,Eurobodalla (A),Industrial Capacity (MW),5301
+53360,Exmouth (S),Industrial Capacity (MW),2030
+12850,Fairfield (C),Industrial Capacity (MW),21755
+12870,Federation (A),Industrial Capacity (MW),0
+62010,Flinders (M) (Tas.),Industrial Capacity (MW),0
+33200,Flinders (S) (Qld),Industrial Capacity (MW),656
+41830,Flinders Ranges (DC),Industrial Capacity (MW),186
+12900,Forbes (A),Industrial Capacity (MW),31
+41960,Franklin Harbour (DC),Industrial Capacity (MW),238
+22170,Frankston (C),Industrial Capacity (MW),223
+33220,Fraser Coast (R),Industrial Capacity (MW),6662
+53430,Fremantle (C),Industrial Capacity (MW),15333
+22250,Gannawarra (S),Industrial Capacity (MW),0
+42030,Gawler (T),Industrial Capacity (MW),1149
+62210,George Town (M),Industrial Capacity (MW),4268
+12930,Georges River (A),Industrial Capacity (MW),10922
+12950,Gilgandra (A),Industrial Capacity (MW),10
+53570,Gingin (S),Industrial Capacity (MW),0
+33360,Gladstone (R),Industrial Capacity (MW),35821
+62410,Glamorgan/Spring Bay (M),Industrial Capacity (MW),635
+13010,Glen Innes Severn (A),Industrial Capacity (MW),571
+22410,Glenelg (S),Industrial Capacity (MW),0
+62610,Glenorchy (C),Industrial Capacity (MW),811
+53640,Gnowangerup (S),Industrial Capacity (MW),0
+33430,Gold Coast (C),Industrial Capacity (MW),122804
+22490,Golden Plains (S),Industrial Capacity (MW),378
+53710,Goomalling (S),Industrial Capacity (MW),865
+33610,Goondiwindi (R),Industrial Capacity (MW),23980
+53780,Gosnells (C),Industrial Capacity (MW),1
+13310,Goulburn Mulwaree (A),Industrial Capacity (MW),11829
+42110,Goyder (DC),Industrial Capacity (MW),10635
+42250,Grant (DC),Industrial Capacity (MW),10829
+22620,Greater Bendigo (C),Industrial Capacity (MW),4028
+22670,Greater Dandenong (C),Industrial Capacity (MW),6705
+22750,Greater Geelong (C),Industrial Capacity (MW),9477
+53800,Greater Geraldton (C),Industrial Capacity (MW),8057
+13340,Greater Hume Shire (A),Industrial Capacity (MW),244
+22830,Greater Shepparton (C),Industrial Capacity (MW),111
+13450,Griffith (C),Industrial Capacity (MW),8062
+13510,Gundagai (A),Industrial Capacity (MW),955
+13550,Gunnedah (A),Industrial Capacity (MW),4674
+13660,Gwydir (A),Industrial Capacity (MW),14
+33620,Gympie (R),Industrial Capacity (MW),3664
+53920,Halls Creek (S),Industrial Capacity (MW),1048
+53990,Harvey (S),Industrial Capacity (MW),0
+13800,Hawkesbury (C),Industrial Capacity (MW),42
+13850,Hay (A),Industrial Capacity (MW),0
+22910,Hepburn (S),Industrial Capacity (MW),35
+13910,Hilltops (A),Industrial Capacity (MW),18
+33800,Hinchinbrook (S),Industrial Capacity (MW),11284
+22980,Hindmarsh (S),Industrial Capacity (MW),0
+62810,Hobart (C),Industrial Capacity (MW),17577
+23110,Hobsons Bay (C),Industrial Capacity (MW),1671
+42600,Holdfast Bay (C),Industrial Capacity (MW),0
+33830,Hope Vale (S),Industrial Capacity (MW),599
+14000,Hornsby (A),Industrial Capacity (MW),4730
+23190,Horsham (RC),Industrial Capacity (MW),270
+23270,Hume (C),Industrial Capacity (MW),4099
+63010,Huon Valley (M),Industrial Capacity (MW),6064
+23350,Indigo (S),Industrial Capacity (MW),233
+14170,Inner West (A),Industrial Capacity (MW),12680
+14200,Inverell (A),Industrial Capacity (MW),451
+33960,Ipswich (C),Industrial Capacity (MW),49222
+54060,Irwin (S),Industrial Capacity (MW),0
+33980,Isaac (R),Industrial Capacity (MW),88730
+54130,Jerramungup (S),Industrial Capacity (MW),0
+54170,Joondalup (C),Industrial Capacity (MW),2012
+14300,Junee (A),Industrial Capacity (MW),111
+54200,Kalamunda (S),Industrial Capacity (MW),2290
+54280,Kalgoorlie/Boulder (C),Industrial Capacity (MW),3168
+42750,Kangaroo Island (DC),Industrial Capacity (MW),7585
+43080,Karoonda East Murray (DC),Industrial Capacity (MW),1525
+54310,Karratha (C),Industrial Capacity (MW),0
+54340,Katanning (S),Industrial Capacity (MW),0
+72200,Katherine (T),Industrial Capacity (MW),0
+54410,Kellerberrin (S),Industrial Capacity (MW),402
+14350,Kempsey (A),Industrial Capacity (MW),0
+54480,Kent (S),Industrial Capacity (MW),0
+63210,Kentish (M),Industrial Capacity (MW),505
+14400,Kiama (A),Industrial Capacity (MW),6
+43220,Kimba (DC),Industrial Capacity (MW),93
+63410,King Island (M),Industrial Capacity (MW),2191
+63610,Kingborough (M),Industrial Capacity (MW),1112
+23430,Kingston (C) (Vic.),Industrial Capacity (MW),7117
+43360,Kingston (DC) (SA),Industrial Capacity (MW),1141
+23670,Knox (C),Industrial Capacity (MW),2940
+54550,Kojonup (S),Industrial Capacity (MW),0
+54620,Kondinin (S),Industrial Capacity (MW),531
+54690,Koorda (S),Industrial Capacity (MW),0
+34420,Kowanyama (S),Industrial Capacity (MW),84
+54760,Kulin (S),Industrial Capacity (MW),0
+14500,Ku-ring-gai (A),Industrial Capacity (MW),1767
+54830,Kwinana (C),Industrial Capacity (MW),0
+14550,Kyogle (A),Industrial Capacity (MW),1048
+14600,Lachlan (A),Industrial Capacity (MW),0
+54900,Lake Grace (S),Industrial Capacity (MW),0
+14650,Lake Macquarie (C),Industrial Capacity (MW),23548
+14700,Lane Cove (A),Industrial Capacity (MW),2144
+23810,Latrobe (C) (Vic.),Industrial Capacity (MW),9618
+63810,Latrobe (M) (Tas.),Industrial Capacity (MW),617
+64010,Launceston (C),Industrial Capacity (MW),17892
+54970,Laverton (S),Industrial Capacity (MW),1962
+14750,Leeton (A),Industrial Capacity (MW),0
+55040,Leonora (S),Industrial Capacity (MW),125
+43650,Light (RegC),Industrial Capacity (MW),6384
+14850,Lismore (C),Industrial Capacity (MW),1350
+72300,Litchfield (M),Industrial Capacity (MW),0
+14870,Lithgow (C),Industrial Capacity (MW),5680
+14900,Liverpool (C),Industrial Capacity (MW),8123
+14920,Liverpool Plains (A),Industrial Capacity (MW),33
+34530,Livingstone (S),Industrial Capacity (MW),5505
+14950,Lockhart (A),Industrial Capacity (MW),0
+34570,Lockhart River (S),Industrial Capacity (MW),39
+34580,Lockyer Valley (R),Industrial Capacity (MW),3470
+23940,Loddon (S),Industrial Capacity (MW),65
+34590,Logan (C),Industrial Capacity (MW),241605
+34710,Longreach (R),Industrial Capacity (MW),32202
+43710,Lower Eyre Peninsula (DC),Industrial Capacity (MW),14420
+43790,Loxton Waikerie (DC),Industrial Capacity (MW),8790
+72330,MacDonnell (R),Industrial Capacity (MW),223
+24130,Macedon Ranges (S),Industrial Capacity (MW),0
+34770,Mackay (R),Industrial Capacity (MW),93490
+15050,Maitland (C),Industrial Capacity (MW),16352
+43920,Mallala (DC),Industrial Capacity (MW),11822
+55110,Mandurah (C),Industrial Capacity (MW),0
+55180,Manjimup (S),Industrial Capacity (MW),0
+24210,Manningham (C),Industrial Capacity (MW),1067
+24250,Mansfield (S),Industrial Capacity (MW),212
+34830,Mapoon (S),Industrial Capacity (MW),0
+44000,Maralinga Tjarutja (AC),Industrial Capacity (MW),40
+34860,Maranoa (R),Industrial Capacity (MW),7763
+34880,Mareeba (S),Industrial Capacity (MW),10203
+24330,Maribyrnong (C),Industrial Capacity (MW),15172
+44060,Marion (C),Industrial Capacity (MW),0
+24410,Maroondah (C),Industrial Capacity (MW),796
+34800,McKinlay (S),Industrial Capacity (MW),634
+64210,Meander Valley (M),Industrial Capacity (MW),16431
+55250,Meekatharra (S),Industrial Capacity (MW),0
+24600,Melbourne (C),Industrial Capacity (MW),51935
+24650,Melton (C),Industrial Capacity (MW),531
+55320,Melville (C),Industrial Capacity (MW),6049
+55390,Menzies (S),Industrial Capacity (MW),0
+55460,Merredin (S),Industrial Capacity (MW),0
+44210,Mid Murray (DC),Industrial Capacity (MW),20667
+15240,Mid-Coast (A),Industrial Capacity (MW),4630
+15270,Mid-Western Regional (A),Industrial Capacity (MW),135
+24780,Mildura (RC),Industrial Capacity (MW),5320
+55530,Mingenew (S),Industrial Capacity (MW),65
+44340,Mitcham (C),Industrial Capacity (MW),3864
+24850,Mitchell (S),Industrial Capacity (MW),138
+24900,Moira (S),Industrial Capacity (MW),2868
+24970,Monash (C),Industrial Capacity (MW),1772
+25060,Moonee Valley (C),Industrial Capacity (MW),6643
+55600,Moora (S),Industrial Capacity (MW),1892
+25150,Moorabool (S),Industrial Capacity (MW),959
+55670,Morawa (S),Industrial Capacity (MW),3
+15300,Moree Plains (A),Industrial Capacity (MW),19
+25250,Moreland (C),Industrial Capacity (MW),15273
+35010,Moreton Bay (R),Industrial Capacity (MW),76700
+35250,Mornington (S),Industrial Capacity (MW),105
+25340,Mornington Peninsula (S),Industrial Capacity (MW),81
+15350,Mosman (A),Industrial Capacity (MW),0
+55740,Mosman Park (T),Industrial Capacity (MW),0
+25430,Mount Alexander (S),Industrial Capacity (MW),0
+44550,Mount Barker (DC),Industrial Capacity (MW),25744
+44620,Mount Gambier (C),Industrial Capacity (MW),498
+35300,Mount Isa (C),Industrial Capacity (MW),2779
+55810,Mount Magnet (S),Industrial Capacity (MW),0
+55880,Mount Marshall (S),Industrial Capacity (MW),0
+44830,Mount Remarkable (DC),Industrial Capacity (MW),23256
+25490,Moyne (S),Industrial Capacity (MW),3
+55950,Mukinbudin (S),Industrial Capacity (MW),0
+56090,Mundaring (S),Industrial Capacity (MW),528
+56160,Murchison (S),Industrial Capacity (MW),183
+56230,Murray (S),Industrial Capacity (MW),0
+45040,Murray Bridge (RC),Industrial Capacity (MW),11773
+15520,Murray River (A),Industrial Capacity (MW),0
+25620,Murrindindi (S),Industrial Capacity (MW),4
+15560,Murrumbidgee (A),Industrial Capacity (MW),0
+35600,Murweh (S),Industrial Capacity (MW),10
+15650,Muswellbrook (A),Industrial Capacity (MW),40
+15700,Nambucca (A),Industrial Capacity (MW),883
+56300,Nannup (S),Industrial Capacity (MW),215
+35670,Napranum (S),Industrial Capacity (MW),0
+45090,Naracoorte and Lucindale (DC),Industrial Capacity (MW),2384
+56370,Narembeen (S),Industrial Capacity (MW),29
+15750,Narrabri (A),Industrial Capacity (MW),5127
+15800,Narrandera (A),Industrial Capacity (MW),1
+56460,Narrogin (S),Industrial Capacity (MW),890
+15850,Narromine (A),Industrial Capacity (MW),0
+56580,Nedlands (C),Industrial Capacity (MW),1640
+15900,Newcastle (C),Industrial Capacity (MW),36748
+56620,Ngaanyatjarraku (S),Industrial Capacity (MW),36
+25710,Nillumbik (S),Industrial Capacity (MW),1707
+35740,Noosa (S),Industrial Capacity (MW),27485
+35760,North Burnett (R),Industrial Capacity (MW),27876
+15950,North Sydney (A),Industrial Capacity (MW),14664
+56730,Northam (S),Industrial Capacity (MW),3987
+56790,Northampton (S),Industrial Capacity (MW),4
+45120,Northern Areas (DC),Industrial Capacity (MW),5324
+15990,Northern Beaches (A),Industrial Capacity (MW),8370
+25810,Northern Grampians (S),Industrial Capacity (MW),1581
+64610,Northern Midlands (M),Industrial Capacity (MW),5350
+35780,Northern Peninsula Area (R),Industrial Capacity (MW),0
+45290,Norwood Payneham St Peters (C),Industrial Capacity (MW),6116
+56860,Nungarin (S),Industrial Capacity (MW),0
+16100,Oberon (A),Industrial Capacity (MW),55
+45340,Onkaparinga (C),Industrial Capacity (MW),31220
+16150,Orange (C),Industrial Capacity (MW),2768
+45400,Orroroo/Carrieton (DC),Industrial Capacity (MW),858
+35790,Palm Island (S),Industrial Capacity (MW),745
+72800,Palmerston (C),Industrial Capacity (MW),0
+16200,Parkes (A),Industrial Capacity (MW),7191
+35800,Paroo (S),Industrial Capacity (MW),13469
+16260,Parramatta (C),Industrial Capacity (MW),37386
+16350,Penrith (C),Industrial Capacity (MW),20484
+56930,Peppermint Grove (S),Industrial Capacity (MW),0
+57000,Perenjori (S),Industrial Capacity (MW),0
+57080,Perth (C),Industrial Capacity (MW),17914
+45540,Peterborough (DC),Industrial Capacity (MW),1037
+57140,Pingelly (S),Industrial Capacity (MW),385
+57210,Plantagenet (S),Industrial Capacity (MW),303
+45680,Playford (C),Industrial Capacity (MW),25045
+36070,Pormpuraaw (S),Industrial Capacity (MW),53
+45890,Port Adelaide Enfield (C),Industrial Capacity (MW),8627
+46090,Port Augusta (C),Industrial Capacity (MW),565
+57280,Port Hedland (T),Industrial Capacity (MW),170
+46300,Port Lincoln (C),Industrial Capacity (MW),433
+16380,Port Macquarie-Hastings (A),Industrial Capacity (MW),2853
+25900,Port Phillip (C),Industrial Capacity (MW),14387
+46450,Port Pirie City and Dists (M),Industrial Capacity (MW),7120
+16400,Port Stephens (A),Industrial Capacity (MW),640
+46510,Prospect (C),Industrial Capacity (MW),1131
+25990,Pyrenees (S),Industrial Capacity (MW),170
+57350,Quairading (S),Industrial Capacity (MW),302
+16490,Queanbeyan-Palerang Regional (A),Industrial Capacity (MW),4649
+26080,Queenscliffe (B),Industrial Capacity (MW),420
+36150,Quilpie (S),Industrial Capacity (MW),8280
+16550,Randwick (C),Industrial Capacity (MW),593
+57420,Ravensthorpe (S),Industrial Capacity (MW),16
+36250,Redland (C),Industrial Capacity (MW),0
+46670,Renmark Paringa (DC),Industrial Capacity (MW),1570
+36300,Richmond (S),Industrial Capacity (MW),83
+16610,Richmond Valley (A),Industrial Capacity (MW),11
+46860,Robe (DC),Industrial Capacity (MW),602
+16650,Rockdale (C),Industrial Capacity (MW),16466
+36370,Rockhampton (R),Industrial Capacity (MW),12980
+57490,Rockingham (C),Industrial Capacity (MW),0
+73600,Roper Gulf (R),Industrial Capacity (MW),0
+46970,Roxby Downs (M),Industrial Capacity (MW),0
+16700,Ryde (C),Industrial Capacity (MW),40376
+47140,Salisbury (C),Industrial Capacity (MW),3875
+57630,Sandstone (S),Industrial Capacity (MW),1495
+36510,Scenic Rim (R),Industrial Capacity (MW),14772
+57700,Serpentine-Jarrahdale (S),Industrial Capacity (MW),0
+57770,Shark Bay (S),Industrial Capacity (MW),3
+16900,Shellharbour (C),Industrial Capacity (MW),338
+16950,Shoalhaven (C),Industrial Capacity (MW),17873
+17000,Singleton (A),Industrial Capacity (MW),5322
+17040,Snowy Monaro Regional (A),Industrial Capacity (MW),4065
+17080,Snowy Valleys (A),Industrial Capacity (MW),86
+36580,Somerset (R),Industrial Capacity (MW),8833
+64810,Sorell (M),Industrial Capacity (MW),917
+36630,South Burnett (R),Industrial Capacity (MW),10220
+26170,South Gippsland (S),Industrial Capacity (MW),76
+57840,South Perth (C),Industrial Capacity (MW),3661
+36660,Southern Downs (R),Industrial Capacity (MW),15878
+26260,Southern Grampians (S),Industrial Capacity (MW),0
+47290,Southern Mallee (DC),Industrial Capacity (MW),1985
+65010,Southern Midlands (M),Industrial Capacity (MW),7430
+57910,Stirling (C),Industrial Capacity (MW),2657
+26350,Stonnington (C),Industrial Capacity (MW),5337
+26430,Strathbogie (S),Industrial Capacity (MW),0
+17100,Strathfield (A),Industrial Capacity (MW),6123
+47490,Streaky Bay (DC),Industrial Capacity (MW),5686
+57980,Subiaco (C),Industrial Capacity (MW),1706
+36720,Sunshine Coast (R),Industrial Capacity (MW),144815
+26490,Surf Coast (S),Industrial Capacity (MW),4
+17150,Sutherland Shire (A),Industrial Capacity (MW),1748
+58050,Swan (C),Industrial Capacity (MW),1006
+26610,Swan Hill (RC),Industrial Capacity (MW),0
+17200,Sydney (C),Industrial Capacity (MW),127916
+36820,Tablelands (R),Industrial Capacity (MW),12082
+58190,Tammin (S),Industrial Capacity (MW),0
+17310,Tamworth Regional (A),Industrial Capacity (MW),12331
+65210,Tasman (M),Industrial Capacity (MW),8
+47630,Tatiara (DC),Industrial Capacity (MW),3632
+47700,Tea Tree Gully (C),Industrial Capacity (MW),1859
+17350,Temora (A),Industrial Capacity (MW),3661
+17400,Tenterfield (A),Industrial Capacity (MW),32
+47800,The Coorong (DC),Industrial Capacity (MW),8806
+17420,The Hills Shire (A),Industrial Capacity (MW),10749
+58260,Three Springs (S),Industrial Capacity (MW),0
+74050,Tiwi Islands (R),Industrial Capacity (MW),0
+58330,Toodyay (S),Industrial Capacity (MW),0
+36910,Toowoomba (R),Industrial Capacity (MW),304599
+36950,Torres (S),Industrial Capacity (MW),0
+36960,Torres Strait Island (R),Industrial Capacity (MW),0
+37010,Townsville (C),Industrial Capacity (MW),3942
+26670,Towong (S),Industrial Capacity (MW),1426
+58400,Trayning (S),Industrial Capacity (MW),0
+47910,Tumby Bay (DC),Industrial Capacity (MW),2270
+17550,Tweed (A),Industrial Capacity (MW),8978
+99399,Unincorp. Other Territories,Industrial Capacity (MW),42
+89399,Unincorporated ACT,Industrial Capacity (MW),46447
+19399,Unincorporated NSW,Industrial Capacity (MW),168
+79399,Unincorporated NT,Industrial Capacity (MW),37
+49399,Unincorporated SA,Industrial Capacity (MW),2778
+29399,Unincorporated Vic,Industrial Capacity (MW),19
+47980,Unley (C),Industrial Capacity (MW),4719
+58470,Upper Gascoyne (S),Industrial Capacity (MW),0
+17620,Upper Hunter Shire (A),Industrial Capacity (MW),4134
+17640,Upper Lachlan Shire (A),Industrial Capacity (MW),600
+17650,Uralla (A),Industrial Capacity (MW),1075
+48050,Victor Harbor (C),Industrial Capacity (MW),1407
+74550,Victoria Daly (R),Industrial Capacity (MW),0
+58510,Victoria Park (T),Industrial Capacity (MW),1260
+58540,Victoria Plains (S),Industrial Capacity (MW),1
+58570,Vincent (C),Industrial Capacity (MW),6761
+74560,Wagait (S),Industrial Capacity (MW),0
+17750,Wagga Wagga (C),Industrial Capacity (MW),3046
+58610,Wagin (S),Industrial Capacity (MW),0
+48130,Wakefield (DC),Industrial Capacity (MW),16697
+17850,Walcha (A),Industrial Capacity (MW),1154
+17900,Walgett (A),Industrial Capacity (MW),45
+48260,Walkerville (M),Industrial Capacity (MW),0
+58680,Wandering (S),Industrial Capacity (MW),135
+26700,Wangaratta (RC),Industrial Capacity (MW),4857
+58760,Wanneroo (C),Industrial Capacity (MW),718
+65410,Waratah/Wynyard (M),Industrial Capacity (MW),3081
+58820,Waroona (S),Industrial Capacity (MW),0
+17950,Warren (A),Industrial Capacity (MW),0
+26730,Warrnambool (C),Industrial Capacity (MW),1401
+18020,Warrumbungle Shire (A),Industrial Capacity (MW),0
+48340,Wattle Range (DC),Industrial Capacity (MW),13708
+18050,Waverley (A),Industrial Capacity (MW),11870
+18100,Weddin (A),Industrial Capacity (MW),0
+37300,Weipa (T),Industrial Capacity (MW),0
+26810,Wellington (S),Industrial Capacity (MW),627
+18200,Wentworth (A),Industrial Capacity (MW),2
+74660,West Arnhem (R),Industrial Capacity (MW),0
+58890,West Arthur (S),Industrial Capacity (MW),24
+65610,West Coast (M),Industrial Capacity (MW),269
+74680,West Daly (R),Industrial Capacity (MW),0
+65810,West Tamar (M),Industrial Capacity (MW),4056
+48410,West Torrens (C),Industrial Capacity (MW),173
+26890,West Wimmera (S),Industrial Capacity (MW),0
+37310,Western Downs (R),Industrial Capacity (MW),77840
+18230,Western Plains Regional (A),Industrial Capacity (MW),6331
+59030,Westonia (S),Industrial Capacity (MW),0
+26980,Whitehorse (C),Industrial Capacity (MW),2518
+37340,Whitsunday (R),Industrial Capacity (MW),415
+27070,Whittlesea (C),Industrial Capacity (MW),17715
+48540,Whyalla (C),Industrial Capacity (MW),682
+59100,Wickepin (S),Industrial Capacity (MW),465
+59170,Williams (S),Industrial Capacity (MW),0
+18250,Willoughby (C),Industrial Capacity (MW),7117
+59250,Wiluna (S),Industrial Capacity (MW),167
+18350,Wingecarribee (A),Industrial Capacity (MW),3215
+37400,Winton (S),Industrial Capacity (MW),10043
+27170,Wodonga (C),Industrial Capacity (MW),5921
+18400,Wollondilly (A),Industrial Capacity (MW),4719
+18450,Wollongong (C),Industrial Capacity (MW),8815
+59310,Wongan-Ballidu (S),Industrial Capacity (MW),2354
+59320,Woodanilling (S),Industrial Capacity (MW),0
+18500,Woollahra (A),Industrial Capacity (MW),4814
+37550,Woorabinda (S),Industrial Capacity (MW),46
+48640,Wudinna (DC),Industrial Capacity (MW),1760
+37570,Wujal Wujal (S),Industrial Capacity (MW),162
+59330,Wyalkatchem (S),Industrial Capacity (MW),0
+27260,Wyndham (C),Industrial Capacity (MW),29696
+59340,Wyndham-East Kimberley (S),Industrial Capacity (MW),1536
+59350,Yalgoo (S),Industrial Capacity (MW),357
+48750,Yankalilla (DC),Industrial Capacity (MW),5407
+27350,Yarra (C),Industrial Capacity (MW),29705
+27450,Yarra Ranges (S),Industrial Capacity (MW),2004
+37600,Yarrabah (S),Industrial Capacity (MW),196
+27630,Yarriambiack (S),Industrial Capacity (MW),0
+18710,Yass Valley (A),Industrial Capacity (MW),177
+59360,Yilgarn (S),Industrial Capacity (MW),0
+59370,York (S),Industrial Capacity (MW),268
+48830,Yorke Peninsula (DC),Industrial Capacity (MW),"67,495"
+40070,Adelaide (C),Commercial Capacity (MW),18614
+40120,Adelaide Hills (DC),Commercial Capacity (MW),4078
+50080,Albany (C),Commercial Capacity (MW),18296
+10050,Albury (C),Commercial Capacity (MW),6365
+40220,Alexandrina (DC),Commercial Capacity (MW),306
+70200,Alice Springs (T),Commercial Capacity (MW),15752
+20110,Alpine (S),Commercial Capacity (MW),1820
+40250,Anangu Pitjantjatjara (AC),Commercial Capacity (MW),0
+20260,Ararat (RC),Commercial Capacity (MW),4452
+50210,Armadale (C),Commercial Capacity (MW),5918
+10130,Armidale Regional (A),Commercial Capacity (MW),3
+50250,Ashburton (S),Commercial Capacity (MW),3915
+50280,Augusta-Margaret River (S),Commercial Capacity (MW),7751
+30250,Aurukun (S),Commercial Capacity (MW),356
+20570,Ballarat (C),Commercial Capacity (MW),20844
+10250,Ballina (A),Commercial Capacity (MW),2055
+30300,Balonne (S),Commercial Capacity (MW),0
+10300,Balranald (A),Commercial Capacity (MW),7
+30370,Banana (S),Commercial Capacity (MW),6347
+20660,Banyule (C),Commercial Capacity (MW),30393
+30410,Barcaldine (R),Commercial Capacity (MW),0
+30450,Barcoo (S),Commercial Capacity (MW),0
+70420,Barkly (R),Commercial Capacity (MW),3932
+40310,Barossa (DC),Commercial Capacity (MW),1929
+40430,Barunga West (DC),Commercial Capacity (MW),1591
+20740,Bass Coast (S),Commercial Capacity (MW),528
+50350,Bassendean (T),Commercial Capacity (MW),1358
+10470,Bathurst Regional (A),Commercial Capacity (MW),9272
+20830,Baw Baw (S),Commercial Capacity (MW),7701
+20910,Bayside (C),Commercial Capacity (MW),7858
+50420,Bayswater (C),Commercial Capacity (MW),7713
+10550,Bega Valley (A),Commercial Capacity (MW),2453
+10600,Bellingen (A),Commercial Capacity (MW),805
+50490,Belmont (C),Commercial Capacity (MW),7121
+70540,Belyuen (S),Commercial Capacity (MW),41
+40520,Berri and Barmera (DC),Commercial Capacity (MW),0
+10650,Berrigan (A),Commercial Capacity (MW),486
+50560,Beverley (S),Commercial Capacity (MW),888
+30760,Blackall-Tambo (R),Commercial Capacity (MW),0
+10750,Blacktown (C),Commercial Capacity (MW),72587
+10800,Bland (A),Commercial Capacity (MW),1
+10850,Blayney (A),Commercial Capacity (MW),86
+10900,Blue Mountains (C),Commercial Capacity (MW),2127
+50630,Boddington (S),Commercial Capacity (MW),1249
+10950,Bogan (A),Commercial Capacity (MW),6
+21110,Boroondara (C),Commercial Capacity (MW),19985
+11100,Botany Bay (C),Commercial Capacity (MW),3900
+30900,Boulia (S),Commercial Capacity (MW),4
+11150,Bourke (A),Commercial Capacity (MW),0
+50770,Boyup Brook (S),Commercial Capacity (MW),1194
+60210,Break O'Day (M),Commercial Capacity (MW),2416
+11200,Brewarrina (A),Commercial Capacity (MW),6
+60410,Brighton (M),Commercial Capacity (MW),2864
+21180,Brimbank (C),Commercial Capacity (MW),28753
+31000,Brisbane (C),Commercial Capacity (MW),297451
+11250,Broken Hill (C),Commercial Capacity (MW),195
+50910,Brookton (S),Commercial Capacity (MW),724
+50980,Broome (S),Commercial Capacity (MW),11843
+51080,Broomehill-Tambellup (S),Commercial Capacity (MW),420
+51120,Bruce Rock (S),Commercial Capacity (MW),1587
+31750,Bulloo (S),Commercial Capacity (MW),0
+21270,Buloke (S),Commercial Capacity (MW),4775
+51190,Bunbury (C),Commercial Capacity (MW),4860
+31820,Bundaberg (R),Commercial Capacity (MW),43612
+31900,Burdekin (S),Commercial Capacity (MW),12187
+31950,Burke (S),Commercial Capacity (MW),51
+60610,Burnie (C),Commercial Capacity (MW),6263
+40700,Burnside (C),Commercial Capacity (MW),10081
+11300,Burwood (A),Commercial Capacity (MW),668
+51260,Busselton (C),Commercial Capacity (MW),2503
+11350,Byron (A),Commercial Capacity (MW),4778
+11400,Cabonne (A),Commercial Capacity (MW),566
+32080,Cairns (R),Commercial Capacity (MW),65321
+51310,Cambridge (T),Commercial Capacity (MW),2389
+11450,Camden (A),Commercial Capacity (MW),6144
+21370,Campaspe (S),Commercial Capacity (MW),3420
+11500,Campbelltown (C) (NSW),Commercial Capacity (MW),20281
+40910,Campbelltown (C) (SA),Commercial Capacity (MW),20281
+11520,Canada Bay (A),Commercial Capacity (MW),10607
+51330,Canning (C),Commercial Capacity (MW),7392
+11570,Canterbury-Bankstown (A),Commercial Capacity (MW),42220
+51400,Capel (S),Commercial Capacity (MW),2246
+21450,Cardinia (S),Commercial Capacity (MW),10244
+51470,Carnamah (S),Commercial Capacity (MW),600
+51540,Carnarvon (S),Commercial Capacity (MW),3718
+32250,Carpentaria (S),Commercial Capacity (MW),3409
+11600,Carrathool (A),Commercial Capacity (MW),5
+21610,Casey (C),Commercial Capacity (MW),34913
+32260,Cassowary Coast (R),Commercial Capacity (MW),901
+41010,Ceduna (DC),Commercial Capacity (MW),0
+11650,Central Coast (C) (NSW),Commercial Capacity (MW),38497
+60810,Central Coast (M) (Tas.),Commercial Capacity (MW),644
+11700,Central Darling (A),Commercial Capacity (MW),0
+70620,Central Desert (R),Commercial Capacity (MW),0
+21670,Central Goldfields (S),Commercial Capacity (MW),4080
+61010,Central Highlands (M) (Tas.),Commercial Capacity (MW),784
+32270,Central Highlands (R) (Qld),Commercial Capacity (MW),15226
+11720,Cessnock (C),Commercial Capacity (MW),3989
+41060,Charles Sturt (C),Commercial Capacity (MW),1074
+32310,Charters Towers (R),Commercial Capacity (MW),680
+32330,Cherbourg (S),Commercial Capacity (MW),0
+51680,Chittering (S),Commercial Capacity (MW),900
+61210,Circular Head (M),Commercial Capacity (MW),2842
+41140,Clare and Gilbert Valleys (DC),Commercial Capacity (MW),8
+51750,Claremont (T),Commercial Capacity (MW),4399
+61410,Clarence (C),Commercial Capacity (MW),17332
+11730,Clarence Valley (A),Commercial Capacity (MW),6186
+41190,Cleve (DC),Commercial Capacity (MW),0
+32450,Cloncurry (S),Commercial Capacity (MW),2659
+11750,Cobar (A),Commercial Capacity (MW),2
+51820,Cockburn (C),Commercial Capacity (MW),7396
+11800,Coffs Harbour (C),Commercial Capacity (MW),7735
+21750,Colac-Otway (S),Commercial Capacity (MW),6016
+51890,Collie (S),Commercial Capacity (MW),4942
+41330,Coober Pedy (DC),Commercial Capacity (MW),0
+32500,Cook (S),Commercial Capacity (MW),2801
+12000,Coolamon (A),Commercial Capacity (MW),6
+51960,Coolgardie (S),Commercial Capacity (MW),4008
+70700,Coomalie (S),Commercial Capacity (MW),3628
+12150,Coonamble (A),Commercial Capacity (MW),5
+52030,Coorow (S),Commercial Capacity (MW),346
+41560,Copper Coast (DC),Commercial Capacity (MW),5337
+21830,Corangamite (S),Commercial Capacity (MW),306
+52100,Corrigin (S),Commercial Capacity (MW),53
+52170,Cottesloe (T),Commercial Capacity (MW),817
+12350,Cowra (A),Commercial Capacity (MW),1155
+32600,Croydon (S),Commercial Capacity (MW),95
+52310,Cuballing (S),Commercial Capacity (MW),80
+52380,Cue (S),Commercial Capacity (MW),302
+12380,Cumberland (A),Commercial Capacity (MW),22368
+52450,Cunderdin (S),Commercial Capacity (MW),2961
+52520,Dalwallinu (S),Commercial Capacity (MW),1282
+52590,Dandaragan (S),Commercial Capacity (MW),2225
+52660,Dardanup (S),Commercial Capacity (MW),6758
+21890,Darebin (C),Commercial Capacity (MW),22602
+71000,Darwin (C),Commercial Capacity (MW),51283
+52730,Denmark (S),Commercial Capacity (MW),4520
+52800,Derby-West Kimberley (S),Commercial Capacity (MW),2887
+61510,Derwent Valley (M),Commercial Capacity (MW),3838
+61610,Devonport (C),Commercial Capacity (MW),2896
+32750,Diamantina (S),Commercial Capacity (MW),0
+52870,Donnybrook-Balingup (S),Commercial Capacity (MW),2377
+32770,Doomadgee (S),Commercial Capacity (MW),185
+61810,Dorset (M),Commercial Capacity (MW),2248
+32810,Douglas (S),Commercial Capacity (MW),4867
+52940,Dowerin (S),Commercial Capacity (MW),644
+53010,Dumbleyung (S),Commercial Capacity (MW),862
+53080,Dundas (S),Commercial Capacity (MW),910
+12700,Dungog (A),Commercial Capacity (MW),169
+71300,East Arnhem (R),Commercial Capacity (MW),1592
+53150,East Fremantle (T),Commercial Capacity (MW),709
+22110,East Gippsland (S),Commercial Capacity (MW),11067
+53220,East Pilbara (S),Commercial Capacity (MW),4169
+12730,Edward River (A),Commercial Capacity (MW),50
+41750,Elliston (DC),Commercial Capacity (MW),5
+53290,Esperance (S),Commercial Capacity (MW),8381
+33100,Etheridge (S),Commercial Capacity (MW),246
+12750,Eurobodalla (A),Commercial Capacity (MW),1138
+53360,Exmouth (S),Commercial Capacity (MW),6035
+12850,Fairfield (C),Commercial Capacity (MW),4827
+12870,Federation (A),Commercial Capacity (MW),1
+62010,Flinders (M) (Tas.),Commercial Capacity (MW),0
+33200,Flinders (S) (Qld),Commercial Capacity (MW),3009
+41830,Flinders Ranges (DC),Commercial Capacity (MW),2443
+12900,Forbes (A),Commercial Capacity (MW),1584
+41960,Franklin Harbour (DC),Commercial Capacity (MW),0
+22170,Frankston (C),Commercial Capacity (MW),28495
+33220,Fraser Coast (R),Commercial Capacity (MW),36380
+53430,Fremantle (C),Commercial Capacity (MW),3637
+22250,Gannawarra (S),Commercial Capacity (MW),280
+42030,Gawler (T),Commercial Capacity (MW),3736
+62210,George Town (M),Commercial Capacity (MW),24
+12930,Georges River (A),Commercial Capacity (MW),18989
+12950,Gilgandra (A),Commercial Capacity (MW),21
+53570,Gingin (S),Commercial Capacity (MW),1284
+33360,Gladstone (R),Commercial Capacity (MW),20840
+62410,Glamorgan/Spring Bay (M),Commercial Capacity (MW),1876
+13010,Glen Innes Severn (A),Commercial Capacity (MW),13
+22410,Glenelg (S),Commercial Capacity (MW),5640
+62610,Glenorchy (C),Commercial Capacity (MW),17035
+53640,Gnowangerup (S),Commercial Capacity (MW),1123
+33430,Gold Coast (C),Commercial Capacity (MW),99190
+22490,Golden Plains (S),Commercial Capacity (MW),1564
+53710,Goomalling (S),Commercial Capacity (MW),1464
+33610,Goondiwindi (R),Commercial Capacity (MW),39
+53780,Gosnells (C),Commercial Capacity (MW),8150
+13310,Goulburn Mulwaree (A),Commercial Capacity (MW),8085
+42110,Goyder (DC),Commercial Capacity (MW),0
+42250,Grant (DC),Commercial Capacity (MW),63
+22620,Greater Bendigo (C),Commercial Capacity (MW),27041
+22670,Greater Dandenong (C),Commercial Capacity (MW),24742
+22750,Greater Geelong (C),Commercial Capacity (MW),16503
+53800,Greater Geraldton (C),Commercial Capacity (MW),21828
+13340,Greater Hume Shire (A),Commercial Capacity (MW),85
+22830,Greater Shepparton (C),Commercial Capacity (MW),15405
+13450,Griffith (C),Commercial Capacity (MW),515
+13510,Gundagai (A),Commercial Capacity (MW),24
+13550,Gunnedah (A),Commercial Capacity (MW),161
+13660,Gwydir (A),Commercial Capacity (MW),9
+33620,Gympie (R),Commercial Capacity (MW),33205
+53920,Halls Creek (S),Commercial Capacity (MW),2279
+53990,Harvey (S),Commercial Capacity (MW),3183
+13800,Hawkesbury (C),Commercial Capacity (MW),17337
+13850,Hay (A),Commercial Capacity (MW),0
+22910,Hepburn (S),Commercial Capacity (MW),2476
+13910,Hilltops (A),Commercial Capacity (MW),9
+33800,Hinchinbrook (S),Commercial Capacity (MW),6440
+22980,Hindmarsh (S),Commercial Capacity (MW),122
+62810,Hobart (C),Commercial Capacity (MW),1386
+23110,Hobsons Bay (C),Commercial Capacity (MW),13593
+42600,Holdfast Bay (C),Commercial Capacity (MW),2286
+33830,Hope Vale (S),Commercial Capacity (MW),786
+14000,Hornsby (A),Commercial Capacity (MW),8411
+23190,Horsham (RC),Commercial Capacity (MW),9837
+23270,Hume (C),Commercial Capacity (MW),21333
+63010,Huon Valley (M),Commercial Capacity (MW),4776
+23350,Indigo (S),Commercial Capacity (MW),2494
+14170,Inner West (A),Commercial Capacity (MW),36292
+14200,Inverell (A),Commercial Capacity (MW),396
+33960,Ipswich (C),Commercial Capacity (MW),1597
+54060,Irwin (S),Commercial Capacity (MW),1441
+33980,Isaac (R),Commercial Capacity (MW),2591
+54130,Jerramungup (S),Commercial Capacity (MW),1324
+54170,Joondalup (C),Commercial Capacity (MW),14804
+14300,Junee (A),Commercial Capacity (MW),370
+54200,Kalamunda (S),Commercial Capacity (MW),7422
+54280,Kalgoorlie/Boulder (C),Commercial Capacity (MW),12001
+42750,Kangaroo Island (DC),Commercial Capacity (MW),0
+43080,Karoonda East Murray (DC),Commercial Capacity (MW),326
+54310,Karratha (C),Commercial Capacity (MW),10340
+54340,Katanning (S),Commercial Capacity (MW),4175
+72200,Katherine (T),Commercial Capacity (MW),8148
+54410,Kellerberrin (S),Commercial Capacity (MW),1955
+14350,Kempsey (A),Commercial Capacity (MW),1075
+54480,Kent (S),Commercial Capacity (MW),185
+63210,Kentish (M),Commercial Capacity (MW),1040
+14400,Kiama (A),Commercial Capacity (MW),1174
+43220,Kimba (DC),Commercial Capacity (MW),0
+63410,King Island (M),Commercial Capacity (MW),1233
+63610,Kingborough (M),Commercial Capacity (MW),8084
+23430,Kingston (C) (Vic.),Commercial Capacity (MW),20390
+43360,Kingston (DC) (SA),Commercial Capacity (MW),981
+23670,Knox (C),Commercial Capacity (MW),22186
+54550,Kojonup (S),Commercial Capacity (MW),1947
+54620,Kondinin (S),Commercial Capacity (MW),875
+54690,Koorda (S),Commercial Capacity (MW),440
+34420,Kowanyama (S),Commercial Capacity (MW),284
+54760,Kulin (S),Commercial Capacity (MW),999
+14500,Ku-ring-gai (A),Commercial Capacity (MW),19886
+54830,Kwinana (C),Commercial Capacity (MW),2732
+14550,Kyogle (A),Commercial Capacity (MW),208
+14600,Lachlan (A),Commercial Capacity (MW),12
+54900,Lake Grace (S),Commercial Capacity (MW),1313
+14650,Lake Macquarie (C),Commercial Capacity (MW),15748
+14700,Lane Cove (A),Commercial Capacity (MW),4343
+23810,Latrobe (C) (Vic.),Commercial Capacity (MW),17651
+63810,Latrobe (M) (Tas.),Commercial Capacity (MW),364
+64010,Launceston (C),Commercial Capacity (MW),23413
+54970,Laverton (S),Commercial Capacity (MW),1139
+14750,Leeton (A),Commercial Capacity (MW),139
+55040,Leonora (S),Commercial Capacity (MW),887
+43650,Light (RegC),Commercial Capacity (MW),101
+14850,Lismore (C),Commercial Capacity (MW),13791
+72300,Litchfield (M),Commercial Capacity (MW),10520
+14870,Lithgow (C),Commercial Capacity (MW),577
+14900,Liverpool (C),Commercial Capacity (MW),12736
+14920,Liverpool Plains (A),Commercial Capacity (MW),0
+34530,Livingstone (S),Commercial Capacity (MW),2245
+14950,Lockhart (A),Commercial Capacity (MW),0
+34570,Lockhart River (S),Commercial Capacity (MW),133
+34580,Lockyer Valley (R),Commercial Capacity (MW),25846
+23940,Loddon (S),Commercial Capacity (MW),214
+34590,Logan (C),Commercial Capacity (MW),79847
+34710,Longreach (R),Commercial Capacity (MW),0
+43710,Lower Eyre Peninsula (DC),Commercial Capacity (MW),90
+43790,Loxton Waikerie (DC),Commercial Capacity (MW),43
+72330,MacDonnell (R),Commercial Capacity (MW),0
+24130,Macedon Ranges (S),Commercial Capacity (MW),1458
+34770,Mackay (R),Commercial Capacity (MW),47757
+15050,Maitland (C),Commercial Capacity (MW),3052
+43920,Mallala (DC),Commercial Capacity (MW),265
+55110,Mandurah (C),Commercial Capacity (MW),7876
+55180,Manjimup (S),Commercial Capacity (MW),8884
+24210,Manningham (C),Commercial Capacity (MW),13750
+24250,Mansfield (S),Commercial Capacity (MW),107
+34830,Mapoon (S),Commercial Capacity (MW),204
+44000,Maralinga Tjarutja (AC),Commercial Capacity (MW),0
+34860,Maranoa (R),Commercial Capacity (MW),110
+34880,Mareeba (S),Commercial Capacity (MW),10914
+24330,Maribyrnong (C),Commercial Capacity (MW),11179
+44060,Marion (C),Commercial Capacity (MW),7027
+24410,Maroondah (C),Commercial Capacity (MW),17047
+34800,McKinlay (S),Commercial Capacity (MW),1462
+64210,Meander Valley (M),Commercial Capacity (MW),5822
+55250,Meekatharra (S),Commercial Capacity (MW),0
+24600,Melbourne (C),Commercial Capacity (MW),50131
+24650,Melton (C),Commercial Capacity (MW),3586
+55320,Melville (C),Commercial Capacity (MW),7854
+55390,Menzies (S),Commercial Capacity (MW),611
+55460,Merredin (S),Commercial Capacity (MW),2846
+44210,Mid Murray (DC),Commercial Capacity (MW),1060
+15240,Mid-Coast (A),Commercial Capacity (MW),7211
+15270,Mid-Western Regional (A),Commercial Capacity (MW),175
+24780,Mildura (RC),Commercial Capacity (MW),15841
+55530,Mingenew (S),Commercial Capacity (MW),591
+44340,Mitcham (C),Commercial Capacity (MW),19605
+24850,Mitchell (S),Commercial Capacity (MW),4334
+24900,Moira (S),Commercial Capacity (MW),2586
+24970,Monash (C),Commercial Capacity (MW),45309
+25060,Moonee Valley (C),Commercial Capacity (MW),12516
+55600,Moora (S),Commercial Capacity (MW),3032
+25150,Moorabool (S),Commercial Capacity (MW),651
+55670,Morawa (S),Commercial Capacity (MW),1585
+15300,Moree Plains (A),Commercial Capacity (MW),691
+25250,Moreland (C),Commercial Capacity (MW),14935
+35010,Moreton Bay (R),Commercial Capacity (MW),30011
+35250,Mornington (S),Commercial Capacity (MW),312
+25340,Mornington Peninsula (S),Commercial Capacity (MW),23289
+15350,Mosman (A),Commercial Capacity (MW),4033
+55740,Mosman Park (T),Commercial Capacity (MW),1305
+25430,Mount Alexander (S),Commercial Capacity (MW),9899
+44550,Mount Barker (DC),Commercial Capacity (MW),4284
+44620,Mount Gambier (C),Commercial Capacity (MW),0
+35300,Mount Isa (C),Commercial Capacity (MW),0
+55810,Mount Magnet (S),Commercial Capacity (MW),1245
+55880,Mount Marshall (S),Commercial Capacity (MW),518
+44830,Mount Remarkable (DC),Commercial Capacity (MW),145
+25490,Moyne (S),Commercial Capacity (MW),881
+55950,Mukinbudin (S),Commercial Capacity (MW),335
+56090,Mundaring (S),Commercial Capacity (MW),5963
+56160,Murchison (S),Commercial Capacity (MW),191
+56230,Murray (S),Commercial Capacity (MW),7433
+45040,Murray Bridge (RC),Commercial Capacity (MW),4681
+15520,Murray River (A),Commercial Capacity (MW),120
+25620,Murrindindi (S),Commercial Capacity (MW),1602
+15560,Murrumbidgee (A),Commercial Capacity (MW),0
+35600,Murweh (S),Commercial Capacity (MW),5316
+15650,Muswellbrook (A),Commercial Capacity (MW),609
+15700,Nambucca (A),Commercial Capacity (MW),182
+56300,Nannup (S),Commercial Capacity (MW),825
+35670,Napranum (S),Commercial Capacity (MW),698
+45090,Naracoorte and Lucindale (DC),Commercial Capacity (MW),174
+56370,Narembeen (S),Commercial Capacity (MW),724
+15750,Narrabri (A),Commercial Capacity (MW),590
+15800,Narrandera (A),Commercial Capacity (MW),4
+56460,Narrogin (S),Commercial Capacity (MW),6411
+15850,Narromine (A),Commercial Capacity (MW),0
+56580,Nedlands (C),Commercial Capacity (MW),5143
+15900,Newcastle (C),Commercial Capacity (MW),30151
+56620,Ngaanyatjarraku (S),Commercial Capacity (MW),55
+25710,Nillumbik (S),Commercial Capacity (MW),8977
+35740,Noosa (S),Commercial Capacity (MW),6825
+35760,North Burnett (R),Commercial Capacity (MW),212
+15950,North Sydney (A),Commercial Capacity (MW),13490
+56730,Northam (S),Commercial Capacity (MW),7402
+56790,Northampton (S),Commercial Capacity (MW),2470
+45120,Northern Areas (DC),Commercial Capacity (MW),3598
+15990,Northern Beaches (A),Commercial Capacity (MW),21609
+25810,Northern Grampians (S),Commercial Capacity (MW),4455
+64610,Northern Midlands (M),Commercial Capacity (MW),4146
+35780,Northern Peninsula Area (R),Commercial Capacity (MW),0
+45290,Norwood Payneham St Peters (C),Commercial Capacity (MW),4419
+56860,Nungarin (S),Commercial Capacity (MW),1
+16100,Oberon (A),Commercial Capacity (MW),225
+45340,Onkaparinga (C),Commercial Capacity (MW),3692
+16150,Orange (C),Commercial Capacity (MW),5208
+45400,Orroroo/Carrieton (DC),Commercial Capacity (MW),792
+35790,Palm Island (S),Commercial Capacity (MW),429
+72800,Palmerston (C),Commercial Capacity (MW),12514
+16200,Parkes (A),Commercial Capacity (MW),547
+35800,Paroo (S),Commercial Capacity (MW),0
+16260,Parramatta (C),Commercial Capacity (MW),22770
+16350,Penrith (C),Commercial Capacity (MW),17877
+56930,Peppermint Grove (S),Commercial Capacity (MW),149
+57000,Perenjori (S),Commercial Capacity (MW),664
+57080,Perth (C),Commercial Capacity (MW),621
+45540,Peterborough (DC),Commercial Capacity (MW),637
+57140,Pingelly (S),Commercial Capacity (MW),681
+57210,Plantagenet (S),Commercial Capacity (MW),4551
+45680,Playford (C),Commercial Capacity (MW),8858
+36070,Pormpuraaw (S),Commercial Capacity (MW),178
+45890,Port Adelaide Enfield (C),Commercial Capacity (MW),2191
+46090,Port Augusta (C),Commercial Capacity (MW),6012
+57280,Port Hedland (T),Commercial Capacity (MW),7273
+46300,Port Lincoln (C),Commercial Capacity (MW),0
+16380,Port Macquarie-Hastings (A),Commercial Capacity (MW),2269
+25900,Port Phillip (C),Commercial Capacity (MW),5084
+46450,Port Pirie City and Dists (M),Commercial Capacity (MW),3891
+16400,Port Stephens (A),Commercial Capacity (MW),5483
+46510,Prospect (C),Commercial Capacity (MW),508
+25990,Pyrenees (S),Commercial Capacity (MW),1034
+57350,Quairading (S),Commercial Capacity (MW),1250
+16490,Queanbeyan-Palerang Regional (A),Commercial Capacity (MW),1563
+26080,Queenscliffe (B),Commercial Capacity (MW),663
+36150,Quilpie (S),Commercial Capacity (MW),0
+16550,Randwick (C),Commercial Capacity (MW),39675
+57420,Ravensthorpe (S),Commercial Capacity (MW),953
+36250,Redland (C),Commercial Capacity (MW),43646
+46670,Renmark Paringa (DC),Commercial Capacity (MW),3714
+36300,Richmond (S),Commercial Capacity (MW),1050
+16610,Richmond Valley (A),Commercial Capacity (MW),1231
+46860,Robe (DC),Commercial Capacity (MW),94
+16650,Rockdale (C),Commercial Capacity (MW),7862
+36370,Rockhampton (R),Commercial Capacity (MW),5293
+57490,Rockingham (C),Commercial Capacity (MW),12866
+73600,Roper Gulf (R),Commercial Capacity (MW),1051
+46970,Roxby Downs (M),Commercial Capacity (MW),0
+16700,Ryde (C),Commercial Capacity (MW),33758
+47140,Salisbury (C),Commercial Capacity (MW),845
+57630,Sandstone (S),Commercial Capacity (MW),69
+36510,Scenic Rim (R),Commercial Capacity (MW),19346
+57700,Serpentine-Jarrahdale (S),Commercial Capacity (MW),1901
+57770,Shark Bay (S),Commercial Capacity (MW),495
+16900,Shellharbour (C),Commercial Capacity (MW),4352
+16950,Shoalhaven (C),Commercial Capacity (MW),22896
+17000,Singleton (A),Commercial Capacity (MW),649
+17040,Snowy Monaro Regional (A),Commercial Capacity (MW),624
+17080,Snowy Valleys (A),Commercial Capacity (MW),46
+36580,Somerset (R),Commercial Capacity (MW),5855
+64810,Sorell (M),Commercial Capacity (MW),2499
+36630,South Burnett (R),Commercial Capacity (MW),9399
+26170,South Gippsland (S),Commercial Capacity (MW),487
+57840,South Perth (C),Commercial Capacity (MW),3993
+36660,Southern Downs (R),Commercial Capacity (MW),15088
+26260,Southern Grampians (S),Commercial Capacity (MW),121
+47290,Southern Mallee (DC),Commercial Capacity (MW),1994
+65010,Southern Midlands (M),Commercial Capacity (MW),2159
+57910,Stirling (C),Commercial Capacity (MW),14838
+26350,Stonnington (C),Commercial Capacity (MW),11488
+26430,Strathbogie (S),Commercial Capacity (MW),1121
+17100,Strathfield (A),Commercial Capacity (MW),668
+47490,Streaky Bay (DC),Commercial Capacity (MW),0
+57980,Subiaco (C),Commercial Capacity (MW),1919
+36720,Sunshine Coast (R),Commercial Capacity (MW),35958
+26490,Surf Coast (S),Commercial Capacity (MW),617
+17150,Sutherland Shire (A),Commercial Capacity (MW),37458
+58050,Swan (C),Commercial Capacity (MW),11413
+26610,Swan Hill (RC),Commercial Capacity (MW),7625
+17200,Sydney (C),Commercial Capacity (MW),27064
+36820,Tablelands (R),Commercial Capacity (MW),12923
+58190,Tammin (S),Commercial Capacity (MW),251
+17310,Tamworth Regional (A),Commercial Capacity (MW),1691
+65210,Tasman (M),Commercial Capacity (MW),1069
+47630,Tatiara (DC),Commercial Capacity (MW),5117
+47700,Tea Tree Gully (C),Commercial Capacity (MW),5298
+17350,Temora (A),Commercial Capacity (MW),516
+17400,Tenterfield (A),Commercial Capacity (MW),1173
+47800,The Coorong (DC),Commercial Capacity (MW),2894
+17420,The Hills Shire (A),Commercial Capacity (MW),7141
+58260,Three Springs (S),Commercial Capacity (MW),780
+74050,Tiwi Islands (R),Commercial Capacity (MW),582
+58330,Toodyay (S),Commercial Capacity (MW),816
+36910,Toowoomba (R),Commercial Capacity (MW),33268
+36950,Torres (S),Commercial Capacity (MW),0
+36960,Torres Strait Island (R),Commercial Capacity (MW),0
+37010,Townsville (C),Commercial Capacity (MW),79841
+26670,Towong (S),Commercial Capacity (MW),1946
+58400,Trayning (S),Commercial Capacity (MW),556
+47910,Tumby Bay (DC),Commercial Capacity (MW),14
+17550,Tweed (A),Commercial Capacity (MW),2515
+99399,Unincorp. Other Territories,Commercial Capacity (MW),58
+89399,Unincorporated ACT,Commercial Capacity (MW),153538
+19399,Unincorporated NSW,Commercial Capacity (MW),6
+79399,Unincorporated NT,Commercial Capacity (MW),4850
+49399,Unincorporated SA,Commercial Capacity (MW),425
+29399,Unincorporated Vic,Commercial Capacity (MW),293
+47980,Unley (C),Commercial Capacity (MW),10810
+58470,Upper Gascoyne (S),Commercial Capacity (MW),0
+17620,Upper Hunter Shire (A),Commercial Capacity (MW),6
+17640,Upper Lachlan Shire (A),Commercial Capacity (MW),412
+17650,Uralla (A),Commercial Capacity (MW),0
+48050,Victor Harbor (C),Commercial Capacity (MW),0
+74550,Victoria Daly (R),Commercial Capacity (MW),408
+58510,Victoria Park (T),Commercial Capacity (MW),2676
+58540,Victoria Plains (S),Commercial Capacity (MW),869
+58570,Vincent (C),Commercial Capacity (MW),3031
+74560,Wagait (S),Commercial Capacity (MW),84
+17750,Wagga Wagga (C),Commercial Capacity (MW),17267
+58610,Wagin (S),Commercial Capacity (MW),1586
+48130,Wakefield (DC),Commercial Capacity (MW),1633
+17850,Walcha (A),Commercial Capacity (MW),0
+17900,Walgett (A),Commercial Capacity (MW),2
+48260,Walkerville (M),Commercial Capacity (MW),2155
+58680,Wandering (S),Commercial Capacity (MW),255
+26700,Wangaratta (RC),Commercial Capacity (MW),10445
+58760,Wanneroo (C),Commercial Capacity (MW),10845
+65410,Waratah/Wynyard (M),Commercial Capacity (MW),1166
+58820,Waroona (S),Commercial Capacity (MW),2800
+17950,Warren (A),Commercial Capacity (MW),374
+26730,Warrnambool (C),Commercial Capacity (MW),12853
+18020,Warrumbungle Shire (A),Commercial Capacity (MW),2
+48340,Wattle Range (DC),Commercial Capacity (MW),3587
+18050,Waverley (A),Commercial Capacity (MW),9937
+18100,Weddin (A),Commercial Capacity (MW),11
+37300,Weipa (T),Commercial Capacity (MW),2712
+26810,Wellington (S),Commercial Capacity (MW),5593
+18200,Wentworth (A),Commercial Capacity (MW),900
+74660,West Arnhem (R),Commercial Capacity (MW),1151
+58890,West Arthur (S),Commercial Capacity (MW),759
+65610,West Coast (M),Commercial Capacity (MW),1606
+74680,West Daly (R),Commercial Capacity (MW),425
+65810,West Tamar (M),Commercial Capacity (MW),3878
+48410,West Torrens (C),Commercial Capacity (MW),1909
+26890,West Wimmera (S),Commercial Capacity (MW),619
+37310,Western Downs (R),Commercial Capacity (MW),1361
+18230,Western Plains Regional (A),Commercial Capacity (MW),7464
+59030,Westonia (S),Commercial Capacity (MW),0
+26980,Whitehorse (C),Commercial Capacity (MW),27844
+37340,Whitsunday (R),Commercial Capacity (MW),161
+27070,Whittlesea (C),Commercial Capacity (MW),28147
+48540,Whyalla (C),Commercial Capacity (MW),4811
+59100,Wickepin (S),Commercial Capacity (MW),262
+59170,Williams (S),Commercial Capacity (MW),1372
+18250,Willoughby (C),Commercial Capacity (MW),5891
+59250,Wiluna (S),Commercial Capacity (MW),0
+18350,Wingecarribee (A),Commercial Capacity (MW),2553
+37400,Winton (S),Commercial Capacity (MW),24
+27170,Wodonga (C),Commercial Capacity (MW),13029
+18400,Wollondilly (A),Commercial Capacity (MW),4207
+18450,Wollongong (C),Commercial Capacity (MW),25425
+59310,Wongan-Ballidu (S),Commercial Capacity (MW),2300
+59320,Woodanilling (S),Commercial Capacity (MW),267
+18500,Woollahra (A),Commercial Capacity (MW),8373
+37550,Woorabinda (S),Commercial Capacity (MW),0
+48640,Wudinna (DC),Commercial Capacity (MW),383
+37570,Wujal Wujal (S),Commercial Capacity (MW),212
+59330,Wyalkatchem (S),Commercial Capacity (MW),921
+27260,Wyndham (C),Commercial Capacity (MW),16110
+59340,Wyndham-East Kimberley (S),Commercial Capacity (MW),3596
+59350,Yalgoo (S),Commercial Capacity (MW),293
+48750,Yankalilla (DC),Commercial Capacity (MW),1567
+27350,Yarra (C),Commercial Capacity (MW),9614
+27450,Yarra Ranges (S),Commercial Capacity (MW),25329
+37600,Yarrabah (S),Commercial Capacity (MW),662
+27630,Yarriambiack (S),Commercial Capacity (MW),4142
+18710,Yass Valley (A),Commercial Capacity (MW),150
+59360,Yilgarn (S),Commercial Capacity (MW),2413
+59370,York (S),Commercial Capacity (MW),"1,557"
+48830,Yorke Peninsula (DC),Commercial Capacity (MW),"5,416"
+40070,Adelaide (C),Mixed Capacity (MW),9032
+40120,Adelaide Hills (DC),Mixed Capacity (MW),48
+50080,Albany (C),Mixed Capacity (MW),6763
+10050,Albury (C),Mixed Capacity (MW),3884
+40220,Alexandrina (DC),Mixed Capacity (MW),738
+70200,Alice Springs (T),Mixed Capacity (MW),2600
+20110,Alpine (S),Mixed Capacity (MW),1632
+40250,Anangu Pitjantjatjara (AC),Mixed Capacity (MW),0
+20260,Ararat (RC),Mixed Capacity (MW),1676
+50210,Armadale (C),Mixed Capacity (MW),1872
+10130,Armidale Regional (A),Mixed Capacity (MW),42
+50250,Ashburton (S),Mixed Capacity (MW),1066
+50280,Augusta-Margaret River (S),Mixed Capacity (MW),4031
+30250,Aurukun (S),Mixed Capacity (MW),37
+20570,Ballarat (C),Mixed Capacity (MW),5992
+10250,Ballina (A),Mixed Capacity (MW),4745
+30300,Balonne (S),Mixed Capacity (MW),1706
+10300,Balranald (A),Mixed Capacity (MW),45
+30370,Banana (S),Mixed Capacity (MW),2906
+20660,Banyule (C),Mixed Capacity (MW),3843
+30410,Barcaldine (R),Mixed Capacity (MW),653
+30450,Barcoo (S),Mixed Capacity (MW),30
+70420,Barkly (R),Mixed Capacity (MW),1010
+40310,Barossa (DC),Mixed Capacity (MW),1891
+40430,Barunga West (DC),Mixed Capacity (MW),10
+20740,Bass Coast (S),Mixed Capacity (MW),733
+50350,Bassendean (T),Mixed Capacity (MW),985
+10470,Bathurst Regional (A),Mixed Capacity (MW),3568
+20830,Baw Baw (S),Mixed Capacity (MW),3147
+20910,Bayside (C),Mixed Capacity (MW),4108
+50420,Bayswater (C),Mixed Capacity (MW),1921
+10550,Bega Valley (A),Mixed Capacity (MW),4160
+10600,Bellingen (A),Mixed Capacity (MW),1814
+50490,Belmont (C),Mixed Capacity (MW),469
+70540,Belyuen (S),Mixed Capacity (MW),15
+40520,Berri and Barmera (DC),Mixed Capacity (MW),2241
+10650,Berrigan (A),Mixed Capacity (MW),430
+50560,Beverley (S),Mixed Capacity (MW),393
+30760,Blackall-Tambo (R),Mixed Capacity (MW),763
+10750,Blacktown (C),Mixed Capacity (MW),13854
+10800,Bland (A),Mixed Capacity (MW),322
+10850,Blayney (A),Mixed Capacity (MW),65
+10900,Blue Mountains (C),Mixed Capacity (MW),5929
+50630,Boddington (S),Mixed Capacity (MW),953
+10950,Bogan (A),Mixed Capacity (MW),970
+21110,Boroondara (C),Mixed Capacity (MW),6018
+11100,Botany Bay (C),Mixed Capacity (MW),1331
+30900,Boulia (S),Mixed Capacity (MW),153
+11150,Bourke (A),Mixed Capacity (MW),549
+50770,Boyup Brook (S),Mixed Capacity (MW),264
+60210,Break O'Day (M),Mixed Capacity (MW),824
+11200,Brewarrina (A),Mixed Capacity (MW),204
+60410,Brighton (M),Mixed Capacity (MW),1326
+21180,Brimbank (C),Mixed Capacity (MW),3806
+31000,Brisbane (C),Mixed Capacity (MW),54511
+11250,Broken Hill (C),Mixed Capacity (MW),1572
+50910,Brookton (S),Mixed Capacity (MW),200
+50980,Broome (S),Mixed Capacity (MW),810
+51080,Broomehill-Tambellup (S),Mixed Capacity (MW),141
+51120,Bruce Rock (S),Mixed Capacity (MW),459
+31750,Bulloo (S),Mixed Capacity (MW),116
+21270,Buloke (S),Mixed Capacity (MW),1611
+51190,Bunbury (C),Mixed Capacity (MW),1373
+31820,Bundaberg (R),Mixed Capacity (MW),21524
+31900,Burdekin (S),Mixed Capacity (MW),2222
+31950,Burke (S),Mixed Capacity (MW),1
+60610,Burnie (C),Mixed Capacity (MW),1569
+40700,Burnside (C),Mixed Capacity (MW),105
+11300,Burwood (A),Mixed Capacity (MW),612
+51260,Busselton (C),Mixed Capacity (MW),1119
+11350,Byron (A),Mixed Capacity (MW),3388
+11400,Cabonne (A),Mixed Capacity (MW),1080
+32080,Cairns (R),Mixed Capacity (MW),13378
+51310,Cambridge (T),Mixed Capacity (MW),1129
+11450,Camden (A),Mixed Capacity (MW),5112
+21370,Campaspe (S),Mixed Capacity (MW),502
+11500,Campbelltown (C) (NSW),Mixed Capacity (MW),5052
+40910,Campbelltown (C) (SA),Mixed Capacity (MW),5052
+11520,Canada Bay (A),Mixed Capacity (MW),3173
+51330,Canning (C),Mixed Capacity (MW),2016
+11570,Canterbury-Bankstown (A),Mixed Capacity (MW),10207
+51400,Capel (S),Mixed Capacity (MW),663
+21450,Cardinia (S),Mixed Capacity (MW),3629
+51470,Carnamah (S),Mixed Capacity (MW),681
+51540,Carnarvon (S),Mixed Capacity (MW),687
+32250,Carpentaria (S),Mixed Capacity (MW),19
+11600,Carrathool (A),Mixed Capacity (MW),101
+21610,Casey (C),Mixed Capacity (MW),5201
+32260,Cassowary Coast (R),Mixed Capacity (MW),4432
+41010,Ceduna (DC),Mixed Capacity (MW),1912
+11650,Central Coast (C) (NSW),Mixed Capacity (MW),54383
+60810,Central Coast (M) (Tas.),Mixed Capacity (MW),2499
+11700,Central Darling (A),Mixed Capacity (MW),226
+70620,Central Desert (R),Mixed Capacity (MW),3
+21670,Central Goldfields (S),Mixed Capacity (MW),2268
+61010,Central Highlands (M) (Tas.),Mixed Capacity (MW),205
+32270,Central Highlands (R) (Qld),Mixed Capacity (MW),1515
+11720,Cessnock (C),Mixed Capacity (MW),4055
+41060,Charles Sturt (C),Mixed Capacity (MW),3419
+32310,Charters Towers (R),Mixed Capacity (MW),2621
+32330,Cherbourg (S),Mixed Capacity (MW),152
+51680,Chittering (S),Mixed Capacity (MW),574
+61210,Circular Head (M),Mixed Capacity (MW),1371
+41140,Clare and Gilbert Valleys (DC),Mixed Capacity (MW),2815
+51750,Claremont (T),Mixed Capacity (MW),617
+61410,Clarence (C),Mixed Capacity (MW),5150
+11730,Clarence Valley (A),Mixed Capacity (MW),6734
+41190,Cleve (DC),Mixed Capacity (MW),1611
+32450,Cloncurry (S),Mixed Capacity (MW),0
+11750,Cobar (A),Mixed Capacity (MW),691
+51820,Cockburn (C),Mixed Capacity (MW),1690
+11800,Coffs Harbour (C),Mixed Capacity (MW),10692
+21750,Colac-Otway (S),Mixed Capacity (MW),2101
+51890,Collie (S),Mixed Capacity (MW),1620
+41330,Coober Pedy (DC),Mixed Capacity (MW),176
+32500,Cook (S),Mixed Capacity (MW),631
+12000,Coolamon (A),Mixed Capacity (MW),62
+51960,Coolgardie (S),Mixed Capacity (MW),1446
+70700,Coomalie (S),Mixed Capacity (MW),101
+12150,Coonamble (A),Mixed Capacity (MW),5
+52030,Coorow (S),Mixed Capacity (MW),416
+41560,Copper Coast (DC),Mixed Capacity (MW),429
+21830,Corangamite (S),Mixed Capacity (MW),611
+52100,Corrigin (S),Mixed Capacity (MW),23
+52170,Cottesloe (T),Mixed Capacity (MW),25
+12350,Cowra (A),Mixed Capacity (MW),1922
+32600,Croydon (S),Mixed Capacity (MW),11
+52310,Cuballing (S),Mixed Capacity (MW),394
+52380,Cue (S),Mixed Capacity (MW),428
+12380,Cumberland (A),Mixed Capacity (MW),12541
+52450,Cunderdin (S),Mixed Capacity (MW),411
+52520,Dalwallinu (S),Mixed Capacity (MW),1099
+52590,Dandaragan (S),Mixed Capacity (MW),2638
+52660,Dardanup (S),Mixed Capacity (MW),189
+21890,Darebin (C),Mixed Capacity (MW),4754
+71000,Darwin (C),Mixed Capacity (MW),9357
+52730,Denmark (S),Mixed Capacity (MW),3827
+52800,Derby-West Kimberley (S),Mixed Capacity (MW),541
+61510,Derwent Valley (M),Mixed Capacity (MW),888
+61610,Devonport (C),Mixed Capacity (MW),3552
+32750,Diamantina (S),Mixed Capacity (MW),227
+52870,Donnybrook-Balingup (S),Mixed Capacity (MW),886
+32770,Doomadgee (S),Mixed Capacity (MW),5
+61810,Dorset (M),Mixed Capacity (MW),795
+32810,Douglas (S),Mixed Capacity (MW),997
+52940,Dowerin (S),Mixed Capacity (MW),929
+53010,Dumbleyung (S),Mixed Capacity (MW),412
+53080,Dundas (S),Mixed Capacity (MW),322
+12700,Dungog (A),Mixed Capacity (MW),1054
+71300,East Arnhem (R),Mixed Capacity (MW),593
+53150,East Fremantle (T),Mixed Capacity (MW),71
+22110,East Gippsland (S),Mixed Capacity (MW),4260
+53220,East Pilbara (S),Mixed Capacity (MW),2547
+12730,Edward River (A),Mixed Capacity (MW),2585
+41750,Elliston (DC),Mixed Capacity (MW),642
+53290,Esperance (S),Mixed Capacity (MW),3789
+33100,Etheridge (S),Mixed Capacity (MW),26
+12750,Eurobodalla (A),Mixed Capacity (MW),9997
+53360,Exmouth (S),Mixed Capacity (MW),602
+12850,Fairfield (C),Mixed Capacity (MW),10772
+12870,Federation (A),Mixed Capacity (MW),24
+62010,Flinders (M) (Tas.),Mixed Capacity (MW),0
+33200,Flinders (S) (Qld),Mixed Capacity (MW),146
+41830,Flinders Ranges (DC),Mixed Capacity (MW),0
+12900,Forbes (A),Mixed Capacity (MW),1436
+41960,Franklin Harbour (DC),Mixed Capacity (MW),761
+22170,Frankston (C),Mixed Capacity (MW),4801
+33220,Fraser Coast (R),Mixed Capacity (MW),6304
+53430,Fremantle (C),Mixed Capacity (MW),1149
+22250,Gannawarra (S),Mixed Capacity (MW),808
+42030,Gawler (T),Mixed Capacity (MW),1460
+62210,George Town (M),Mixed Capacity (MW),40
+12930,Georges River (A),Mixed Capacity (MW),3502
+12950,Gilgandra (A),Mixed Capacity (MW),645
+53570,Gingin (S),Mixed Capacity (MW),3181
+33360,Gladstone (R),Mixed Capacity (MW),7653
+62410,Glamorgan/Spring Bay (M),Mixed Capacity (MW),732
+13010,Glen Innes Severn (A),Mixed Capacity (MW),1792
+22410,Glenelg (S),Mixed Capacity (MW),2424
+62610,Glenorchy (C),Mixed Capacity (MW),2109
+53640,Gnowangerup (S),Mixed Capacity (MW),793
+33430,Gold Coast (C),Mixed Capacity (MW),38035
+22490,Golden Plains (S),Mixed Capacity (MW),628
+53710,Goomalling (S),Mixed Capacity (MW),296
+33610,Goondiwindi (R),Mixed Capacity (MW),2440
+53780,Gosnells (C),Mixed Capacity (MW),2069
+13310,Goulburn Mulwaree (A),Mixed Capacity (MW),2968
+42110,Goyder (DC),Mixed Capacity (MW),1786
+42250,Grant (DC),Mixed Capacity (MW),1556
+22620,Greater Bendigo (C),Mixed Capacity (MW),8449
+22670,Greater Dandenong (C),Mixed Capacity (MW),5216
+22750,Greater Geelong (C),Mixed Capacity (MW),13676
+53800,Greater Geraldton (C),Mixed Capacity (MW),4493
+13340,Greater Hume Shire (A),Mixed Capacity (MW),61
+22830,Greater Shepparton (C),Mixed Capacity (MW),3113
+13450,Griffith (C),Mixed Capacity (MW),2699
+13510,Gundagai (A),Mixed Capacity (MW),1560
+13550,Gunnedah (A),Mixed Capacity (MW),2472
+13660,Gwydir (A),Mixed Capacity (MW),821
+33620,Gympie (R),Mixed Capacity (MW),689
+53920,Halls Creek (S),Mixed Capacity (MW),526
+53990,Harvey (S),Mixed Capacity (MW),3753
+13800,Hawkesbury (C),Mixed Capacity (MW),6102
+13850,Hay (A),Mixed Capacity (MW),618
+22910,Hepburn (S),Mixed Capacity (MW),915
+13910,Hilltops (A),Mixed Capacity (MW),344
+33800,Hinchinbrook (S),Mixed Capacity (MW),1235
+22980,Hindmarsh (S),Mixed Capacity (MW),176
+62810,Hobart (C),Mixed Capacity (MW),4268
+23110,Hobsons Bay (C),Mixed Capacity (MW),5090
+42600,Holdfast Bay (C),Mixed Capacity (MW),468
+33830,Hope Vale (S),Mixed Capacity (MW),55
+14000,Hornsby (A),Mixed Capacity (MW),5702
+23190,Horsham (RC),Mixed Capacity (MW),1621
+23270,Hume (C),Mixed Capacity (MW),4041
+63010,Huon Valley (M),Mixed Capacity (MW),1283
+23350,Indigo (S),Mixed Capacity (MW),879
+14170,Inner West (A),Mixed Capacity (MW),6276
+14200,Inverell (A),Mixed Capacity (MW),2412
+33960,Ipswich (C),Mixed Capacity (MW),35055
+54060,Irwin (S),Mixed Capacity (MW),1257
+33980,Isaac (R),Mixed Capacity (MW),16610
+54130,Jerramungup (S),Mixed Capacity (MW),742
+54170,Joondalup (C),Mixed Capacity (MW),1928
+14300,Junee (A),Mixed Capacity (MW),638
+54200,Kalamunda (S),Mixed Capacity (MW),778
+54280,Kalgoorlie/Boulder (C),Mixed Capacity (MW),2861
+42750,Kangaroo Island (DC),Mixed Capacity (MW),359
+43080,Karoonda East Murray (DC),Mixed Capacity (MW),5
+54310,Karratha (C),Mixed Capacity (MW),2288
+54340,Katanning (S),Mixed Capacity (MW),1063
+72200,Katherine (T),Mixed Capacity (MW),1609
+54410,Kellerberrin (S),Mixed Capacity (MW),523
+14350,Kempsey (A),Mixed Capacity (MW),2961
+54480,Kent (S),Mixed Capacity (MW),364
+63210,Kentish (M),Mixed Capacity (MW),538
+14400,Kiama (A),Mixed Capacity (MW),2714
+43220,Kimba (DC),Mixed Capacity (MW),1008
+63410,King Island (M),Mixed Capacity (MW),575
+63610,Kingborough (M),Mixed Capacity (MW),1660
+23430,Kingston (C) (Vic.),Mixed Capacity (MW),5808
+43360,Kingston (DC) (SA),Mixed Capacity (MW),381
+23670,Knox (C),Mixed Capacity (MW),6341
+54550,Kojonup (S),Mixed Capacity (MW),537
+54620,Kondinin (S),Mixed Capacity (MW),713
+54690,Koorda (S),Mixed Capacity (MW),294
+34420,Kowanyama (S),Mixed Capacity (MW),30
+54760,Kulin (S),Mixed Capacity (MW),863
+14500,Ku-ring-gai (A),Mixed Capacity (MW),2970
+54830,Kwinana (C),Mixed Capacity (MW),580
+14550,Kyogle (A),Mixed Capacity (MW),914
+14600,Lachlan (A),Mixed Capacity (MW),42
+54900,Lake Grace (S),Mixed Capacity (MW),730
+14650,Lake Macquarie (C),Mixed Capacity (MW),28649
+14700,Lane Cove (A),Mixed Capacity (MW),760
+23810,Latrobe (C) (Vic.),Mixed Capacity (MW),5989
+63810,Latrobe (M) (Tas.),Mixed Capacity (MW),201
+64010,Launceston (C),Mixed Capacity (MW),4872
+54970,Laverton (S),Mixed Capacity (MW),177
+14750,Leeton (A),Mixed Capacity (MW),2075
+55040,Leonora (S),Mixed Capacity (MW),307
+43650,Light (RegC),Mixed Capacity (MW),1397
+14850,Lismore (C),Mixed Capacity (MW),3755
+72300,Litchfield (M),Mixed Capacity (MW),693
+14870,Lithgow (C),Mixed Capacity (MW),1416
+14900,Liverpool (C),Mixed Capacity (MW),12879
+14920,Liverpool Plains (A),Mixed Capacity (MW),120
+34530,Livingstone (S),Mixed Capacity (MW),1184
+14950,Lockhart (A),Mixed Capacity (MW),127
+34570,Lockhart River (S),Mixed Capacity (MW),14
+34580,Lockyer Valley (R),Mixed Capacity (MW),9940
+23940,Loddon (S),Mixed Capacity (MW),438
+34590,Logan (C),Mixed Capacity (MW),8735
+34710,Longreach (R),Mixed Capacity (MW),1521
+43710,Lower Eyre Peninsula (DC),Mixed Capacity (MW),108
+43790,Loxton Waikerie (DC),Mixed Capacity (MW),1543
+72330,MacDonnell (R),Mixed Capacity (MW),0
+24130,Macedon Ranges (S),Mixed Capacity (MW),755
+34770,Mackay (R),Mixed Capacity (MW),16850
+15050,Maitland (C),Mixed Capacity (MW),6170
+43920,Mallala (DC),Mixed Capacity (MW),487
+55110,Mandurah (C),Mixed Capacity (MW),2703
+55180,Manjimup (S),Mixed Capacity (MW),3001
+24210,Manningham (C),Mixed Capacity (MW),3309
+24250,Mansfield (S),Mixed Capacity (MW),2079
+34830,Mapoon (S),Mixed Capacity (MW),226
+44000,Maralinga Tjarutja (AC),Mixed Capacity (MW),42
+34860,Maranoa (R),Mixed Capacity (MW),3480
+34880,Mareeba (S),Mixed Capacity (MW),2724
+24330,Maribyrnong (C),Mixed Capacity (MW),3740
+44060,Marion (C),Mixed Capacity (MW),4473
+24410,Maroondah (C),Mixed Capacity (MW),4343
+34800,McKinlay (S),Mixed Capacity (MW),177
+64210,Meander Valley (M),Mixed Capacity (MW),2411
+55250,Meekatharra (S),Mixed Capacity (MW),0
+24600,Melbourne (C),Mixed Capacity (MW),17449
+24650,Melton (C),Mixed Capacity (MW),882
+55320,Melville (C),Mixed Capacity (MW),3126
+55390,Menzies (S),Mixed Capacity (MW),883
+55460,Merredin (S),Mixed Capacity (MW),1066
+44210,Mid Murray (DC),Mixed Capacity (MW),235
+15240,Mid-Coast (A),Mixed Capacity (MW),14647
+15270,Mid-Western Regional (A),Mixed Capacity (MW),2368
+24780,Mildura (RC),Mixed Capacity (MW),5176
+55530,Mingenew (S),Mixed Capacity (MW),280
+44340,Mitcham (C),Mixed Capacity (MW),0
+24850,Mitchell (S),Mixed Capacity (MW),1522
+24900,Moira (S),Mixed Capacity (MW),2559
+24970,Monash (C),Mixed Capacity (MW),5350
+25060,Moonee Valley (C),Mixed Capacity (MW),5154
+55600,Moora (S),Mixed Capacity (MW),631
+25150,Moorabool (S),Mixed Capacity (MW),779
+55670,Morawa (S),Mixed Capacity (MW),299
+15300,Moree Plains (A),Mixed Capacity (MW),1973
+25250,Moreland (C),Mixed Capacity (MW),4967
+35010,Moreton Bay (R),Mixed Capacity (MW),21993
+35250,Mornington (S),Mixed Capacity (MW),34
+25340,Mornington Peninsula (S),Mixed Capacity (MW),11271
+15350,Mosman (A),Mixed Capacity (MW),3014
+55740,Mosman Park (T),Mixed Capacity (MW),98
+25430,Mount Alexander (S),Mixed Capacity (MW),586
+44550,Mount Barker (DC),Mixed Capacity (MW),756
+44620,Mount Gambier (C),Mixed Capacity (MW),83
+35300,Mount Isa (C),Mixed Capacity (MW),0
+55810,Mount Magnet (S),Mixed Capacity (MW),1326
+55880,Mount Marshall (S),Mixed Capacity (MW),580
+44830,Mount Remarkable (DC),Mixed Capacity (MW),384
+25490,Moyne (S),Mixed Capacity (MW),673
+55950,Mukinbudin (S),Mixed Capacity (MW),551
+56090,Mundaring (S),Mixed Capacity (MW),881
+56160,Murchison (S),Mixed Capacity (MW),90
+56230,Murray (S),Mixed Capacity (MW),633
+45040,Murray Bridge (RC),Mixed Capacity (MW),1614
+15520,Murray River (A),Mixed Capacity (MW),2868
+25620,Murrindindi (S),Mixed Capacity (MW),421
+15560,Murrumbidgee (A),Mixed Capacity (MW),179
+35600,Murweh (S),Mixed Capacity (MW),4100
+15650,Muswellbrook (A),Mixed Capacity (MW),2146
+15700,Nambucca (A),Mixed Capacity (MW),7786
+56300,Nannup (S),Mixed Capacity (MW),923
+35670,Napranum (S),Mixed Capacity (MW),773
+45090,Naracoorte and Lucindale (DC),Mixed Capacity (MW),1851
+56370,Narembeen (S),Mixed Capacity (MW),332
+15750,Narrabri (A),Mixed Capacity (MW),2447
+15800,Narrandera (A),Mixed Capacity (MW),28
+56460,Narrogin (S),Mixed Capacity (MW),1543
+15850,Narromine (A),Mixed Capacity (MW),770
+56580,Nedlands (C),Mixed Capacity (MW),482
+15900,Newcastle (C),Mixed Capacity (MW),18122
+56620,Ngaanyatjarraku (S),Mixed Capacity (MW),104
+25710,Nillumbik (S),Mixed Capacity (MW),2594
+35740,Noosa (S),Mixed Capacity (MW),2244
+35760,North Burnett (R),Mixed Capacity (MW),1851
+15950,North Sydney (A),Mixed Capacity (MW),1302
+56730,Northam (S),Mixed Capacity (MW),2089
+56790,Northampton (S),Mixed Capacity (MW),1195
+45120,Northern Areas (DC),Mixed Capacity (MW),1
+15990,Northern Beaches (A),Mixed Capacity (MW),11970
+25810,Northern Grampians (S),Mixed Capacity (MW),2841
+64610,Northern Midlands (M),Mixed Capacity (MW),2214
+35780,Northern Peninsula Area (R),Mixed Capacity (MW),0
+45290,Norwood Payneham St Peters (C),Mixed Capacity (MW),364
+56860,Nungarin (S),Mixed Capacity (MW),1
+16100,Oberon (A),Mixed Capacity (MW),88
+45340,Onkaparinga (C),Mixed Capacity (MW),4238
+16150,Orange (C),Mixed Capacity (MW),4439
+45400,Orroroo/Carrieton (DC),Mixed Capacity (MW),0
+35790,Palm Island (S),Mixed Capacity (MW),1147
+72800,Palmerston (C),Mixed Capacity (MW),837
+16200,Parkes (A),Mixed Capacity (MW),1815
+35800,Paroo (S),Mixed Capacity (MW),647
+16260,Parramatta (C),Mixed Capacity (MW),10543
+16350,Penrith (C),Mixed Capacity (MW),10683
+56930,Peppermint Grove (S),Mixed Capacity (MW),2
+57000,Perenjori (S),Mixed Capacity (MW),384
+57080,Perth (C),Mixed Capacity (MW),333
+45540,Peterborough (DC),Mixed Capacity (MW),0
+57140,Pingelly (S),Mixed Capacity (MW),552
+57210,Plantagenet (S),Mixed Capacity (MW),918
+45680,Playford (C),Mixed Capacity (MW),6031
+36070,Pormpuraaw (S),Mixed Capacity (MW),19
+45890,Port Adelaide Enfield (C),Mixed Capacity (MW),5117
+46090,Port Augusta (C),Mixed Capacity (MW),3317
+57280,Port Hedland (T),Mixed Capacity (MW),1786
+46300,Port Lincoln (C),Mixed Capacity (MW),1396
+16380,Port Macquarie-Hastings (A),Mixed Capacity (MW),3751
+25900,Port Phillip (C),Mixed Capacity (MW),7420
+46450,Port Pirie City and Dists (M),Mixed Capacity (MW),0
+16400,Port Stephens (A),Mixed Capacity (MW),20144
+46510,Prospect (C),Mixed Capacity (MW),6
+25990,Pyrenees (S),Mixed Capacity (MW),787
+57350,Quairading (S),Mixed Capacity (MW),325
+16490,Queanbeyan-Palerang Regional (A),Mixed Capacity (MW),1179
+26080,Queenscliffe (B),Mixed Capacity (MW),1068
+36150,Quilpie (S),Mixed Capacity (MW),393
+16550,Randwick (C),Mixed Capacity (MW),7328
+57420,Ravensthorpe (S),Mixed Capacity (MW),1279
+36250,Redland (C),Mixed Capacity (MW),7216
+46670,Renmark Paringa (DC),Mixed Capacity (MW),427
+36300,Richmond (S),Mixed Capacity (MW),170
+16610,Richmond Valley (A),Mixed Capacity (MW),3582
+46860,Robe (DC),Mixed Capacity (MW),529
+16650,Rockdale (C),Mixed Capacity (MW),3459
+36370,Rockhampton (R),Mixed Capacity (MW),2792
+57490,Rockingham (C),Mixed Capacity (MW),3281
+73600,Roper Gulf (R),Mixed Capacity (MW),374
+46970,Roxby Downs (M),Mixed Capacity (MW),0
+16700,Ryde (C),Mixed Capacity (MW),3785
+47140,Salisbury (C),Mixed Capacity (MW),3278
+57630,Sandstone (S),Mixed Capacity (MW),732
+36510,Scenic Rim (R),Mixed Capacity (MW),872
+57700,Serpentine-Jarrahdale (S),Mixed Capacity (MW),2409
+57770,Shark Bay (S),Mixed Capacity (MW),511
+16900,Shellharbour (C),Mixed Capacity (MW),10822
+16950,Shoalhaven (C),Mixed Capacity (MW),16698
+17000,Singleton (A),Mixed Capacity (MW),1815
+17040,Snowy Monaro Regional (A),Mixed Capacity (MW),1631
+17080,Snowy Valleys (A),Mixed Capacity (MW),1028
+36580,Somerset (R),Mixed Capacity (MW),11001
+64810,Sorell (M),Mixed Capacity (MW),301
+36630,South Burnett (R),Mixed Capacity (MW),2855
+26170,South Gippsland (S),Mixed Capacity (MW),1206
+57840,South Perth (C),Mixed Capacity (MW),659
+36660,Southern Downs (R),Mixed Capacity (MW),544
+26260,Southern Grampians (S),Mixed Capacity (MW),995
+47290,Southern Mallee (DC),Mixed Capacity (MW),0
+65010,Southern Midlands (M),Mixed Capacity (MW),377
+57910,Stirling (C),Mixed Capacity (MW),5852
+26350,Stonnington (C),Mixed Capacity (MW),4069
+26430,Strathbogie (S),Mixed Capacity (MW),350
+17100,Strathfield (A),Mixed Capacity (MW),752
+47490,Streaky Bay (DC),Mixed Capacity (MW),1024
+57980,Subiaco (C),Mixed Capacity (MW),354
+36720,Sunshine Coast (R),Mixed Capacity (MW),11822
+26490,Surf Coast (S),Mixed Capacity (MW),2198
+17150,Sutherland Shire (A),Mixed Capacity (MW),9269
+58050,Swan (C),Mixed Capacity (MW),2137
+26610,Swan Hill (RC),Mixed Capacity (MW),4426
+17200,Sydney (C),Mixed Capacity (MW),5748
+36820,Tablelands (R),Mixed Capacity (MW),3226
+58190,Tammin (S),Mixed Capacity (MW),216
+17310,Tamworth Regional (A),Mixed Capacity (MW),4859
+65210,Tasman (M),Mixed Capacity (MW),151
+47630,Tatiara (DC),Mixed Capacity (MW),51
+47700,Tea Tree Gully (C),Mixed Capacity (MW),1308
+17350,Temora (A),Mixed Capacity (MW),1422
+17400,Tenterfield (A),Mixed Capacity (MW),50
+47800,The Coorong (DC),Mixed Capacity (MW),137
+17420,The Hills Shire (A),Mixed Capacity (MW),6709
+58260,Three Springs (S),Mixed Capacity (MW),273
+74050,Tiwi Islands (R),Mixed Capacity (MW),217
+58330,Toodyay (S),Mixed Capacity (MW),972
+36910,Toowoomba (R),Mixed Capacity (MW),43299
+36950,Torres (S),Mixed Capacity (MW),0
+36960,Torres Strait Island (R),Mixed Capacity (MW),0
+37010,Townsville (C),Mixed Capacity (MW),157253
+26670,Towong (S),Mixed Capacity (MW),1077
+58400,Trayning (S),Mixed Capacity (MW),239
+47910,Tumby Bay (DC),Mixed Capacity (MW),817
+17550,Tweed (A),Mixed Capacity (MW),21351
+99399,Unincorp. Other Territories,Mixed Capacity (MW),50
+89399,Unincorporated ACT,Mixed Capacity (MW),13908
+19399,Unincorporated NSW,Mixed Capacity (MW),66
+79399,Unincorporated NT,Mixed Capacity (MW),261
+49399,Unincorporated SA,Mixed Capacity (MW),985
+29399,Unincorporated Vic,Mixed Capacity (MW),227
+47980,Unley (C),Mixed Capacity (MW),0
+58470,Upper Gascoyne (S),Mixed Capacity (MW),0
+17620,Upper Hunter Shire (A),Mixed Capacity (MW),4039
+17640,Upper Lachlan Shire (A),Mixed Capacity (MW),1152
+17650,Uralla (A),Mixed Capacity (MW),664
+48050,Victor Harbor (C),Mixed Capacity (MW),2994
+74550,Victoria Daly (R),Mixed Capacity (MW),156
+58510,Victoria Park (T),Mixed Capacity (MW),884
+58540,Victoria Plains (S),Mixed Capacity (MW),466
+58570,Vincent (C),Mixed Capacity (MW),1161
+74560,Wagait (S),Mixed Capacity (MW),31
+17750,Wagga Wagga (C),Mixed Capacity (MW),6381
+58610,Wagin (S),Mixed Capacity (MW),1088
+48130,Wakefield (DC),Mixed Capacity (MW),497
+17850,Walcha (A),Mixed Capacity (MW),314
+17900,Walgett (A),Mixed Capacity (MW),1265
+48260,Walkerville (M),Mixed Capacity (MW),30
+58680,Wandering (S),Mixed Capacity (MW),207
+26700,Wangaratta (RC),Mixed Capacity (MW),1737
+58760,Wanneroo (C),Mixed Capacity (MW),849
+65410,Waratah/Wynyard (M),Mixed Capacity (MW),928
+58820,Waroona (S),Mixed Capacity (MW),420
+17950,Warren (A),Mixed Capacity (MW),815
+26730,Warrnambool (C),Mixed Capacity (MW),3216
+18020,Warrumbungle Shire (A),Mixed Capacity (MW),930
+48340,Wattle Range (DC),Mixed Capacity (MW),205
+18050,Waverley (A),Mixed Capacity (MW),2208
+18100,Weddin (A),Mixed Capacity (MW),16
+37300,Weipa (T),Mixed Capacity (MW),3004
+26810,Wellington (S),Mixed Capacity (MW),5218
+18200,Wentworth (A),Mixed Capacity (MW),472
+74660,West Arnhem (R),Mixed Capacity (MW),729
+58890,West Arthur (S),Mixed Capacity (MW),344
+65610,West Coast (M),Mixed Capacity (MW),471
+74680,West Daly (R),Mixed Capacity (MW),162
+65810,West Tamar (M),Mixed Capacity (MW),1119
+48410,West Torrens (C),Mixed Capacity (MW),1123
+26890,West Wimmera (S),Mixed Capacity (MW),345
+37310,Western Downs (R),Mixed Capacity (MW),7520
+18230,Western Plains Regional (A),Mixed Capacity (MW),8079
+59030,Westonia (S),Mixed Capacity (MW),11
+26980,Whitehorse (C),Mixed Capacity (MW),5626
+37340,Whitsunday (R),Mixed Capacity (MW),12065
+27070,Whittlesea (C),Mixed Capacity (MW),3947
+48540,Whyalla (C),Mixed Capacity (MW),2173
+59100,Wickepin (S),Mixed Capacity (MW),371
+59170,Williams (S),Mixed Capacity (MW),45
+18250,Willoughby (C),Mixed Capacity (MW),2186
+59250,Wiluna (S),Mixed Capacity (MW),18
+18350,Wingecarribee (A),Mixed Capacity (MW),3723
+37400,Winton (S),Mixed Capacity (MW),448
+27170,Wodonga (C),Mixed Capacity (MW),2173
+18400,Wollondilly (A),Mixed Capacity (MW),2395
+18450,Wollongong (C),Mixed Capacity (MW),15986
+59310,Wongan-Ballidu (S),Mixed Capacity (MW),477
+59320,Woodanilling (S),Mixed Capacity (MW),146
+18500,Woollahra (A),Mixed Capacity (MW),4325
+37550,Woorabinda (S),Mixed Capacity (MW),0
+48640,Wudinna (DC),Mixed Capacity (MW),1195
+37570,Wujal Wujal (S),Mixed Capacity (MW),15
+59330,Wyalkatchem (S),Mixed Capacity (MW),281
+27260,Wyndham (C),Mixed Capacity (MW),4047
+59340,Wyndham-East Kimberley (S),Mixed Capacity (MW),691
+59350,Yalgoo (S),Mixed Capacity (MW),752
+48750,Yankalilla (DC),Mixed Capacity (MW),285
+27350,Yarra (C),Mixed Capacity (MW),3115
+27450,Yarra Ranges (S),Mixed Capacity (MW),5200
+37600,Yarrabah (S),Mixed Capacity (MW),69
+27630,Yarriambiack (S),Mixed Capacity (MW),1111
+18710,Yass Valley (A),Mixed Capacity (MW),615
+59360,Yilgarn (S),Mixed Capacity (MW),334
+59370,York (S),Mixed Capacity (MW),"1,020"
+48830,Yorke Peninsula (DC),Mixed Capacity (MW),"1,818"
