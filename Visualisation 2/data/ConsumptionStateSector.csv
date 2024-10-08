@@ -1,3 +1,554 @@
+Jurisdiction,Year,Industry,Unit,Quantity
+AUS,1973-74,Agriculture,PJ,38.7
+AUS,1973-74,Commercial and services,PJ,80
+AUS,1973-74,Construction,PJ,25.9
+AUS,1973-74,Electricity generation,PJ,509.6
+AUS,1973-74,Manufacturing,PJ,918
+AUS,1973-74,Mining,PJ,59.4
+AUS,1973-74,Other,PJ,62.4
+AUS,1973-74,Residential,PJ,231.3
+AUS,1973-74,Total,PJ,2615.2
+AUS,1973-74,Transport,PJ,685.4
+AUS,1973-74,Water and waste,PJ,4.5
+AUS,1974-75,Agriculture,PJ,39.4
+AUS,1974-75,Commercial and services,PJ,82.9
+AUS,1974-75,Construction,PJ,29
+AUS,1974-75,Electricity generation,PJ,540.4
+AUS,1974-75,Manufacturing,PJ,927.6
+AUS,1974-75,Mining,PJ,64.8
+AUS,1974-75,Other,PJ,58.9
+AUS,1974-75,Residential,PJ,246.3
+AUS,1974-75,Total,PJ,2694.8
+AUS,1974-75,Transport,PJ,701
+AUS,1974-75,Water and waste,PJ,4.4
+AUS,1975-76,Agriculture,PJ,39.9
+AUS,1975-76,Commercial and services,PJ,84.8
+AUS,1975-76,Construction,PJ,28.9
+AUS,1975-76,Electricity generation,PJ,559.9
+AUS,1975-76,Manufacturing,PJ,925.9
+AUS,1975-76,Mining,PJ,67.3
+AUS,1975-76,Other,PJ,57.9
+AUS,1975-76,Residential,PJ,246.4
+AUS,1975-76,Total,PJ,2730.8
+AUS,1975-76,Transport,PJ,715
+AUS,1975-76,Water and waste,PJ,4.8
+AUS,1976-77,Agriculture,PJ,41.2
+AUS,1976-77,Commercial and services,PJ,88.4
+AUS,1976-77,Construction,PJ,35.8
+AUS,1976-77,Electricity generation,PJ,634.3
+AUS,1976-77,Manufacturing,PJ,943.1
+AUS,1976-77,Mining,PJ,73.8
+AUS,1976-77,Other,PJ,61.7
+AUS,1976-77,Residential,PJ,260.2
+AUS,1976-77,Total,PJ,2905.9
+AUS,1976-77,Transport,PJ,761.9
+AUS,1976-77,Water and waste,PJ,5.5
+AUS,1977-78,Agriculture,PJ,43.3
+AUS,1977-78,Commercial and services,PJ,90.2
+AUS,1977-78,Construction,PJ,35.3
+AUS,1977-78,Electricity generation,PJ,662.6
+AUS,1977-78,Manufacturing,PJ,952.9
+AUS,1977-78,Mining,PJ,73
+AUS,1977-78,Other,PJ,62.2
+AUS,1977-78,Residential,PJ,261
+AUS,1977-78,Total,PJ,2985.1
+AUS,1977-78,Transport,PJ,798.7
+AUS,1977-78,Water and waste,PJ,6
+AUS,1978-79,Agriculture,PJ,44.9
+AUS,1978-79,Commercial and services,PJ,95.2
+AUS,1978-79,Construction,PJ,37.7
+AUS,1978-79,Electricity generation,PJ,691.6
+AUS,1978-79,Manufacturing,PJ,955.1
+AUS,1978-79,Mining,PJ,76.5
+AUS,1978-79,Other,PJ,63.6
+AUS,1978-79,Residential,PJ,270.5
+AUS,1978-79,Total,PJ,3053.1
+AUS,1978-79,Transport,PJ,812.9
+AUS,1978-79,Water and waste,PJ,5.1
+AUS,1979-80,Agriculture,PJ,47.1
+AUS,1979-80,Commercial and services,PJ,99.4
+AUS,1979-80,Construction,PJ,38.3
+AUS,1979-80,Electricity generation,PJ,743.3
+AUS,1979-80,Manufacturing,PJ,965.2
+AUS,1979-80,Mining,PJ,80.8
+AUS,1979-80,Other,PJ,65.8
+AUS,1979-80,Residential,PJ,261.9
+AUS,1979-80,Total,PJ,3131.4
+AUS,1979-80,Transport,PJ,824.6
+AUS,1979-80,Water and waste,PJ,5
+AUS,1980-81,Agriculture,PJ,48.8
+AUS,1980-81,Commercial and services,PJ,101.3
+AUS,1980-81,Construction,PJ,37.6
+AUS,1980-81,Electricity generation,PJ,778.2
+AUS,1980-81,Manufacturing,PJ,946
+AUS,1980-81,Mining,PJ,71.2
+AUS,1980-81,Other,PJ,59.9
+AUS,1980-81,Residential,PJ,262.8
+AUS,1980-81,Total,PJ,3146.3
+AUS,1980-81,Transport,PJ,835.2
+AUS,1980-81,Water and waste,PJ,5.3
+AUS,1981-82,Agriculture,PJ,53.4
+AUS,1981-82,Commercial and services,PJ,104.7
+AUS,1981-82,Construction,PJ,39
+AUS,1981-82,Electricity generation,PJ,845.3
+AUS,1981-82,Manufacturing,PJ,939.5
+AUS,1981-82,Mining,PJ,71.3
+AUS,1981-82,Other,PJ,63
+AUS,1981-82,Residential,PJ,272.8
+AUS,1981-82,Total,PJ,3237.6
+AUS,1981-82,Transport,PJ,843.8
+AUS,1981-82,Water and waste,PJ,4.9
+AUS,1982-83,Agriculture,PJ,49.7
+AUS,1982-83,Commercial and services,PJ,104.5
+AUS,1982-83,Construction,PJ,34.9
+AUS,1982-83,Electricity generation,PJ,829.7
+AUS,1982-83,Manufacturing,PJ,852.7
+AUS,1982-83,Mining,PJ,75.1
+AUS,1982-83,Other,PJ,60.2
+AUS,1982-83,Residential,PJ,273.2
+AUS,1982-83,Total,PJ,3122.7
+AUS,1982-83,Transport,PJ,837
+AUS,1982-83,Water and waste,PJ,5.7
+AUS,1983-84,Agriculture,PJ,55.7
+AUS,1983-84,Commercial and services,PJ,105.6
+AUS,1983-84,Construction,PJ,33.3
+AUS,1983-84,Electricity generation,PJ,846.6
+AUS,1983-84,Manufacturing,PJ,887.8
+AUS,1983-84,Mining,PJ,83.2
+AUS,1983-84,Other,PJ,63.8
+AUS,1983-84,Residential,PJ,276
+AUS,1983-84,Total,PJ,3221.2
+AUS,1983-84,Transport,PJ,864.1
+AUS,1983-84,Water and waste,PJ,5
+AUS,1984-85,Agriculture,PJ,54.7
+AUS,1984-85,Commercial and services,PJ,109.9
+AUS,1984-85,Construction,PJ,31.2
+AUS,1984-85,Electricity generation,PJ,900.9
+AUS,1984-85,Manufacturing,PJ,934.3
+AUS,1984-85,Mining,PJ,96.9
+AUS,1984-85,Other,PJ,63.5
+AUS,1984-85,Residential,PJ,282.1
+AUS,1984-85,Total,PJ,3370.7
+AUS,1984-85,Transport,PJ,892.1
+AUS,1984-85,Water and waste,PJ,5.2
+AUS,1985-86,Agriculture,PJ,54
+AUS,1985-86,Commercial and services,PJ,116.1
+AUS,1985-86,Construction,PJ,34.7
+AUS,1985-86,Electricity generation,PJ,896.2
+AUS,1985-86,Manufacturing,PJ,939.6
+AUS,1985-86,Mining,PJ,97.9
+AUS,1985-86,Other,PJ,63.8
+AUS,1985-86,Residential,PJ,288.4
+AUS,1985-86,Total,PJ,3402.5
+AUS,1985-86,Transport,PJ,906.3
+AUS,1985-86,Water and waste,PJ,5.5
+AUS,1986-87,Agriculture,PJ,56.4
+AUS,1986-87,Commercial and services,PJ,122.9
+AUS,1986-87,Construction,PJ,34.9
+AUS,1986-87,Electricity generation,PJ,939.5
+AUS,1986-87,Manufacturing,PJ,966
+AUS,1986-87,Mining,PJ,105
+AUS,1986-87,Other,PJ,64.6
+AUS,1986-87,Residential,PJ,298.1
+AUS,1986-87,Total,PJ,3514.4
+AUS,1986-87,Transport,PJ,922.1
+AUS,1986-87,Water and waste,PJ,4.9
+AUS,1987-88,Agriculture,PJ,55.4
+AUS,1987-88,Commercial and services,PJ,129.4
+AUS,1987-88,Construction,PJ,39.4
+AUS,1987-88,Electricity generation,PJ,962.5
+AUS,1987-88,Manufacturing,PJ,988.3
+AUS,1987-88,Mining,PJ,116.7
+AUS,1987-88,Other,PJ,63.9
+AUS,1987-88,Residential,PJ,296.2
+AUS,1987-88,Total,PJ,3623
+AUS,1987-88,Transport,PJ,966
+AUS,1987-88,Water and waste,PJ,5.2
+AUS,1988-89,Agriculture,PJ,58.5
+AUS,1988-89,Commercial and services,PJ,136.7
+AUS,1988-89,Construction,PJ,41.5
+AUS,1988-89,Electricity generation,PJ,1047.6
+AUS,1988-89,Manufacturing,PJ,1041
+AUS,1988-89,Mining,PJ,129.3
+AUS,1988-89,Other,PJ,66.4
+AUS,1988-89,Residential,PJ,301.5
+AUS,1988-89,Total,PJ,3832.7
+AUS,1988-89,Transport,PJ,1004.9
+AUS,1988-89,Water and waste,PJ,5.4
+AUS,1989-90,Agriculture,PJ,55.1
+AUS,1989-90,Commercial and services,PJ,145.5
+AUS,1989-90,Construction,PJ,41
+AUS,1989-90,Electricity generation,PJ,1066
+AUS,1989-90,Manufacturing,PJ,1067.4
+AUS,1989-90,Mining,PJ,159.9
+AUS,1989-90,Other,PJ,70.8
+AUS,1989-90,Residential,PJ,322.3
+AUS,1989-90,Total,PJ,3945.9
+AUS,1989-90,Transport,PJ,1012.4
+AUS,1989-90,Water and waste,PJ,5.4
+AUS,1990-91,Agriculture,PJ,55.8
+AUS,1990-91,Commercial and services,PJ,151.1
+AUS,1990-91,Construction,PJ,37.2
+AUS,1990-91,Electricity generation,PJ,1065
+AUS,1990-91,Manufacturing,PJ,1073.9
+AUS,1990-91,Mining,PJ,164.6
+AUS,1990-91,Other,PJ,65.8
+AUS,1990-91,Residential,PJ,327.8
+AUS,1990-91,Total,PJ,3949.9
+AUS,1990-91,Transport,PJ,1003
+AUS,1990-91,Water and waste,PJ,5.7
+AUS,1991-92,Agriculture,PJ,57
+AUS,1991-92,Commercial and services,PJ,154.2
+AUS,1991-92,Construction,PJ,35.9
+AUS,1991-92,Electricity generation,PJ,1092.9
+AUS,1991-92,Manufacturing,PJ,1033.9
+AUS,1991-92,Mining,PJ,176.2
+AUS,1991-92,Other,PJ,68
+AUS,1991-92,Residential,PJ,334.6
+AUS,1991-92,Total,PJ,3982.7
+AUS,1991-92,Transport,PJ,1024.3
+AUS,1991-92,Water and waste,PJ,5.7
+AUS,1992-93,Agriculture,PJ,59.1
+AUS,1992-93,Commercial and services,PJ,158.8
+AUS,1992-93,Construction,PJ,34.6
+AUS,1992-93,Electricity generation,PJ,1096.4
+AUS,1992-93,Manufacturing,PJ,1066.6
+AUS,1992-93,Mining,PJ,189.3
+AUS,1992-93,Other,PJ,74.8
+AUS,1992-93,Residential,PJ,347.1
+AUS,1992-93,Total,PJ,4081.8
+AUS,1992-93,Transport,PJ,1049.6
+AUS,1992-93,Water and waste,PJ,5.5
+AUS,1993-94,Agriculture,PJ,60.9
+AUS,1993-94,Commercial and services,PJ,162.3
+AUS,1993-94,Construction,PJ,33.4
+AUS,1993-94,Electricity generation,PJ,1109.6
+AUS,1993-94,Manufacturing,PJ,1109
+AUS,1993-94,Mining,PJ,194.6
+AUS,1993-94,Other,PJ,80.7
+AUS,1993-94,Residential,PJ,344.4
+AUS,1993-94,Total,PJ,4181.9
+AUS,1993-94,Transport,PJ,1081
+AUS,1993-94,Water and waste,PJ,6
+AUS,1994-95,Agriculture,PJ,63
+AUS,1994-95,Commercial and services,PJ,172.9
+AUS,1994-95,Construction,PJ,32.3
+AUS,1994-95,Electricity generation,PJ,1162.6
+AUS,1994-95,Manufacturing,PJ,1132.4
+AUS,1994-95,Mining,PJ,213.1
+AUS,1994-95,Other,PJ,84.9
+AUS,1994-95,Residential,PJ,358.6
+AUS,1994-95,Total,PJ,4365.4
+AUS,1994-95,Transport,PJ,1139.3
+AUS,1994-95,Water and waste,PJ,6.3
+AUS,1995-96,Agriculture,PJ,63.2
+AUS,1995-96,Commercial and services,PJ,183.6
+AUS,1995-96,Construction,PJ,31.1
+AUS,1995-96,Electricity generation,PJ,1211.8
+AUS,1995-96,Manufacturing,PJ,1135.4
+AUS,1995-96,Mining,PJ,237.6
+AUS,1995-96,Other,PJ,86.8
+AUS,1995-96,Residential,PJ,368.4
+AUS,1995-96,Total,PJ,4505.5
+AUS,1995-96,Transport,PJ,1181.5
+AUS,1995-96,Water and waste,PJ,6.1
+AUS,1996-97,Agriculture,PJ,65.7
+AUS,1996-97,Commercial and services,PJ,189.6
+AUS,1996-97,Construction,PJ,30
+AUS,1996-97,Electricity generation,PJ,1244.1
+AUS,1996-97,Manufacturing,PJ,1155
+AUS,1996-97,Mining,PJ,247.9
+AUS,1996-97,Other,PJ,93.3
+AUS,1996-97,Residential,PJ,376.3
+AUS,1996-97,Total,PJ,4611.1
+AUS,1996-97,Transport,PJ,1203
+AUS,1996-97,Water and waste,PJ,6.2
+AUS,1997-98,Agriculture,PJ,67.7
+AUS,1997-98,Commercial and services,PJ,198.4
+AUS,1997-98,Construction,PJ,30.3
+AUS,1997-98,Electricity generation,PJ,1347.3
+AUS,1997-98,Manufacturing,PJ,1179.3
+AUS,1997-98,Mining,PJ,261.5
+AUS,1997-98,Other,PJ,92.9
+AUS,1997-98,Residential,PJ,383.5
+AUS,1997-98,Total,PJ,4777.6
+AUS,1997-98,Transport,PJ,1210.2
+AUS,1997-98,Water and waste,PJ,6.5
+AUS,1998-99,Agriculture,PJ,69.4
+AUS,1998-99,Commercial and services,PJ,204.7
+AUS,1998-99,Construction,PJ,29.5
+AUS,1998-99,Electricity generation,PJ,1415.6
+AUS,1998-99,Manufacturing,PJ,1192.9
+AUS,1998-99,Mining,PJ,260.7
+AUS,1998-99,Other,PJ,91.9
+AUS,1998-99,Residential,PJ,384.6
+AUS,1998-99,Total,PJ,4884.7
+AUS,1998-99,Transport,PJ,1228.5
+AUS,1998-99,Water and waste,PJ,6.9
+AUS,1999-00,Agriculture,PJ,71.5
+AUS,1999-00,Commercial and services,PJ,211.3
+AUS,1999-00,Construction,PJ,28.6
+AUS,1999-00,Electricity generation,PJ,1427.4
+AUS,1999-00,Manufacturing,PJ,1191.9
+AUS,1999-00,Mining,PJ,272.5
+AUS,1999-00,Other,PJ,102
+AUS,1999-00,Residential,PJ,391.9
+AUS,1999-00,Total,PJ,4971
+AUS,1999-00,Transport,PJ,1266.6
+AUS,1999-00,Water and waste,PJ,7.2
+AUS,2000-01,Agriculture,PJ,85.5
+AUS,2000-01,Commercial and services,PJ,214.5
+AUS,2000-01,Construction,PJ,28.2
+AUS,2000-01,Electricity generation,PJ,1507.9
+AUS,2000-01,Manufacturing,PJ,1188.3
+AUS,2000-01,Mining,PJ,253.9
+AUS,2000-01,Other,PJ,77.6
+AUS,2000-01,Residential,PJ,398
+AUS,2000-01,Total,PJ,5011.8
+AUS,2000-01,Transport,PJ,1249.1
+AUS,2000-01,Water and waste,PJ,8.8
+AUS,2001-02,Agriculture,PJ,86.2
+AUS,2001-02,Commercial and services,PJ,221.9
+AUS,2001-02,Construction,PJ,28.4
+AUS,2001-02,Electricity generation,PJ,1542.9
+AUS,2001-02,Manufacturing,PJ,1207.4
+AUS,2001-02,Mining,PJ,268.8
+AUS,2001-02,Other,PJ,82.5
+AUS,2001-02,Residential,PJ,389
+AUS,2001-02,Total,PJ,5097
+AUS,2001-02,Transport,PJ,1261.1
+AUS,2001-02,Water and waste,PJ,9
+AUS,2002-03,Agriculture,PJ,97.744
+AUS,2002-03,Commercial and services,PJ,250.722
+AUS,2002-03,Construction,PJ,27.706
+AUS,2002-03,Electricity generation,PJ,1566.704
+AUS,2002-03,Manufacturing,PJ,1174.991
+AUS,2002-03,Mining,PJ,258.324
+AUS,2002-03,Other,PJ,75.224
+AUS,2002-03,Residential,PJ,411.604
+AUS,2002-03,Total,PJ,5138.674
+AUS,2002-03,Transport,PJ,1265.905
+AUS,2002-03,Water and waste,PJ,9.751
+AUS,2003-04,Agriculture,PJ,97.635
+AUS,2003-04,Commercial and services,PJ,255.899
+AUS,2003-04,Construction,PJ,27.388
+AUS,2003-04,Electricity generation,PJ,1664.844
+AUS,2003-04,Manufacturing,PJ,1136.581
+AUS,2003-04,Mining,PJ,268.454
+AUS,2003-04,Other,PJ,80.682
+AUS,2003-04,Residential,PJ,415.031
+AUS,2003-04,Total,PJ,5284.727
+AUS,2003-04,Transport,PJ,1327.831
+AUS,2003-04,Water and waste,PJ,10.381
+AUS,2004-05,Agriculture,PJ,101.452
+AUS,2004-05,Commercial and services,PJ,256.422
+AUS,2004-05,Construction,PJ,27.838
+AUS,2004-05,Electricity generation,PJ,1706.422
+AUS,2004-05,Manufacturing,PJ,1163.688
+AUS,2004-05,Mining,PJ,290.229
+AUS,2004-05,Other,PJ,73.819
+AUS,2004-05,Residential,PJ,410.877
+AUS,2004-05,Total,PJ,5399.2
+AUS,2004-05,Transport,PJ,1358.051
+AUS,2004-05,Water and waste,PJ,10.402
+AUS,2005-06,Agriculture,PJ,96.902
+AUS,2005-06,Commercial and services,PJ,259.377
+AUS,2005-06,Construction,PJ,26.334
+AUS,2005-06,Electricity generation,PJ,1730.651
+AUS,2005-06,Manufacturing,PJ,1231.36
+AUS,2005-06,Mining,PJ,307.87
+AUS,2005-06,Other,PJ,77.061
+AUS,2005-06,Residential,PJ,417.966
+AUS,2005-06,Total,PJ,5546.742
+AUS,2005-06,Transport,PJ,1388.188
+AUS,2005-06,Water and waste,PJ,11.034
+AUS,2006-07,Agriculture,PJ,94.153
+AUS,2006-07,Commercial and services,PJ,272.618
+AUS,2006-07,Construction,PJ,26.346
+AUS,2006-07,Electricity generation,PJ,1807.799
+AUS,2006-07,Manufacturing,PJ,1258.667
+AUS,2006-07,Mining,PJ,327.328
+AUS,2006-07,Other,PJ,73.203
+AUS,2006-07,Residential,PJ,426.662
+AUS,2006-07,Total,PJ,5723.991
+AUS,2006-07,Transport,PJ,1425.686
+AUS,2006-07,Water and waste,PJ,11.528
+AUS,2007-08,Agriculture,PJ,94.972
+AUS,2007-08,Commercial and services,PJ,274.47
+AUS,2007-08,Construction,PJ,26.353
+AUS,2007-08,Electricity generation,PJ,1823.947
+AUS,2007-08,Manufacturing,PJ,1207.474
+AUS,2007-08,Mining,PJ,334.777
+AUS,2007-08,Other,PJ,73.719
+AUS,2007-08,Residential,PJ,431.174
+AUS,2007-08,Total,PJ,5738.33
+AUS,2007-08,Transport,PJ,1458.023
+AUS,2007-08,Water and waste,PJ,13.422
+AUS,2008-09,Agriculture,PJ,93.857
+AUS,2008-09,Commercial and services,PJ,278.677
+AUS,2008-09,Construction,PJ,32.524
+AUS,2008-09,Electricity generation,PJ,1913.916
+AUS,2008-09,Manufacturing,PJ,1171.426
+AUS,2008-09,Mining,PJ,369.43
+AUS,2008-09,Other,PJ,73.238
+AUS,2008-09,Residential,PJ,437.417
+AUS,2008-09,Total,PJ,5844.233
+AUS,2008-09,Transport,PJ,1460.139
+AUS,2008-09,Water and waste,PJ,13.609
+AUS,2009-10,Agriculture,PJ,96.107
+AUS,2009-10,Commercial and services,PJ,284.444
+AUS,2009-10,Construction,PJ,32.612
+AUS,2009-10,Electricity generation,PJ,1755.198
+AUS,2009-10,Manufacturing,PJ,1259.843
+AUS,2009-10,Mining,PJ,372.312
+AUS,2009-10,Other,PJ,75.312
+AUS,2009-10,Residential,PJ,444.253
+AUS,2009-10,Total,PJ,5823.803
+AUS,2009-10,Transport,PJ,1490.826
+AUS,2009-10,Water and waste,PJ,12.897
+AUS,2010-11,Agriculture,PJ,96.178
+AUS,2010-11,Commercial and services,PJ,291.261
+AUS,2010-11,Construction,PJ,32.518
+AUS,2010-11,Electricity generation,PJ,1682.641
+AUS,2010-11,Manufacturing,PJ,1330.597
+AUS,2010-11,Mining,PJ,407.472
+AUS,2010-11,Other,PJ,70.623
+AUS,2010-11,Residential,PJ,454.096
+AUS,2010-11,Total,PJ,5902.889
+AUS,2010-11,Transport,PJ,1524.388
+AUS,2010-11,Water and waste,PJ,13.114
+AUS,2011-12,Agriculture,PJ,98.189
+AUS,2011-12,Commercial and services,PJ,286.671
+AUS,2011-12,Construction,PJ,31.527
+AUS,2011-12,Electricity generation,PJ,1726.34
+AUS,2011-12,Manufacturing,PJ,1214.905
+AUS,2011-12,Mining,PJ,448.09
+AUS,2011-12,Other,PJ,66.159
+AUS,2011-12,Residential,PJ,453.35
+AUS,2011-12,Total,PJ,5888.427
+AUS,2011-12,Transport,PJ,1547.647
+AUS,2011-12,Water and waste,PJ,15.548
+AUS,2012-13,Agriculture,PJ,99.321
+AUS,2012-13,Commercial and services,PJ,296.085
+AUS,2012-13,Construction,PJ,31.408
+AUS,2012-13,Electricity generation,PJ,1600.091
+AUS,2012-13,Manufacturing,PJ,1278.904
+AUS,2012-13,Mining,PJ,500.918
+AUS,2012-13,Other,PJ,67.846
+AUS,2012-13,Residential,PJ,455.116
+AUS,2012-13,Total,PJ,5916.732
+AUS,2012-13,Transport,PJ,1574.03
+AUS,2012-13,Water and waste,PJ,13.014
+AUS,2013-14,Agriculture,PJ,99.628
+AUS,2013-14,Commercial and services,PJ,291.452
+AUS,2013-14,Construction,PJ,31.453
+AUS,2013-14,Electricity generation,PJ,1564.843
+AUS,2013-14,Manufacturing,PJ,1247.058
+AUS,2013-14,Mining,PJ,529.486
+AUS,2013-14,Other,PJ,65.313
+AUS,2013-14,Residential,PJ,435.059
+AUS,2013-14,Total,PJ,5870.951
+AUS,2013-14,Transport,PJ,1592.195
+AUS,2013-14,Water and waste,PJ,14.464
+AUS,2014-15,Agriculture,PJ,104.54
+AUS,2014-15,Commercial and services,PJ,319.761
+AUS,2014-15,Construction,PJ,36.596
+AUS,2014-15,Electricity generation,PJ,1650.436
+AUS,2014-15,Manufacturing,PJ,1126.112
+AUS,2014-15,Mining,PJ,521.228
+AUS,2014-15,Other,PJ,58.523
+AUS,2014-15,Residential,PJ,443.752
+AUS,2014-15,Total,PJ,5898.418
+AUS,2014-15,Transport,PJ,1623.255
+AUS,2014-15,Water and waste,PJ,14.214
+AUS,2015-16,Agriculture,PJ,109.756
+AUS,2015-16,Commercial and services,PJ,314.066
+AUS,2015-16,Construction,PJ,39.305
+AUS,2015-16,Electricity generation,PJ,1697.748
+AUS,2015-16,Manufacturing,PJ,1122.94
+AUS,2015-16,Mining,PJ,575.617
+AUS,2015-16,Other,PJ,61.836
+AUS,2015-16,Residential,PJ,444.272
+AUS,2015-16,Total,PJ,6034.872
+AUS,2015-16,Transport,PJ,1654.861
+AUS,2015-16,Water and waste,PJ,14.471
+AUS,2016-17,Agriculture,PJ,116.296
+AUS,2016-17,Commercial and services,PJ,314.578
+AUS,2016-17,Construction,PJ,39.885
+AUS,2016-17,Electricity generation,PJ,1662.634
+AUS,2016-17,Manufacturing,PJ,1092.644
+AUS,2016-17,Mining,PJ,666.337
+AUS,2016-17,Other,PJ,54.139
+AUS,2016-17,Residential,PJ,453.634
+AUS,2016-17,Total,PJ,6104.651
+AUS,2016-17,Transport,PJ,1690.063
+AUS,2016-17,Water and waste,PJ,14.441
+AUS,2017-18,Agriculture,PJ,117.57
+AUS,2017-18,Commercial and services,PJ,319.22
+AUS,2017-18,Construction,PJ,43.419
+AUS,2017-18,Electricity generation,PJ,1601.68
+AUS,2017-18,Manufacturing,PJ,1101.804
+AUS,2017-18,Mining,PJ,729.741
+AUS,2017-18,Other,PJ,56.415
+AUS,2017-18,Residential,PJ,449.002
+AUS,2017-18,Total,PJ,6168.093
+AUS,2017-18,Transport,PJ,1734.086
+AUS,2017-18,Water and waste,PJ,15.155
+AUS,2018-19,Agriculture,PJ,98.842
+AUS,2018-19,Commercial and services,PJ,310.714
+AUS,2018-19,Construction,PJ,42.834
+AUS,2018-19,Electricity generation,PJ,1566.394
+AUS,2018-19,Manufacturing,PJ,1080.952
+AUS,2018-19,Mining,PJ,812.435
+AUS,2018-19,Other,PJ,56.037
+AUS,2018-19,Residential,PJ,457.002
+AUS,2018-19,Total,PJ,6188.282
+AUS,2018-19,Transport,PJ,1746.578
+AUS,2018-19,Water and waste,PJ,16.493
+AUS,2019-20,Agriculture,PJ,87.993
+AUS,2019-20,Commercial and services,PJ,298.007
+AUS,2019-20,Construction,PJ,40.433
+AUS,2019-20,Electricity generation,PJ,1523.152
+AUS,2019-20,Manufacturing,PJ,1054.984
+AUS,2019-20,Mining,PJ,853.565
+AUS,2019-20,Other,PJ,58.399
+AUS,2019-20,Residential,PJ,474.474
+AUS,2019-20,Total,PJ,6001.048
+AUS,2019-20,Transport,PJ,1589.945
+AUS,2019-20,Water and waste,PJ,20.096
+AUS,2020-21,Agriculture,PJ,118.707
+AUS,2020-21,Commercial and services,PJ,288.077
+AUS,2020-21,Construction,PJ,38.793
+AUS,2020-21,Electricity generation,PJ,1454.983
+AUS,2020-21,Manufacturing,PJ,1042.927
+AUS,2020-21,Mining,PJ,850.351
+AUS,2020-21,Other,PJ,54.051
+AUS,2020-21,Residential,PJ,484.126
+AUS,2020-21,Total,PJ,5769.218
+AUS,2020-21,Transport,PJ,1418.279
+AUS,2020-21,Water and waste,PJ,18.925
+AUS,2021-22,Agriculture,PJ,114.588
+AUS,2021-22,Commercial and services,PJ,296.092
+AUS,2021-22,Construction,PJ,37.212
+AUS,2021-22,Electricity generation,PJ,1405.902
+AUS,2021-22,Manufacturing,PJ,1028.856
+AUS,2021-22,Mining,PJ,865.893
+AUS,2021-22,Other,PJ,53.586
+AUS,2021-22,Residential,PJ,497.336
+AUS,2021-22,Total,PJ,5765.137
+AUS,2021-22,Transport,PJ,1447.826
+AUS,2021-22,Water and waste,PJ,17.845
+AUS,2022-23,Agriculture,PJ,105.859
+AUS,2022-23,Commercial and services,PJ,308.112
+AUS,2022-23,Construction,PJ,36.64
+AUS,2022-23,Electricity generation,PJ,1378.274
+AUS,2022-23,Manufacturing,PJ,996.298
+AUS,2022-23,Mining,PJ,883.072
+AUS,2022-23,Other,PJ,50.975
+AUS,2022-23,Residential,PJ,484.169
+AUS,2022-23,Total,PJ,5882.206
+AUS,2022-23,Transport,PJ,1622.125
+AUS,2022-23,Water and waste,PJ,16.682
 NSW,1973-74,Agriculture,PJ,9.8
 NSW,1973-74,Commercial and services,PJ,29.3
 NSW,1973-74,Construction,PJ,6.2
