@@ -252,6 +252,15 @@
                                     "Commercial and services",
                                     "Agriculture",
                                     "Residential"
+                                ],
+                                "range":[
+                                    "#FFA500",
+                                    "#FCCD2A",
+                                    "#A020F0",
+                                    "#4A4947",
+                                    "#FF6500",
+                                    "#72BF78",
+                                    "#2A9DF4"
                                 ]
                             }
                         },

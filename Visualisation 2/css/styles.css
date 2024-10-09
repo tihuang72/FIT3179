@@ -8,14 +8,14 @@ h1 {
 }
 p {
     font-family: "Roboto", serif;
-    font-size: 14;
+    font-size: 18;
     font-weight: 400;
 }
 body {
     background-color: lightgray;
 }
 .vega-bind select{
-    font-size: 14;
+    font-size: 18;
     font-family:Roboto;
 }
 .center{
