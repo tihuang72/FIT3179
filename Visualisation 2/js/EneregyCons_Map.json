@@ -1,15 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Solar capacity and solar farm station locations",
-  "width": 600,
+  "width": 800,
   "height": 500,
-  "data": {
-    "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
-    "format": {
-      "type": "topojson",
-      "feature": "LGA_2021_AUST_GDA2020"
-    }
-  },
   "params": [
     {
       "name": "zoom_level",
@@ -31,13 +24,34 @@
       "bind": {
         "input": "select",
         "options": [
-          [147,-32.1],
-          [145,-35.5],
-          [151.2,-30.8],
-          [147.3,-22.9],
-          [138.4,-34.6],
-          [115.5,-31.6],
-          [146.8,-42]
+          [
+            132,
+            -23
+          ],
+          [
+            145,
+            -35.5
+          ],
+          [
+            151.2,
+            -30.8
+          ],
+          [
+            147.3,
+            -22.9
+          ],
+          [
+            138.4,
+            -34.6
+          ],
+          [
+            115.5,
+            -31.6
+          ],
+          [
+            146.8,
+            -42
+          ]
         ],
         "labels": [
           "Central Australia",
@@ -50,6 +64,30 @@
         ],
         "name": "Map Centre: "
       }
+    },
+    {
+      "name": "energy",
+      "value": [
+        "Residential Capacity (MW)"
+      ],
+      "bind": {
+        "input": "select",
+        "options": [
+          "Residential Capacity (MW)",
+          "Rural / Primacy Production Capacity (MW)",
+          "Industrial Capacity (MW)",
+          "Commercial Capacity (MW)",
+          "Mixed Capacity (MW)"
+        ],
+        "labels": [
+          "Residential",
+          "Rural",
+          "Industrial",
+          "Commercial",
+          "Mixed"
+        ],
+        "name": "Solar Energy Type: "
+      }
     }
   ],
   "projection": {
@@ -57,7 +95,9 @@
     "scale": {
       "expr": "zoom_level"
     },
-    "center": {"expr": "center_to"}
+    "center": {
+      "expr": "center_to"
+    }
   },
   "layer": [
     {
@@ -87,44 +127,53 @@
       }
     },
     {
-      "transform": [
-        {
-          "lookup": "properties.LGA_CODE21",
-          "from": {
-            "data": {
-              "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/LGA2016zones.csv"
-            },
-            "key": "LGA_CODE_2016",
-            "fields": [
-              "Residential Capacity (MW)"
-            ]
-          }
-        }
-      ],
-      "mark": {
-        "type": "geoshape",
-        "font": "Sixtyfour Convergence"
-      },
-      "encoding": {
-        "color": {
-          "field": "Residential Capacity (MW)",
-          "type": "quantitative",
-          "scale":{
-            "scheme":"oranges"
+      "data": {
+    "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/SolarLGA2016.csv"
+  },
+  "transform": [
+    {
+      "lookup": "LGA_CODE_2016",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
+          "format": {
+            "type": "topojson",
+            "feature": "LGA_2021_AUST_GDA2020"
           }
         },
-        "tooltip": [
-          {
-            "field": "properties.LGA_NAME21",
-            "type": "nominal",
-            "title": "Local Government Area"
-          },
-          {
-            "field": "Residential Capacity (MW)",
-            "type": "quantitative"
-          }
-        ]
+        "key": "properties.LGA_CODE21"
+      },
+      "as": "geo"
+    },
+    {
+      "filter": "datum.EnergyType == energy"
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "font": "Sixtyfour Convergence"
+  },
+  "encoding": {
+    "shape":{"field":"geo","type":"geojson"},
+    "color": {
+      "field": "Capacity",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "oranges"
       }
+    },
+    "tooltip": [
+      {
+        "field": "LGA_NAME_2016",
+        "type": "nominal",
+        "title": "Local Government Area"
+      },
+      {
+        "field": "Capacity",
+        "type": "quantitative"
+      }
+    ]
+  }
     },
     {
       "data": {

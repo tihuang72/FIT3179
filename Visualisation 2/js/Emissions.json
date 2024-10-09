@@ -12,6 +12,7 @@
         {
             "field": "Net greenhouse gas emissions (MtCO2-e)"
         }
-      ]
+      ],
+      "color":{"value": "#4A4947"}
     }
   }

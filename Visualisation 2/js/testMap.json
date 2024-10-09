@@ -1,0 +1,82 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Solar capacity and solar farm station locations",
+  "width": 800,
+  "height": 500,
+  "projection": {
+    "type": "equirectangular"
+  },
+  "params": [
+    {
+      "name": "energy",
+      "value": [
+        "Residential Capacity (MW)"
+      ],
+      "bind": {
+        "input": "select",
+        "options": [
+          "Residential Capacity (MW)",
+          "Rural / Primacy Production Capacity (MW)",
+          "Industrial Capacity (MW)",
+          "Commercial Capacity (MW)",
+          "Mixed Capacity (MW)"
+        ],
+        "labels": [
+          "Residential",
+          "Rural",
+          "Industrial",
+          "Commercial",
+          "Mixed"
+        ],
+        "name": "Solar Energy Type: "
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/SolarLGA2016.csv"
+  },
+  "transform": [
+    {
+      "lookup": "LGA_CODE_2016",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
+          "format": {
+            "type": "topojson",
+            "feature": "LGA_2021_AUST_GDA2020"
+          }
+        },
+        "key": "properties.LGA_CODE21"
+      },
+      "as": "geo"
+    },
+    {
+      "filter": "datum.EnergyType == energy"
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "font": "Sixtyfour Convergence"
+  },
+  "encoding": {
+    "shape":{"field":"geo","type":"geojson"},
+    "color": {
+      "field": "Capacity",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "oranges"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.LGA_NAME21",
+        "type": "nominal",
+        "title": "Local Government Area"
+      },
+      {
+        "field": "Capacity",
+        "type": "quantitative"
+      }
+    ]
+  }
+}
