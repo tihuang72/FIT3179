@@ -9,6 +9,7 @@
     "params": [
         {
             "name": "Fuel_Source",
+            "value": "Renewable",
             "bind": {
                 "input": "select",
                 "options": [

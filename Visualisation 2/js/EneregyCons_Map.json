@@ -108,7 +108,10 @@
       "encoding": {
         "color": {
           "field": "Residential Capacity (MW)",
-          "type": "quantitative"
+          "type": "quantitative",
+          "scale":{
+            "scheme":"oranges"
+          }
         },
         "tooltip": [
           {
@@ -151,7 +154,7 @@
         "color": {
           "field": "",
           "type": "nominal",
-          "value": "#000000"
+          "value": "#00008B"
         },
         "tooltip": [
           {

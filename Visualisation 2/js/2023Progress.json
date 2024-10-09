@@ -1,0 +1,98 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 300,
+    "data": {
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/GenerationPerformance2023.csv"
+    },
+    "params": [
+        {
+            "name": "State",
+            "value": "AUS",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "AUS",
+                    "VIC",
+                    "NSW",
+                    "QLD",
+                    "SA",
+                    "WA",
+                    "NT",
+                    "TAS"
+                ],
+                "labels": [
+                    "Australia",
+                    "Victoria",
+                    "New South Wales",
+                    "Queensland",
+                    "South Australia",
+                    "Western Australia",
+                    "Northern Teritory",
+                    "Tasmania"
+                ],
+                "name": "State: "
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "datum.Jurisdiction == State"
+        }
+    ],
+    "title": "2023 Energy Mix",
+    "encoding": {
+        "y":{
+            "field":"Fuel",
+            "type": "nominal"
+        },
+        "x":{
+            "field":"Percentage",
+            "type": "quantitative"
+        },
+        "color":{
+            "field": "Fuel",
+            "scale":{
+                "domain":[
+                    "Coal",
+                    "Gas",
+                    "Oil",
+                    "Renewables"
+                ],
+                "range":[
+                    "#4A4947",
+                    "#D8D2C2",
+                    "#705C53",
+                    "#72BF78"
+                ]
+            }
+        },
+        "tooltip":[
+            {
+                "field":"Fuel"
+            },
+            {
+                "field":"Quantity",
+                "title": "Absolute Quantity",
+                "format": ".1f"
+            }
+        ]
+    },
+    "layer": [
+        {
+            "mark": "bar"
+        },
+        {
+            "mark":{
+                "type": "text",
+                "align": "left",
+                "baseline":"middle",
+                "dx":3
+            },
+            "encoding": {
+                "text":{"field":"Percentage","type": "quantitative","format": ".1f"}
+            }
+        }
+    ]
+
+}

@@ -77,21 +77,44 @@
         </div>
         <!-- end pure grid group -->
 
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <div id="vis4" class="vis-container"></div>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <div id="vis5" class="vis-container"></div>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+
     </div> <!-- end page -->
 
 
 
     <script type="text/javascript">
-        var specVis1 = "js/EneregyCons_Map.json";
-        var specVis2 = "js/EnergyGen_StreamGraph.json";
-        var specVis3 = "js/ConsumptionExports.json";
+        var solarMap = "js/EneregyCons_Map.json";
+        var energyGen = "js/EnergyGen_StreamGraph.json";
+        var consumEportTime = "js/ConsumptionExports.json";
+        var emissions = "js/Emissions.json";
+        var energyProgress = "js/2023Progress.json";
 
-        vegaEmbed('#vis1', specVis1, { "actions": false });
+        vegaEmbed('#vis1', solarMap, { "actions": false });
 
-        vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
+        vegaEmbed('#vis2', energyGen, { "actions": false }).then(function (result) {
         }).catch(console.error);
 
-        vegaEmbed('#vis3', specVis3, { "actions": false });
+        vegaEmbed('#vis3', consumEportTime, { "actions": false });
+
+        vegaEmbed('#vis4', emissions, { "actions": false });
+
+        vegaEmbed('#vis5', energyProgress, { "actions": false });
+
 
     </script>
 </body>
