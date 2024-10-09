@@ -1,18 +1,48 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 250,
-    "height": 150,
-    "title": "Australia's Net GHG Emissions",
-    "data": {"url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/Emissions.csv"},
-    "mark": {"type": "line","strokeWidth": 4},
+    "width": 300,
+    "height": 300,
+    "title": {
+        "text": "Australia's Net GHG Emissions",
+        "fontSize": 20,
+        "font": "Roboto"
+    },
+    "data": {
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/Emissions.csv"
+    },
+    "mark": {
+        "type": "line",
+        "strokeWidth": 4
+    },
     "encoding": {
-      "x": {"field": "Year","type": "temporal"},
-      "y": {"field": "Net greenhouse gas emissions (MtCO2-e)", "type": "quantitative","title":"Net GHG emissions (MtCO2-e)"},
-      "tooltip":[
-        {
-            "field": "Net greenhouse gas emissions (MtCO2-e)"
+        "x": {
+            "field": "Year",
+            "type": "temporal",
+            "axis": {
+                "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
+            }
+        },
+        "y": {
+            "field": "Net greenhouse gas emissions (MtCO2-e)",
+            "type": "quantitative",
+            "title": "Net GHG emissions (MtCO2-e)",
+            "axis": {
+                "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
+            }
+        },
+        "tooltip": [
+            {
+                "field": "Net greenhouse gas emissions (MtCO2-e)"
+            }
+        ],
+        "color": {
+            "value": "#4A4947"
         }
-      ],
-      "color":{"value": "#4A4947"}
     }
-  }
+}

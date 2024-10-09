@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 400,
+    "width": 380,
     "height": 300,
     "data": {
         "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/GenerationPerformance2023.csv"
@@ -40,26 +40,48 @@
             "filter": "datum.Jurisdiction == State"
         }
     ],
-    "title": "2023 Energy Mix",
+    "title": {
+        "text": "Energy Consumption in 2023",
+        "fontSize": 20,
+        "font": "Roboto"
+    },
     "encoding": {
-        "y":{
-            "field":"Fuel",
-            "type": "nominal"
-        },
-        "x":{
-            "field":"Percentage",
-            "type": "quantitative"
-        },
-        "color":{
+        "y": {
             "field": "Fuel",
-            "scale":{
-                "domain":[
+            "type": "nominal",
+            "axis": {
+                "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
+            }
+        },
+        "x": {
+            "field": "Percentage",
+            "type": "quantitative",
+            "axis": {
+                "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
+            }
+        },
+        "color": {
+            "field": "Fuel",
+            "legend": {
+                "labelFont": "Roboto",
+                "labelFontSize": 14,
+                "titleFont": "Roboto",
+                "titleFontSize": 16
+            },
+            "scale": {
+                "domain": [
                     "Coal",
                     "Gas",
                     "Oil",
                     "Renewables"
                 ],
-                "range":[
+                "range": [
                     "#4A4947",
                     "#D8D2C2",
                     "#705C53",
@@ -67,12 +89,12 @@
                 ]
             }
         },
-        "tooltip":[
+        "tooltip": [
             {
-                "field":"Fuel"
+                "field": "Fuel"
             },
             {
-                "field":"Quantity",
+                "field": "Quantity",
                 "title": "Absolute Quantity",
                 "format": ".1f"
             }
@@ -83,14 +105,18 @@
             "mark": "bar"
         },
         {
-            "mark":{
+            "mark": {
                 "type": "text",
                 "align": "left",
-                "baseline":"middle",
-                "dx":3
+                "baseline": "middle",
+                "dx": 3
             },
             "encoding": {
-                "text":{"field":"Percentage","type": "quantitative","format": ".1f"}
+                "text": {
+                    "field": "Percentage",
+                    "type": "quantitative",
+                    "format": ".1f"
+                }
             }
         }
     ]

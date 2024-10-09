@@ -1,11 +1,15 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 400,
+    "width": 380,
     "height": 300,
     "data": {
         "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyGenProcc.csv"
     },
-    "title": "Energy Generation (GWh)",
+    "title": {
+        "text": "Energy Generation (GWh)",
+        "fontSize": 20,
+        "font": "Roboto"
+    },
     "params": [
         {
             "name": "Fuel_Source",
@@ -50,7 +54,11 @@
                 "domain": false,
                 "format": "%Y",
                 "tickSize": 0,
-                "title": "Year"
+                "title": "Year",
+                "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
             }
         },
         "y": {
@@ -59,11 +67,23 @@
             "type": "quantitative",
             "stack": "center",
             "sort": "ascending",
-            "title": "Energy (GWh)"
+            "title": "Energy (GWh)",
+            "axis": {
+                "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
+            }
         },
         "color": {
             "field": "Fuel Type",
             "type": "nominal",
+            "legend": {
+                "labelFont": "Roboto",
+                "labelFontSize": 14,
+                "titleFont": "Roboto",
+                "titleFontSize": 16
+            },
             "scale": {
                 "domain": [
                     "Black coal",
@@ -108,8 +128,8 @@
         "tooltip": [
             {
                 "timeUnit": "year",
-                "field": "Year", 
-                "title":"Year"
+                "field": "Year",
+                "title": "Year"
             },
             {
                 "field": "Energy(GWh)",

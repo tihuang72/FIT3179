@@ -1,6 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Solar capacity and solar farm station locations",
+  "title": {
+    "text": "Solar capacity and solar farm station locations",
+    "fontSize": 20,
+    "font": "Roboto"
+  },
   "width": 800,
   "height": 500,
   "params": [
@@ -128,52 +132,61 @@
     },
     {
       "data": {
-    "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/SolarLGA2016.csv"
-  },
-  "transform": [
-    {
-      "lookup": "LGA_CODE_2016",
-      "from": {
-        "data": {
-          "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
-          "format": {
-            "type": "topojson",
-            "feature": "LGA_2021_AUST_GDA2020"
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/SolarLGA2016.csv"
+      },
+      "transform": [
+        {
+          "lookup": "LGA_CODE_2016",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/js/output.json",
+              "format": {
+                "type": "topojson",
+                "feature": "LGA_2021_AUST_GDA2020"
+              }
+            },
+            "key": "properties.LGA_CODE21"
+          },
+          "as": "geo"
+        },
+        {
+          "filter": "datum.EnergyType == energy"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "font": "Sixtyfour Convergence"
+      },
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "Capacity",
+          "type": "quantitative",
+          "legend": {
+            "labelFont": "Roboto",
+            "labelFontSize": 14,
+            "titleFont": "Roboto",
+            "titleFontSize": 16
+          },
+          "scale": {
+            "scheme": "oranges"
           }
         },
-        "key": "properties.LGA_CODE21"
-      },
-      "as": "geo"
-    },
-    {
-      "filter": "datum.EnergyType == energy"
-    }
-  ],
-  "mark": {
-    "type": "geoshape",
-    "font": "Sixtyfour Convergence"
-  },
-  "encoding": {
-    "shape":{"field":"geo","type":"geojson"},
-    "color": {
-      "field": "Capacity",
-      "type": "quantitative",
-      "scale": {
-        "scheme": "oranges"
+        "tooltip": [
+          {
+            "field": "LGA_NAME_2016",
+            "type": "nominal",
+            "title": "Local Government Area"
+          },
+          {
+            "field": "Capacity",
+            "type": "quantitative"
+          }
+        ]
       }
-    },
-    "tooltip": [
-      {
-        "field": "LGA_NAME_2016",
-        "type": "nominal",
-        "title": "Local Government Area"
-      },
-      {
-        "field": "Capacity",
-        "type": "quantitative"
-      }
-    ]
-  }
     },
     {
       "data": {

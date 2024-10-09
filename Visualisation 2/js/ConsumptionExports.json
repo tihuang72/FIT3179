@@ -1,5 +1,5 @@
 {
-    "background": "beige",
+    "background": "white",
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "params": [
         {
@@ -22,9 +22,11 @@
                 "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyExport.csv"
             },
             "title": {
-                "text": "Energy export by fuel type"
+                "text": "Energy export by fuel type",
+                "fontSize": 20,
+                "font": "Roboto"
             },
-            "width": 300,
+            "width": 380,
             "height": 200,
             "transform": [
                 {
@@ -47,8 +49,11 @@
             ],
             "encoding": {
                 "x": {
-                    "axis":{
-                        "labelFont": "Roboto"
+                    "axis": {
+                        "labelFont": "Roboto",
+                        "labelFontSize": 12,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 12
                     },
                     "field": "Year",
                     "type": "temporal"
@@ -60,6 +65,12 @@
                         "color": {
                             "field": "Fuel",
                             "type": "nominal",
+                            "legend": {
+                                "labelFont": "Roboto",
+                                "labelFontSize": 14,
+                                "titleFont": "Roboto",
+                                "titleFontSize": 16
+                            },
                             "scale": {
                                 "domain": [
                                     "Black coal",
@@ -67,17 +78,23 @@
                                     "Crude oil and ORF",
                                     "LPG"
                                 ],
-                                "range":[
+                                "range": [
                                     "#4A4947",
                                     "#D8D2C2",
                                     "#705C53",
-                                     "#B7B7B7"
+                                    "#B7B7B7"
                                 ]
                             }
                         },
                         "y": {
                             "field": "Quantity",
-                            "type": "quantitative"
+                            "type": "quantitative",
+                            "axis": {
+                                "labelFont": "Roboto",
+                                "labelFontSize": 12,
+                                "titleFont": "Roboto",
+                                "titleFontSize": 12
+                            }
                         }
                     },
                     "layer": [
@@ -170,8 +187,12 @@
             "data": {
                 "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/ConsumptionStateSector.csv"
             },
-            "title": "Energy Consumption by Industry",
-            "width": 300,
+            "title": {
+                "text": "Energy Consumption by Industry",
+                "fontSize": 20,
+                "font": "Roboto"
+            },
+            "width": 380,
             "height": 200,
             "transform": [
                 {
@@ -201,7 +222,13 @@
             "encoding": {
                 "x": {
                     "field": "Year",
-                    "type": "temporal"
+                    "type": "temporal",
+                    "axis": {
+                        "labelFont": "Roboto",
+                        "labelFontSize": 12,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 12
+                    }
                 }
             },
             "layer": [
@@ -210,6 +237,12 @@
                         "color": {
                             "field": "Industry",
                             "type": "nominal",
+                            "legend": {
+                                "labelFont": "Roboto",
+                                "labelFontSize": 14,
+                                "titleFont": "Roboto",
+                                "titleFontSize": 16
+                            },
                             "scale": {
                                 "domain": [
                                     "Transport",
@@ -224,7 +257,13 @@
                         },
                         "y": {
                             "field": "Quantity",
-                            "type": "quantitative"
+                            "type": "quantitative",
+                            "axis": {
+                                "labelFont": "Roboto",
+                                "labelFontSize": 12,
+                                "titleFont": "Roboto",
+                                "titleFontSize": 12
+                            }
                         }
                     },
                     "layer": [
