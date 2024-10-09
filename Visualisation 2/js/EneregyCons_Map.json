@@ -50,28 +50,6 @@
         ],
         "name": "Map Centre: "
       }
-    },
-    {
-      "name": "energy",
-      "value": ["Residential Capacity (MW)"],
-      "bind":{
-        "input": "select",
-        "options": [
-          "Residential Capacity (MW)",
-          "Rural / Primacy Production Capacity (MW)",
-          "Industrial Capacity (MW)",
-          "Commercial Capacity (MW)",
-          "Mixed Capacity (MW)"
-        ],
-        "labels": [
-          "Residential",
-          "Rural",
-          "Industrial",
-          "Commercial",
-          "Mixed"
-        ],
-        "name": "Solar Energy Type: "
-      }
     }
   ],
   "projection": {
@@ -124,7 +102,8 @@
         }
       ],
       "mark": {
-        "type": "geoshape"
+        "type": "geoshape",
+        "font": "Sixtyfour Convergence"
       },
       "encoding": {
         "color": {

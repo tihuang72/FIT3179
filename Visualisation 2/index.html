@@ -3,75 +3,97 @@
 
 <head>
 
-  <title>FIT3179 Visualisation 2</title>
-  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <title>FIT3179 Visualisation 2</title>
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-  <!-- Import pure.css -->
-  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
-    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+        integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Google font -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-
-  <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+    <!-- CSS file -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
 </head>
 
 <body>
-
-  <div class="page">
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <h1  style="text-align:center">Australia's Move to Renewable Energy</h1>
-        <p>Historically Australia has been a large exorter of raw materials. This trend includes that of fossil fuels in brown and black coal</p>
-      </div>
-    </div>
-    <!-- end pure grid group -->
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <div id="vis1" class="vis-container"></div>
-      </div>
-    </div>
-    <!-- end pure grid group -->
-
-    <!-- pure grid group -->
-    <div class="pure-g">
-        <div class="pure-u-1-2">
-          <div id="vis2" class="vis-container"></div>
-          <p>HELLO.</p>
+    <div class="banner">
+        <div class="pure-g">
+            <div class="pure-u-1 banner">
+                <img src="images\Banner.png">
+            </div>
         </div>
-      </div>
-      <!-- end pure grid group -->
-
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-          <p>HELLO.</p>
+    </div>
+    <div class="page">
+        <div class="blank">
         </div>
-      </div>
-  </div> <!-- end page -->
+        <div class="sectionHead">
+            <!-- pure grid group -->
+            <div class="pure-u-1">
+                <p>Historically Australia has been a large exorter of raw materials. This trend includes that of
+                    fossil fuels in brown and black coal</p>
+            </div>
 
-  <script type="text/javascript">
-    var specVis1 = "js/EneregyCons_Map.json";
-    var specVis2 = "js/EnergyGen_StreamGraph.json";
+        </div>
+        <!-- end pure grid group -->
+        <div class="blank">
+        </div>
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-2 pure-u-md-1-2">
+                <div id="vis3" class="vis-container"></div>
+            </div>
+            <div class="pure-u-1-2 pure-u-md-1-2">
+                <p>Hi whre sidhsjklfhdsjfklsdjklfjsdklfjklj</p>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+        <div class="blank">
+        </div>
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <div id="vis2" class="vis-container"></div>
+                <p>HELLO.</p>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+        <div class="blank">
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <p>HELLO.</p>
+            </div>
+        </div>
 
-    vegaEmbed('#vis1', specVis1, { "actions": false });
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <div id="vis1" class="vis-container"></div>
+            </div>
+        </div>
+        <!-- end pure grid group -->
 
-    vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+    </div> <!-- end page -->
 
-  </script>
+
+
+    <script type="text/javascript">
+        var specVis1 = "js/EneregyCons_Map.json";
+        var specVis2 = "js/EnergyGen_StreamGraph.json";
+        var specVis3 = "js/ConsumptionExports.json";
+
+        vegaEmbed('#vis1', specVis1, { "actions": false });
+
+        vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
+        }).catch(console.error);
+
+        vegaEmbed('#vis3', specVis3, { "actions": false });
+
+    </script>
 </body>
 
 </html>

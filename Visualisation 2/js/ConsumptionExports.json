@@ -1,4 +1,5 @@
 {
+    "background": "beige",
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "params": [
         {
@@ -20,9 +21,11 @@
             "data": {
                 "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyExport.csv"
             },
-            "title": "Energy export by fuel type",
+            "title": {
+                "text": "Energy export by fuel type"
+            },
             "width": 300,
-            "height": 200,
+            "height": 250,
             "transform": [
                 {
                     "filter": {
@@ -44,6 +47,9 @@
             ],
             "encoding": {
                 "x": {
+                    "axis":{
+                        "labelFont": "Roboto"
+                    },
                     "field": "Year",
                     "type": "temporal"
                 }
@@ -160,7 +166,7 @@
             },
             "title": "Energy Consumption by Industry",
             "width": 300,
-            "height": 200,
+            "height": 250,
             "transform": [
                 {
                     "filter": {
