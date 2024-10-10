@@ -26,6 +26,9 @@
         <div class="pure-u-11">
             <div id="vis1" class="vis-container"></div>
         </div>
+        <div class="pure-u-11">
+            <div id="vis2" class="vis-container"></div>
+        </div>
         
 
     </div> <!-- end page -->
@@ -34,8 +37,10 @@
 
     <script type="text/javascript">
         var Consumption = "js/Consumption.json";
+        var map = "js/map.json"
 
         vegaEmbed('#vis1', Consumption, { "actions": false });
+        vegaEmbed('#vis2', map, { "actions": false });
 
     </script>
 </body>
