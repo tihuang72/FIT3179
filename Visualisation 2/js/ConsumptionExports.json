@@ -5,11 +5,11 @@
         {
             "name": "yearRange",
             "value": [
-                1973
+                1974
             ],
             "bind": {
                 "input": "range",
-                "min": 1973,
+                "min": 1974,
                 "max": 2021,
                 "step": 1,
                 "name": "Select Year Range: "
@@ -44,7 +44,7 @@
                     }
                 },
                 {
-                    "filter": "year(datum.Year) >= yearRange"
+                    "filter": "year(datum.Year) <= yearRange"
                 }
             ],
             "encoding": {
@@ -216,7 +216,7 @@
                     }
                 },
                 {
-                    "filter": "year(datum.Year) >= yearRange"
+                    "filter": "year(datum.Year) <= yearRange"
                 }
             ],
             "encoding": {
