@@ -10,7 +10,7 @@
             "bind": {
                 "input": "range",
                 "min": 1974,
-                "max": 2021,
+                "max": 2022,
                 "step": 1,
                 "name": "Select Year Range: "
             }
