@@ -85,7 +85,7 @@
                             "Agriculture",
                             "Residential"
                         ],
-                        "range":[
+                        "range": [
                             "#FFA500",
                             "#FCCD2A",
                             "#A020F0",
@@ -121,6 +121,32 @@
                         }
                     ],
                     "mark": "point"
+                }
+            ]
+        },
+        {
+            "data": {
+                "values": [
+                    {
+                        "Year": "2005",
+                        "Quantity": 5000
+                    }
+                ]
+            },
+            "mark": {
+                "type": "text",
+                "baseline": "middle",
+                "dy": -95
+            },
+            "encoding": {
+                "text": {
+                    "value": "Mining Boom"
+                }
+            },
+            "transform": [
+                {
+   
+                    
                 }
             ]
         },
