@@ -27,6 +27,9 @@
         },
         {
             "filter": "year(datum.Year) == year"
+        },
+        {
+            "filter": "isValid(datum.Continent)"
         }
     ],
     "layer": [
@@ -47,7 +50,10 @@
                     }
                 },
                 "color":{
-                    "field": "Entity"
+                    "field": "Continent"
+                },
+                "tooltip":{
+                    "field": "Continent"
                 }
             }
         },
