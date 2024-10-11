@@ -1,0 +1,77 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+    "data": {
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
+    },
+    "width": 380,
+    "height": 300,
+    "params": [
+        {
+            "name": "year",
+            "value": [
+                1990
+            ],
+            "bind": {
+                "name": "Year",
+                "input": "range",
+                "min": 1990,
+                "max": 2022,
+                "step": 1
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "datum.CO2 < 100"
+        },
+        {
+            "filter": "year(datum.Year) == year"
+        }
+    ],
+    "layer": [
+        {
+            "mark": {
+                "type": "point",
+                "filled": true
+            },
+            "encoding": {
+                "x": {
+                    "field": "Renewables",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "CO2",
+                    "type": "quantitative",
+                    "scale": {
+                    }
+                },
+                "color":{
+                    "field": "Entity"
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "line",
+                "color": "firebrick"
+            },
+            "transform": [
+                {
+                    "regression": "CO2",
+                    "on": "Renewables"
+                }
+            ],
+            "encoding": {
+                "x": {
+                    "field": "Renewables",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "CO2",
+                    "type": "quantitative"
+                }
+            }
+        }
+    ]
+}
