@@ -27,13 +27,22 @@
         },
         {
             "filter": "year(datum.Year) == year"
-        },
-        {
-            "filter": "isValid(datum.Continent)"
         }
     ],
     "layer": [
         {
+            "params": [
+                {
+                    "name": "Fuel",
+                    "select": {
+                        "type": "point",
+                        "fields": [
+                            "Continent"
+                        ]
+                    },
+                    "bind": "legend"
+                }
+            ],
             "mark": {
                 "type": "point",
                 "filled": true
@@ -46,14 +55,21 @@
                 "y": {
                     "field": "CO2",
                     "type": "quantitative",
-                    "scale": {
-                    }
+                    "title": "CO2 Emissions",
+                    "scale": {}
                 },
-                "color":{
+                "color": {
                     "field": "Continent"
                 },
-                "tooltip":{
-                    "field": "Continent"
+                "opacity": {
+                    "condition": {
+                        "param": "Fuel",
+                        "value": 1
+                    },
+                    "value": 0.05
+                },
+                "tooltip": {
+                    "field": "Entity"
                 }
             }
         },
