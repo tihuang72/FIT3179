@@ -256,7 +256,6 @@ Anguilla,AIA,2019,9.511942,0,North America
 Anguilla,AIA,2020,9.152959,0,North America
 Anguilla,AIA,2021,8.726662,0,North America
 Anguilla,AIA,2022,8.752724,0,North America
-Antarctica,ATA,2015,0,0,Antarctica
 Antigua and Barbuda,ATG,1990,3.8175101,0,North America
 Antigua and Barbuda,ATG,1991,3.9142225,0,North America
 Antigua and Barbuda,ATG,1992,3.85231,0,North America
@@ -962,7 +961,6 @@ Botswana,BWA,2019,2.7131457,0.3984064,Africa
 Botswana,BWA,2020,2.1799212,0.4587156,Africa
 Botswana,BWA,2021,2.3707244,0.4016064,Africa
 Botswana,BWA,2022,2.838951,0.38022813,Africa
-Bouvet Island,BVT,2015,0,0,Antarctica
 Brazil,BRA,1990,1.4508868,94.50092,South America
 Brazil,BRA,1991,1.4960175,94.626305,South America
 Brazil,BRA,1992,1.4983952,94.4203,South America
@@ -2500,7 +2498,6 @@ French Polynesia,PYF,2019,2.921616,30.985916,Oceania
 French Polynesia,PYF,2020,2.8031993,32.35294,Oceania
 French Polynesia,PYF,2021,2.9048145,32.857143,Oceania
 French Polynesia,PYF,2022,2.8509297,32.857143,Oceania
-French Southern Territories,ATF,2015,0,0,Antarctica
 Gabon,GAB,1990,4.562103,0,Africa
 Gabon,GAB,1991,4.4769115,0,Africa
 Gabon,GAB,1992,4.739436,0,Africa
@@ -3003,7 +3000,6 @@ Haiti,HTI,2020,0.22221673,13.207548,North America
 Haiti,HTI,2021,0.2118702,12.62136,North America
 Haiti,HTI,2022,0.21119381,13.461539,North America
 Hanover,OWID_HAN,2015,0,0,Europe
-Heard Island and McDonald Islands,HMD,2015,0,0,Antarctica
 Hesse Electoral,OWID_HSE,2015,0,0,Europe
 Hesse Grand Ducal,OWID_HSG,2015,0,0,Europe
 Honduras,HND,1990,0.49565437,0,North America

@@ -1,10 +1,14 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
     "data": {
         "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
     },
-    "width": 380,
+    "title": {
+        "text": "Relationship between emissions and renewables",
+        "fontSize": 20,
+        "font": "Roboto"
+    },
+    "width": 400,
     "height": 300,
     "params": [
         {
@@ -50,16 +54,34 @@
             "encoding": {
                 "x": {
                     "field": "Renewables",
-                    "type": "quantitative"
+                    "type": "quantitative",
+                    "axis":{
+                        "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
+                    }
                 },
                 "y": {
                     "field": "CO2",
                     "type": "quantitative",
-                    "title": "CO2 Emissions",
-                    "scale": {}
+                    "axis":{
+                        "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12,
+                "title": "CO2 Emissions"
+                    }
+                    
                 },
                 "color": {
-                    "field": "Continent"
+                    "field": "Continent",
+                    "legend":{
+                        "labelFont": "Roboto",
+                "labelFontSize": 14,
+                "titleFont": "Roboto",
+                "titleFontSize": 16
+                    }
                 },
                 "opacity": {
                     "condition": {

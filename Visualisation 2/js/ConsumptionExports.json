@@ -5,11 +5,11 @@
         {
             "name": "yearRange",
             "value": [
-                1974
+                1990
             ],
             "bind": {
                 "input": "range",
-                "min": 1974,
+                "min": 1990,
                 "max": 2022,
                 "step": 1,
                 "name": "Select Year Range: "
@@ -185,199 +185,108 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/ConsumptionStateSector.csv"
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
+    },
+    "title": {
+        "text": "Relationship between emissions and renewables",
+        "fontSize": 20,
+        "font": "Roboto"
+    },
+    "width": 380,
+    "height": 300,
+    "transform": [
+        {
+            "filter": "datum.CO2 < 100"
+        },
+        {
+            "filter": "year(datum.Year) == yearRange"
+        }
+    ],
+    "layer": [
+        {
+            "params": [
+                {
+                    "name": "Fuel",
+                    "select": {
+                        "type": "point",
+                        "fields": [
+                            "Continent"
+                        ]
+                    },
+                    "bind": "legend"
+                }
+            ],
+            "mark": {
+                "type": "point",
+                "filled": true
             },
-            "title": {
-                "text": "Energy Consumption by Industry",
-                "fontSize": 20,
-                "font": "Roboto"
+            "encoding": {
+                "x": {
+                    "field": "Renewables",
+                    "type": "quantitative",
+                    "axis":{
+                        "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12
+                    }
+                },
+                "y": {
+                    "field": "CO2",
+                    "type": "quantitative",
+                    "axis":{
+                        "labelFont": "Roboto",
+                "labelFontSize": 12,
+                "titleFont": "Roboto",
+                "titleFontSize": 12,
+                "title": "CO2 Emissions"
+                    }
+                    
+                },
+                "color": {
+                    "field": "Continent",
+                    "legend":{
+                        "labelFont": "Roboto",
+                "labelFontSize": 14,
+                "titleFont": "Roboto",
+                "titleFontSize": 16
+                    }
+                },
+                "opacity": {
+                    "condition": {
+                        "param": "Fuel",
+                        "value": 1
+                    },
+                    "value": 0.05
+                },
+                "tooltip": {
+                    "field": "Entity"
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "line",
+                "color": "firebrick"
             },
-            "width": 380,
-            "height": 200,
             "transform": [
                 {
-                    "filter": {
-                        "field": "Jurisdiction",
-                        "equal": "AUS"
-                    }
-                },
-                {
-                    "filter": {
-                        "not": {
-                            "field": "Industry",
-                            "equal": "Total"
-                        }
-                    }
-                },
-                {
-                    "filter": {
-                        "field": "datum.Quantity",
-                        "lt": 1000
-                    }
-                },
-                {
-                    "filter": "year(datum.Year) <= yearRange"
+                    "regression": "CO2",
+                    "on": "Renewables"
                 }
             ],
             "encoding": {
                 "x": {
-                    "field": "Year",
-                    "type": "temporal",
-                    "axis": {
-                        "labelFont": "Roboto",
-                        "labelFontSize": 12,
-                        "titleFont": "Roboto",
-                        "titleFontSize": 12
-                    }
-                }
-            },
-            "layer": [
-                {
-                    "encoding": {
-                        "color": {
-                            "field": "Industry",
-                            "type": "nominal",
-                            "legend": {
-                                "labelFont": "Roboto",
-                                "labelFontSize": 14,
-                                "titleFont": "Roboto",
-                                "titleFontSize": 16
-                            },
-                            "scale": {
-                                "domain": [
-                                    "Transport",
-                                    "Electricity generation",
-                                    "Manufacturing",
-                                    "Mining",
-                                    "Commercial and services",
-                                    "Agriculture",
-                                    "Residential"
-                                ],
-                                "range":[
-                                    "#FFA500",
-                                    "#FCCD2A",
-                                    "#A020F0",
-                                    "#4A4947",
-                                    "#FF6500",
-                                    "#72BF78",
-                                    "#2A9DF4"
-                                ]
-                            }
-                        },
-                        "y": {
-                            "field": "Quantity",
-                            "type": "quantitative",
-                            "axis": {
-                                "labelFont": "Roboto",
-                                "labelFontSize": 12,
-                                "titleFont": "Roboto",
-                                "titleFontSize": 12
-                            }
-                        }
-                    },
-                    "layer": [
-                        {
-                            "mark": "area"
-                        },
-                        {
-                            "transform": [
-                                {
-                                    "filter": {
-                                        "param": "hover",
-                                        "empty": false
-                                    }
-                                }
-                            ],
-                            "mark": "point"
-                        }
-                    ]
+                    "field": "Renewables",
+                    "type": "quantitative"
                 },
-                {
-                    "transform": [
-                        {
-                            "pivot": "Industry",
-                            "value": "Quantity",
-                            "groupby": [
-                                "Year"
-                            ]
-                        }
-                    ],
-                    "mark": "rule",
-                    "encoding": {
-                        "opacity": {
-                            "condition": {
-                                "value": 0.3,
-                                "param": "hover",
-                                "empty": false
-                            },
-                            "value": 0
-                        },
-                        "tooltip": [
-                            {
-                                "timeUnit": "year",
-                                "field": "Year",
-                                "title": "Year"
-                            },
-                            {
-                                "field": "Transport",
-                                "type": "quantitative",
-                                "title": "Transport (PJ)",
-                                "format": ".0f"
-                            },
-                            {
-                                "field": "Electricity generation",
-                                "type": "quantitative",
-                                "title": "Electricity Generation (PJ)",
-                                "format": ".0f"
-                            },
-                            {
-                                "field": "Manufacturing",
-                                "type": "quantitative",
-                                "title": "Manufacturing (PJ)",
-                                "format": ".0f"
-                            },
-                            {
-                                "field": "Mining",
-                                "type": "quantitative",
-                                "title": "Mining (PJ)",
-                                "format": ".0f"
-                            },
-                            {
-                                "field": "Commercial and services",
-                                "type": "quantitative",
-                                "title": "Commercial & Services (PJ)",
-                                "format": ".0f"
-                            },
-                            {
-                                "field": "Agriculture",
-                                "type": "quantitative",
-                                "title": "Agriculture (PJ)",
-                                "format": ".0f"
-                            },
-                            {
-                                "field": "Residential",
-                                "type": "quantitative",
-                                "title": "Residential (PJ)",
-                                "format": ".0f"
-                            }
-                        ]
-                    },
-                    "params": [
-                        {
-                            "name": "hover",
-                            "select": {
-                                "type": "point",
-                                "fields": [
-                                    "Year"
-                                ],
-                                "nearest": true,
-                                "on": "pointerover",
-                                "clear": "pointerout"
-                            }
-                        }
-                    ]
+                "y": {
+                    "field": "CO2",
+                    "type": "quantitative"
                 }
-            ]
+            }
+        }
+    ]
         }
     ],
     "resolve": {
