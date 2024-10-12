@@ -88,17 +88,7 @@
                     "#72BF78"
                 ]
             }
-        },
-        "tooltip": [
-            {
-                "field": "Fuel"
-            },
-            {
-                "field": "Quantity",
-                "title": "Absolute Quantity",
-                "format": ".1f"
-            }
-        ]
+        }
     },
     "layer": [
         {
@@ -113,9 +103,10 @@
             },
             "encoding": {
                 "text": {
-                    "field": "Percentage",
+                    "field": "Quantity",
                     "type": "quantitative",
                     "format": ".1f"
+                    
                 }
             }
         }
