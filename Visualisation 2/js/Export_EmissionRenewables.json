@@ -193,7 +193,7 @@
         "font": "Roboto"
     },
     "width": 380,
-    "height": 300,
+    "height": 200,
     "transform": [
         {
             "filter": "datum.CO2 < 100"
