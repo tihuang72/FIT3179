@@ -7,7 +7,7 @@
     },
     "title": {
         "text": "Energy Generation (GWh)",
-        "fontSize": 20,
+        "fontSize": 22,
         "font": "Roboto"
     },
     "params": [
@@ -100,7 +100,13 @@
                     "stack": "center",
                     "sort": "ascending",
                     "title": "Energy (GWh)",
-                    "axis": null
+                    "axis": {
+                        "labelFont": "Roboto",
+                        "labelFontSize": 12,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 12
+                        
+                    }
                 },
                 "color": {
                     "field": "Fuel Type",
@@ -161,7 +167,7 @@
                     {
                         "field": "Energy(GWh)",
                         "type": "quantitative",
-                        "format": ".2f"
+                        "format": ",.0f"
                     },
                     {
                         "field": "Fuel Type",

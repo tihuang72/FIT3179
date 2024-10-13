@@ -52,7 +52,8 @@
                     ],
                     "mark": {
                         "type": "point",
-                        "filled": true
+                        "filled": true,
+                        "size": 100
                     },
                     "encoding": {
                         "x": {
@@ -77,7 +78,7 @@
                                 "labelFontSize": 12,
                                 "titleFont": "Roboto",
                                 "titleFontSize": 12,
-                                "title": "CO2 Emissions"
+                                "title": "CO2 Emissions (tonnes)"
                             },
                             "scale": {
                                 "type": "linear"
@@ -102,9 +103,11 @@
                             },
                             "value": 0.05
                         },
-                        "tooltip": {
-                            "field": "Entity"
-                        }
+                        "tooltip": [
+                            {"field": "Entity", "title": "Country"},
+                            {"field": "Renewables", "format": ",.2f"},
+                            {"field": "CO2","format": ",.2f","title": "CO2(tonnes)"}
+                        ]
                     }
                 },
                 {
@@ -260,25 +263,25 @@
                                 "field": "Black coal",
                                 "type": "quantitative",
                                 "title": "Black Coal (PJ)",
-                                "format": ".0f"
+                                "format": ",.0f"
                             },
                             {
                                 "field": "Natural gas",
                                 "type": "quantitative",
                                 "title": "Natural Gas (PJ)",
-                                "format": ".0f"
+                                "format": ",.0f"
                             },
                             {
                                 "field": "Crude oil and ORF",
                                 "type": "quantitative",
                                 "title": "Crude Oil and ORF (PJ)",
-                                "format": ".0f"
+                                "format": ",.0f"
                             },
                             {
                                 "field": "LPG",
                                 "type": "quantitative",
                                 "title": "LPG (PJ)",
-                                "format": ".0f"
+                                "format": ",.0f"
                             }
                         ]
                     },

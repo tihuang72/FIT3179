@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Solar capacity and solar farm station locations",
-    "fontSize": 20,
+    "text": "Potential Solar Capacity and Solar Farm Locations",
+    "fontSize": 22,
     "font": "Roboto"
   },
   "width": 500,
@@ -90,7 +90,7 @@
           "Commercial",
           "Mixed"
         ],
-        "name": "Solar Energy Type: "
+        "name": "Solar Energy Source: "
       }
     }
   ],
@@ -169,7 +169,8 @@
             "labelFont": "Roboto",
             "labelFontSize": 14,
             "titleFont": "Roboto",
-            "titleFontSize": 16
+            "titleFontSize": 16,
+            "title": "Solar Capacity"
           },
           "scale": {
             "scheme": "oranges"
@@ -183,7 +184,9 @@
           },
           {
             "field": "Capacity",
-            "type": "quantitative"
+            "type": "quantitative",
+            "format":  ",.0f",
+            "title": "Solar Capacity"
           }
         ]
       }
@@ -227,7 +230,8 @@
           {
             "field": "Max Cap (MW)",
             "type": "quantitative",
-            "title": "Max Cap (MW)"
+            "title": "Max Cap (MW)",
+            "format":  ",.2f"
           }
         ]
       }

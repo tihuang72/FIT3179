@@ -17,7 +17,7 @@ p {
     font-weight: 400;
     padding-right: 80px;
 }
-.renwables_text{
+.renewables{
     color: green;
 }
 body {
@@ -48,8 +48,7 @@ body {
     background-color: white;
     margin: auto;
     width: 1300px;   
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 .mapAllign{
     margin-left: 50px;
@@ -65,7 +64,10 @@ body {
 }
 .blank{
     width: 1300px;
-    height: 50px;
+    height: 40px;
+    font-size: 5px;
+    font-family:Roboto;
+
 }
 
 .vis-container {

@@ -105,7 +105,7 @@
                 "text": {
                     "field": "Quantity",
                     "type": "quantitative",
-                    "format": ".1f"
+                    "format": ",.0f"
                     
                 }
             }
