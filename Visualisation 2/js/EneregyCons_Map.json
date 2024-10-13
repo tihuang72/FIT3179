@@ -170,7 +170,7 @@
             "labelFontSize": 14,
             "titleFont": "Roboto",
             "titleFontSize": 16,
-            "title": "Solar Capacity"
+            "title": "Solar Potential"
           },
           "scale": {
             "scheme": "oranges"
@@ -186,7 +186,7 @@
             "field": "Capacity",
             "type": "quantitative",
             "format":  ",.0f",
-            "title": "Solar Capacity"
+            "title": "Solar Potential (MW)"
           }
         ]
       }
