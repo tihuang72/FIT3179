@@ -39,7 +39,12 @@ body {
     width: 1200px;
     padding-top: 50px;
 }
-
+.scatter{
+    text-align:center;
+    font-family: "Roboto", serif;
+    font-size: 22px;
+    font-weight: 800;
+}
 .banner {
     img{
         width: 1300px;
