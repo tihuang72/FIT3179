@@ -48,36 +48,6 @@
                     "filter": "Fuel_Source == null || datum.Type == Fuel_Source"
                 }
             ],
-            "params": [
-        {
-            "name": "Fuel_Source",
-            "value": "Renewable",
-            "bind": {
-                "input": "select",
-                "options": [
-                    null,
-                    "Renewable",
-                    "Non-renewable"
-                ],
-                "labels": [
-                    "Show All",
-                    "Renewable",
-                    "Non-renewable"
-                ],
-                "name": "Fuel Source: "
-            }
-        },
-        {
-            "name": "Fuel",
-            "select": {
-                "type": "point",
-                "fields": [
-                    "Fuel Type"
-                ]
-            },
-            "bind": "legend"
-        }
-    ],
             "encoding": {
                 "x": {
                     "timeUnit": "year",
@@ -105,7 +75,6 @@
                         "labelFontSize": 12,
                         "titleFont": "Roboto",
                         "titleFontSize": 12
-                        
                     }
                 },
                 "color": {

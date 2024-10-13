@@ -92,7 +92,7 @@
                                 "titleFont": "Roboto",
                                 "titleFontSize": 16
                             },
-                            "scale":{
+                            "scale": {
                                 "scheme": "dark2"
                             }
                         },
@@ -104,16 +104,26 @@
                             "value": 0.05
                         },
                         "tooltip": [
-                            {"field": "Entity", "title": "Country"},
-                            {"field": "Renewables", "format": ",.2f"},
-                            {"field": "CO2","format": ",.2f","title": "CO2(tonnes)"}
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "Renewables",
+                                "format": ",.2f"
+                            },
+                            {
+                                "field": "CO2",
+                                "format": ",.2f",
+                                "title": "CO2(tonnes)"
+                            }
                         ]
                     }
                 },
                 {
                     "mark": {
                         "type": "line",
-                        "strokeWidth" : 3,
+                        "strokeWidth": 3,
                         "color": "black"
                     },
                     "transform": [
