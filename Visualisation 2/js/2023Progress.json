@@ -53,7 +53,8 @@
                 "labelFont": "Roboto",
                 "labelFontSize": 12,
                 "titleFont": "Roboto",
-                "titleFontSize": 12
+                "titleFontSize": 12,
+                "title":null
             }
         },
         "x": {
@@ -63,7 +64,8 @@
                 "labelFont": "Roboto",
                 "labelFontSize": 12,
                 "titleFont": "Roboto",
-                "titleFontSize": 12
+                "titleFontSize": 12,
+                "title": "% of energy consumption"
             }
         },
         "color": {
@@ -88,7 +90,17 @@
                     "#72BF78"
                 ]
             }
-        }
+        },
+        "tooltip":[
+            {
+                "field":"Fuel"
+            },
+            {
+                "field": "Quantity",
+                "format":",.0f",
+                "title": "Consumption Quantity (PJ)"
+            }
+        ]
     },
     "layer": [
         {
@@ -103,7 +115,7 @@
             },
             "encoding": {
                 "text": {
-                    "field": "Quantity",
+                    "field": "Percentage",
                     "type": "quantitative",
                     "format": ",.0f"
                     
