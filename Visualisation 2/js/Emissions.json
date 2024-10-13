@@ -33,74 +33,6 @@
     "layer": [
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/Emissions2.csv"
-            },
-            "transform": [
-                {
-                    "filter": "Greenhouse == null || datum.GHG == Greenhouse"
-                }
-            ],
-            "mark": {
-                "type": "line",
-                "strokeWidth": 4
-            },
-            "encoding": {
-                "x": {
-                    "field": "Quarter",
-                    "type": "temporal",
-                    "axis": {
-                        "labelFont": "Roboto",
-                        "labelFontSize": 12,
-                        "titleFont": "Roboto",
-                        "titleFontSize": 12,
-                        "title": "Year"
-                    }
-                },
-                "y": {
-                    "field": "Value",
-                    "type": "quantitative",
-                    "title": "Net GHG emissions (Million Tonne)",
-                    "axis": {
-                        "labelFont": "Roboto",
-                        "labelFontSize": 12,
-                        "titleFont": "Roboto",
-                        "titleFontSize": 12
-                    }
-                },
-                "tooltip": [
-                    {
-                        "field": "Value",
-                        "title": "Emissions(Million tonne)"
-                    }
-                ],
-                "color": {
-                    "field": "GHG",
-                    "scale": {
-                        "domain": [
-                            "CH4",
-                            "CO2",
-                            "N2O",
-                            "Other"
-                        ],
-                        "range": [
-                            "#1B9E77",
-                            "#D95F02",
-                            "#7570B3",
-                            "#E7298A"
-                        ]
-                            
-                    },
-                    "legend": {
-                        "labelFont": "Roboto",
-                        "labelFontSize": 14,
-                        "titleFont": "Roboto",
-                        "titleFontSize": 16
-                    }
-                }
-            }
-        },
-        {
-            "data": {
                 "values": [
                     {
                         "year": "2006-01-01"
@@ -162,6 +94,74 @@
                     }
                 }
             ]
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/Emissions2.csv"
+            },
+            "transform": [
+                {
+                    "filter": "Greenhouse == null || datum.GHG == Greenhouse"
+                }
+            ],
+            "mark": {
+                "type": "line",
+                "strokeWidth": 4
+            },
+            "encoding": {
+                "x": {
+                    "field": "Quarter",
+                    "type": "temporal",
+                    "axis": {
+                        "labelFont": "Roboto",
+                        "labelFontSize": 12,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 12,
+                        "title": "Year"
+                    }
+                },
+                "y": {
+                    "field": "Value",
+                    "type": "quantitative",
+                    "title": "Net GHG emissions (Million tonne)",
+                    "axis": {
+                        "labelFont": "Roboto",
+                        "labelFontSize": 12,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 12
+                    }
+                },
+                "tooltip": [
+                    {
+                        "field": "Value",
+                        "title": "Emissions(Million tonne)"
+                    }
+                ],
+                "color": {
+                    "field": "GHG",
+                    "scale": {
+                        "domain": [
+                            "CH4",
+                            "CO2",
+                            "N2O",
+                            "Other"
+                        ],
+                        "range": [
+                            "#1B9E77",
+                            "#D95F02",
+                            "#7570B3",
+                            "#E7298A"
+                        ]
+                            
+                    },
+                    "legend": {
+                        "labelFont": "Roboto",
+                        "labelFontSize": 14,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 16
+                    }
+                }
+            }
         }
     ]
 }

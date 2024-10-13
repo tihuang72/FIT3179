@@ -1,134 +1,207 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "An interactive scatter plot of global health statistics by country and year.",
-    "data": {"url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"},
-    "width": 800,
-    "height": 500,
-    "layer": [
-      {
-        "transform": [
-          {"filter": {"param": "year"}}
-        ],
-        "mark": {
-          "type": "text",
-          "fontSize": 100,
-          "x": 380,
-          "y": 250,
-          "opacity": 0.06
-        },
-        "encoding": {"text": {"field": "year"}}
+  "background": "white",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "params": [
+    {
+      "name": "yearRange",
+      "value": [
+        1990
+      ],
+      "bind": {
+        "input": "range",
+        "min": 1990,
+        "max": 2022,
+        "step": 1,
+        "name": "Select Year Range: "
+      }
+    }
+  ],
+  "title": {
+    "text": "Effect of Renewables on CO2 Emissions",
+    "fontSize": 22,
+    "font": "Roboto"
+  },
+  "width": 380,
+  "height": 200,
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
       },
-      {
-        "encoding": {
-          "x": {
-            "field": "Renewables",
-            "type": "quantitative"
+      "encoding": {
+        "x": {
+          "field": "Renewables",
+          "type": "quantitative",
+          "axis": {
+            "labelFont": "Roboto",
+            "labelFontSize": 12,
+            "titleFont": "Roboto",
+            "titleFontSize": 12,
+            "title": "% Energy generation as renewables"
           },
-          "y": {
-            "field": "CO2",
-            "type": "quantitative"
-          }
-        },
-        "layer": [
-          {
-            "mark": {
-              "type": "line",
-              "size": 4,
-              "color": "lightgray",
-              "strokeCap": "round"
-            },
-            "encoding": {
-              "detail": {"field": "Entity"},
-              "order": {"field": "year"},
-              "opacity": {
-                "condition": {
-                  "test": {"or": [
-                    {"param": "hovered", "empty": false},
-                    {"param": "clicked", "empty": false}
-                  ]},
-                  "value": 0.8
-                },
-                "value": 0
-              }
-            }
-          },
-          {
-            "params": [
-              {
-                "name": "year",
-                "value": [{"year": 1990}],
-                "select": {
-                  "type": "point",
-                  "fields": ["year"]
-                },
-                "bind": {
-                  "name": "Year",
-                  "input": "range",
-                  "min": 1990, "max": 2022, "step": 1
-                }
-              },
-              {
-                "name": "hovered",
-                "select": {
-                  "type": "point",
-                  "fields": ["country"],
-                  "toggle": false,
-                  "on": "pointerover"
-                }
-              },
-              {
-                "name": "clicked",
-                "select": {"type": "point", "fields": ["country"]}
-              }
-            ],
-            "transform": [{"filter": {"param": "year"}}],
-            "mark": {"type": "circle", "size": 100, "opacity": 0.9},
-            "encoding": {"color": {"field": "name", "title": "Continent"}}
-          },
-          {
-            "transform": [
-              {
-                "filter": {
-                  "and": [
-                    {"param": "year"},
-                    {"or": [
-                      {"param": "clicked", "empty": false},
-                      {"param": "hovered", "empty": false}
-                    ]}
-                  ]
-                }
-              }
-            ],
-            "mark": {
-              "type": "text",
-              "yOffset": -12,
-              "fontSize": 12,
-              "fontWeight": "bold"
-            },
-            "encoding": {
-              "text": {"field": "country"},
-              "color": {"field": "name", "title": "Continent"}
-            }
-          },
-          {
-            "transform": [
-              {"filter": {"param": "hovered", "empty": false}},
-              {"filter": {"not": {"param": "year"}}}
-            ],
-            "layer": [
-              {
-                "mark": {
-                  "type": "text",
-                  "yOffset": -12,
-                  "fontSize": 12,
-                  "color": "gray"
-                },
-                "encoding": {"text": {"field": "year"}}
-              },
-              {"mark": {"type": "circle", "color": "gray"}}
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              100
             ]
           }
+        },
+        "y": {
+          "field": "CO2",
+          "type": "quantitative",
+          "axis": {
+            "labelFont": "Roboto",
+            "labelFontSize": 12,
+            "titleFont": "Roboto",
+            "titleFontSize": 12,
+            "title": "CO2 Emissions (tonnes) per capita"
+          }
+        }
+      },
+      "layer": [
+        {
+          "transform": [
+            {
+              "filter": "datum.CO2 < 100"
+            },
+            {
+              "filter": "year(datum.Year) == yearRange"
+            }
+          ],
+          "params": [
+            {
+              "name": "Fuel",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "Continent"
+                ]
+              },
+              "bind": "legend"
+            }
+          ],
+          "mark": {
+            "type": "point",
+            "filled": true,
+            "size": 100
+          },
+          "encoding": {
+            "color": {
+              "field": "Continent",
+              "legend": {
+                "labelFont": "Roboto",
+                "labelFontSize": 14,
+                "titleFont": "Roboto",
+                "titleFontSize": 16
+              },
+              "scale": {
+                "scheme": "dark2"
+              }
+            },
+            "opacity": {
+              "condition": {
+                "param": "Fuel",
+                "value": 1
+              },
+              "value": 0.05
+            },
+            "tooltip": [
+              {
+                "field": "Entity",
+                "title": "Country"
+              },
+              {
+                "field": "Renewables",
+                "format": ",.2f"
+              },
+              {
+                "field": "CO2",
+                "format": ",.2f",
+                "title": "CO2(tonnes)"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dx": 12,
+            "dy": -10,
+            "fontSize": 12,
+            "fontStyle": "italic"
+          },
+          "transform": [
+            {
+              "filter": "year(datum.Year) == yearRange"
+            }
+          ],
+          "encoding": {
+            "text": {
+              "field": "Entity",
+              "type": "nominal"
+            },
+            "opacity": {
+              "condition": {
+                "test": "datum.Entity == 'Australia'",
+                "value": 1
+              },
+              "value": 0
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "line",
+            "strokeWidth": 3,
+            "color": "black"
+          },
+          "transform": [
+            {
+              "regression": "CO2",
+              "on": "Renewables"
+            }
+          ],
+          "encoding": {
+            "x": {
+              "field": "Renewables",
+              "type": "quantitative"
+            },
+            "y": {
+              "field": "CO2",
+              "type": "quantitative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "Renewables": "2000"
+          }
         ]
+      },
+      "encoding": {
+        "x": {
+          "field": "Renewables",
+          "type": "temporal",
+          "title": null,
+          "axis": null
+        }
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": -70,
+        "dy": -40,
+        "text": "As renewables increased emissions decreased",
+        "fontSize": 12
       }
-    ]
-  }
+    }
+  ]
+}
