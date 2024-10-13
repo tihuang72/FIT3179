@@ -35,9 +35,9 @@ body {
     text-align:center;
 }
 .footer{
-    background-color: lightgray;
-    width: 1300px;
-    height: 60px;
+    background-color: white;
+    width: 1200px;
+    padding-top: 50px;
 }
 
 .banner {
@@ -60,7 +60,7 @@ body {
     margin: auto;
     padding-left: 50px;
     padding-right: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
 }
 .blank{
     width: 1300px;

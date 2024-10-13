@@ -114,7 +114,9 @@
                         "dx": 2,
                         "dy": -20,
                         "x": "width",
-                        "text": "Kyoto Protocol"
+                        "text": "Kyoto Protocol",
+                        "fontStyle": "Roboto",
+                                "fontSize": 16
                     }
                 }
             ]
@@ -146,7 +148,9 @@
                         "dx": 2,
                         "dy": -2,
                         "x": "width",
-                        "text": "Paris Agreement"
+                        "text": "Paris Agreement",
+                        "fontStyle": "Roboto",
+                                "fontSize": 16
                     }
                 }
             ]

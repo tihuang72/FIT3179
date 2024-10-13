@@ -6,7 +6,7 @@
         "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyGenProcc.csv"
     },
     "title": {
-        "text": "Energy Generation (GWh)",
+        "text": "Australian Energy Generation (GWh)",
         "fontSize": 22,
         "font": "Roboto"
     },

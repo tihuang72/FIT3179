@@ -5,7 +5,7 @@
         {
             "name": "yearRange",
             "value": [
-                1990
+                2010
             ],
             "bind": {
                 "input": "range",
@@ -18,9 +18,6 @@
     ],
     "vconcat": [
         {
-            "data": {
-                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
-            },
             "title": {
                 "text": "Effect of Renewables on CO2 Emissions",
                 "fontSize": 22,
@@ -28,16 +25,19 @@
             },
             "width": 380,
             "height": 200,
-            "transform": [
-                {
-                    "filter": "datum.CO2 < 100"
-                },
-                {
-                    "filter": "year(datum.Year) == yearRange"
-                }
-            ],
             "layer": [
                 {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
+                    },
+                    "transform": [
+                        {
+                            "filter": "datum.CO2 < 100"
+                        },
+                        {
+                            "filter": "year(datum.Year) == yearRange"
+                        }
+                    ],
                     "params": [
                         {
                             "name": "Fuel",
@@ -67,7 +67,11 @@
                                 "title": "% Energy generation as renewables"
                             },
                             "scale": {
-                                "type": "linear"
+                                "type": "linear",
+                                "domain": [
+                                    0,
+                                    100
+                                ]
                             }
                         },
                         "y": {
@@ -121,6 +125,9 @@
                     }
                 },
                 {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
+                    },
                     "mark": {
                         "type": "line",
                         "strokeWidth": 3,
@@ -135,13 +142,47 @@
                     "encoding": {
                         "x": {
                             "field": "Renewables",
-                            "type": "quantitative"
+                            "type": "quantitative",
+                            "title":null,
+                            "axis":null
                         },
                         "y": {
                             "field": "CO2",
                             "type": "quantitative"
                         }
                     }
+                },
+                {
+                    "data": {
+                        "values": [
+                            {
+                                "Renewables": "2000"
+                            }
+                        ]
+                    },
+                    "encoding": {
+                        "x": {
+                            "field": "Renewables",
+                            "type": "temporal",
+                            "title": null,
+                            "axis": null
+                        }
+                    },
+                    "layer": [
+                        {
+                            "mark": {
+                                "type": "text",
+                                "align": "left",
+                                "baseline": "middle",
+                                "dx": -70,
+                                "dy": -50,
+                                "x": "width",
+                                "text": "As renewables were adopted emissions decreased",
+                                "fontStyle": "Roboto",
+                                "fontSize": 16
+                            }
+                        }
+                    ]
                 }
             ]
         },
@@ -240,6 +281,45 @@
                                 }
                             ],
                             "mark": "point"
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "values": [
+                            {
+                                "year": "2003-01-01"
+                            }
+                        ]
+                    },
+                    "transform": [
+                        {
+                            "filter": "yearRange >= '2003'"
+                        }
+                    ],
+                    "encoding": {
+                        "x": {
+                            "field": "year",
+                            "type": "temporal",
+                            "title": "Year"
+                        }
+                    },
+                    "layer": [
+                        {
+                            "mark": "rule"
+                        },
+                        {
+                            "mark": {
+                                "type": "text",
+                                "align": "right",
+                                "baseline": "middle",
+                                "dx": -10,
+                                "dy": -50,
+                                "x": "width",
+                                "text": "Mining Boom",
+                                "fontStyle": "Roboto",
+                                "fontSize": 16
+                            }
                         }
                     ]
                 },
