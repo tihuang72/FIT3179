@@ -19,11 +19,126 @@
     "vconcat": [
         {
             "data": {
+                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
+            },
+            "title": {
+                "text": "Effect of Renewables on CO2 Emissions",
+                "fontSize": 22,
+                "font": "Roboto"
+            },
+            "width": 380,
+            "height": 200,
+            "transform": [
+                {
+                    "filter": "datum.CO2 < 100"
+                },
+                {
+                    "filter": "year(datum.Year) == yearRange"
+                }
+            ],
+            "layer": [
+                {
+                    "params": [
+                        {
+                            "name": "Fuel",
+                            "select": {
+                                "type": "point",
+                                "fields": [
+                                    "Continent"
+                                ]
+                            },
+                            "bind": "legend"
+                        }
+                    ],
+                    "mark": {
+                        "type": "point",
+                        "filled": true
+                    },
+                    "encoding": {
+                        "x": {
+                            "field": "Renewables",
+                            "type": "quantitative",
+                            "axis": {
+                                "labelFont": "Roboto",
+                                "labelFontSize": 12,
+                                "titleFont": "Roboto",
+                                "titleFontSize": 12,
+                                "title": "% Energy generation as renewables"
+                            },
+                            "scale": {
+                                "type": "linear"
+                            }
+                        },
+                        "y": {
+                            "field": "CO2",
+                            "type": "quantitative",
+                            "axis": {
+                                "labelFont": "Roboto",
+                                "labelFontSize": 12,
+                                "titleFont": "Roboto",
+                                "titleFontSize": 12,
+                                "title": "CO2 Emissions"
+                            },
+                            "scale": {
+                                "type": "linear"
+                            }
+                        },
+                        "color": {
+                            "field": "Continent",
+                            "legend": {
+                                "labelFont": "Roboto",
+                                "labelFontSize": 14,
+                                "titleFont": "Roboto",
+                                "titleFontSize": 16
+                            },
+                            "scale":{
+                                "scheme": "dark2"
+                            }
+                        },
+                        "opacity": {
+                            "condition": {
+                                "param": "Fuel",
+                                "value": 1
+                            },
+                            "value": 0.05
+                        },
+                        "tooltip": {
+                            "field": "Entity"
+                        }
+                    }
+                },
+                {
+                    "mark": {
+                        "type": "line",
+                        "strokeWidth" : 3,
+                        "color": "black"
+                    },
+                    "transform": [
+                        {
+                            "regression": "CO2",
+                            "on": "Renewables"
+                        }
+                    ],
+                    "encoding": {
+                        "x": {
+                            "field": "Renewables",
+                            "type": "quantitative"
+                        },
+                        "y": {
+                            "field": "CO2",
+                            "type": "quantitative"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
                 "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/EnergyExport.csv"
             },
             "title": {
-                "text": "Energy export by fuel type",
-                "fontSize": 20,
+                "text": "Australia's Energy Export by Fuel Type",
+                "fontSize": 22,
                 "font": "Roboto"
             },
             "width": 380,
@@ -93,7 +208,8 @@
                                 "labelFont": "Roboto",
                                 "labelFontSize": 12,
                                 "titleFont": "Roboto",
-                                "titleFontSize": 12
+                                "titleFontSize": 12,
+                                "title": "Export Quantity (PJ)"
                             }
                         }
                     },
@@ -180,120 +296,6 @@
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "data": {
-                "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/perCapitaEmissionGeneration.csv"
-            },
-            "title": {
-                "text": "Relationship between emissions and renewables",
-                "fontSize": 20,
-                "font": "Roboto"
-            },
-            "width": 380,
-            "height": 200,
-            "transform": [
-                {
-                    "filter": "datum.CO2 < 100"
-                },
-                {
-                    "filter": "year(datum.Year) == yearRange"
-                }
-            ],
-            "layer": [
-                {
-                    "params": [
-                        {
-                            "name": "Fuel",
-                            "select": {
-                                "type": "point",
-                                "fields": [
-                                    "Continent"
-                                ]
-                            },
-                            "bind": "legend"
-                        }
-                    ],
-                    "mark": {
-                        "type": "point",
-                        "filled": true
-                    },
-                    "encoding": {
-                        "x": {
-                            "field": "Renewables",
-                            "type": "quantitative",
-                            "axis": {
-                                "labelFont": "Roboto",
-                                "labelFontSize": 12,
-                                "titleFont": "Roboto",
-                                "titleFontSize": 12
-                            },
-                            "scale": {
-                                "type": "linear"
-                            }
-                        },
-                        "y": {
-                            "field": "CO2",
-                            "type": "quantitative",
-                            "axis": {
-                                "labelFont": "Roboto",
-                                "labelFontSize": 12,
-                                "titleFont": "Roboto",
-                                "titleFontSize": 12,
-                                "title": "CO2 Emissions"
-                            },
-                            "scale": {
-                                "type": "linear"
-                            }
-                        },
-                        "color": {
-                            "field": "Continent",
-                            "legend": {
-                                "labelFont": "Roboto",
-                                "labelFontSize": 14,
-                                "titleFont": "Roboto",
-                                "titleFontSize": 16
-                            },
-                            "scale":{
-                                "scheme": "dark2"
-                            }
-                        },
-                        "opacity": {
-                            "condition": {
-                                "param": "Fuel",
-                                "value": 1
-                            },
-                            "value": 0.05
-                        },
-                        "tooltip": {
-                            "field": "Entity"
-                        }
-                    }
-                },
-                {
-                    "mark": {
-                        "type": "line",
-                        "strokeWidth" : 3,
-                        "color": "black"
-                    },
-                    "transform": [
-                        {
-                            "regression": "CO2",
-                            "on": "Renewables"
-                        }
-                    ],
-                    "encoding": {
-                        "x": {
-                            "field": "Renewables",
-                            "type": "quantitative"
-                        },
-                        "y": {
-                            "field": "CO2",
-                            "type": "quantitative"
-                        }
-                    }
                 }
             ]
         }

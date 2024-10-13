@@ -40,110 +40,139 @@
             "bind": "legend"
         }
     ],
-    "transform": [
+    "layer": [
         {
-            "filter": "Fuel_Source == null || datum.Type == Fuel_Source"
+            "mark": "area",
+            "transform": [
+                {
+                    "filter": "Fuel_Source == null || datum.Type == Fuel_Source"
+                }
+            ],
+            "params": [
+        {
+            "name": "Fuel_Source",
+            "value": "Renewable",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Renewable",
+                    "Non-renewable"
+                ],
+                "labels": [
+                    "Show All",
+                    "Renewable",
+                    "Non-renewable"
+                ],
+                "name": "Fuel Source: "
+            }
+        },
+        {
+            "name": "Fuel",
+            "select": {
+                "type": "point",
+                "fields": [
+                    "Fuel Type"
+                ]
+            },
+            "bind": "legend"
         }
     ],
-    "mark": "area",
-    "encoding": {
-        "x": {
-            "timeUnit": "year",
-            "field": "Year",
-            "axis": {
-                "domain": false,
-                "format": "%Y",
-                "tickSize": 0,
-                "title": "Year",
-                "labelFont": "Roboto",
-                "labelFontSize": 12,
-                "titleFont": "Roboto",
-                "titleFontSize": 12
-            }
-        },
-        "y": {
-            "aggregate": "max",
-            "field": "Energy(GWh)",
-            "type": "quantitative",
-            "stack": "center",
-            "sort": "ascending",
-            "title": "Energy (GWh)",
-            "axis": {
-                "labelFont": "Roboto",
-                "labelFontSize": 12,
-                "titleFont": "Roboto",
-                "titleFontSize": 12
-            }
-        },
-        "color": {
-            "field": "Fuel Type",
-            "type": "nominal",
-            "legend": {
-                "labelFont": "Roboto",
-                "labelFontSize": 14,
-                "titleFont": "Roboto",
-                "titleFontSize": 16
-            },
-            "scale": {
-                "domain": [
-                    "Black coal",
-                    "Brown coal",
-                    "Natural gas",
-                    "Oil products",
-                    "Other non-renewable",
-                    "Bagasse, wood",
-                    "Biogas",
-                    "Wind",
-                    "Hydro",
-                    "Large-scale solar PV",
-                    "Small-scale solar PV",
-                    "Geothermal"
-                ],
-                "range": [
-                    "#4A4947",
-                    "#B17457",
-                    "#D8D2C2",
-                    "#705C53",
-                    "#B7B7B7",
-                    "#E4D00A",
-                    "#117554",
-                    "#72BF78",
-                    "#B7E0FF",
-                    "#FFEB55",
-                    "#FCCD2A",
-                    "#FF6500"
+            "encoding": {
+                "x": {
+                    "timeUnit": "year",
+                    "field": "Year",
+                    "axis": {
+                        "domain": false,
+                        "format": "%Y",
+                        "tickSize": 0,
+                        "title": "Year",
+                        "labelFont": "Roboto",
+                        "labelFontSize": 12,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 12
+                    }
+                },
+                "y": {
+                    "aggregate": "max",
+                    "field": "Energy(GWh)",
+                    "type": "quantitative",
+                    "stack": "center",
+                    "sort": "ascending",
+                    "title": "Energy (GWh)",
+                    "axis": null
+                },
+                "color": {
+                    "field": "Fuel Type",
+                    "type": "nominal",
+                    "legend": {
+                        "labelFont": "Roboto",
+                        "labelFontSize": 12,
+                        "titleFont": "Roboto",
+                        "titleFontSize": 16
+                    },
+                    "scale": {
+                        "domain": [
+                            "Black coal",
+                            "Brown coal",
+                            "Natural gas",
+                            "Oil products",
+                            "Other non-renewable",
+                            "Bagasse, wood",
+                            "Biogas",
+                            "Wind",
+                            "Hydro",
+                            "Large-scale solar PV",
+                            "Small-scale solar PV",
+                            "Geothermal"
+                        ],
+                        "range": [
+                            "#4A4947",
+                            "#B17457",
+                            "#D8D2C2",
+                            "#705C53",
+                            "#B7B7B7",
+                            "#E4D00A",
+                            "#117554",
+                            "#72BF78",
+                            "#B7E0FF",
+                            "#FFEB55",
+                            "#FCCD2A",
+                            "#FF6500"
+                        ]
+                    }
+                },
+                "opacity": {
+                    "condition": {
+                        "param": "Fuel",
+                        "value": 1
+                    },
+                    "value": 0.2
+                },
+                "order": {
+                    "field": "Type"
+                },
+                "tooltip": [
+                    {
+                        "timeUnit": "year",
+                        "field": "Year",
+                        "title": "Year"
+                    },
+                    {
+                        "field": "Energy(GWh)",
+                        "type": "quantitative",
+                        "format": ".2f"
+                    },
+                    {
+                        "field": "Fuel Type",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Type",
+                        "type": "nominal"
+                    }
                 ]
             }
-        },
-        "opacity": {
-            "condition": {
-                "param": "Fuel",
-                "value": 1
-            },
-            "value": 0.2
-        },
-        "order": {
-            "field": "Type"
-        },
-        "tooltip": [
-            {
-                "timeUnit": "year",
-                "field": "Year",
-                "title": "Year"
-            },
-            {
-                "field": "Energy(GWh)",
-                "type": "quantitative",
-                "format": ".2f"
-            },
-            {
-                "field": "Fuel Type",
-                "type": "nominal"
-            },
-            {
-                "field": "Type",
-                "type": "nominal"
-            }
-        ]
-    }
+        }
+    ]
 }

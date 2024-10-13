@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 380,
-    "height": 300,
+    "height": 200,
     "data": {
         "url": "https://raw.githubusercontent.com/tihuang72/FIT3179/refs/heads/main/Visualisation%202/data/GenerationPerformance2023.csv"
     },
