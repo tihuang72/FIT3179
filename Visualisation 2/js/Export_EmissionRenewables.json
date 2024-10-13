@@ -5,7 +5,7 @@
         {
             "name": "yearRange",
             "value": [
-                2010
+                1990
             ],
             "bind": {
                 "input": "range",
@@ -175,11 +175,9 @@
                                 "align": "left",
                                 "baseline": "middle",
                                 "dx": -70,
-                                "dy": -50,
-                                "x": "width",
-                                "text": "As renewables were adopted emissions decreased",
-                                "fontStyle": "Roboto",
-                                "fontSize": 16
+                                "dy": -40,
+                                "text": "As renewables increased emissions decreased",
+                                "fontSize": 12
                             }
                         }
                     ]
@@ -305,20 +303,17 @@
                         }
                     },
                     "layer": [
-                        {
-                            "mark": "rule"
-                        },
+
                         {
                             "mark": {
                                 "type": "text",
                                 "align": "right",
                                 "baseline": "middle",
-                                "dx": -10,
-                                "dy": -50,
+                                "dx": 0,
+                                "dy": -40,
                                 "x": "width",
                                 "text": "Mining Boom",
-                                "fontStyle": "Roboto",
-                                "fontSize": 16
+                                "fontSize": 12
                             }
                         }
                     ]

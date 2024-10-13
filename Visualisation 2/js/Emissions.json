@@ -76,7 +76,19 @@
                 "color": {
                     "field": "GHG",
                     "scale": {
-                        "scheme": "dark2"
+                        "domain": [
+                            "CH4",
+                            "CO2",
+                            "N2O",
+                            "Other"
+                        ],
+                        "range": [
+                            "#1B9E77",
+                            "#D95F02",
+                            "#7570B3",
+                            "#E7298A"
+                        ]
+                            
                     },
                     "legend": {
                         "labelFont": "Roboto",
@@ -115,8 +127,7 @@
                         "dy": -20,
                         "x": "width",
                         "text": "Kyoto Protocol",
-                        "fontStyle": "Roboto",
-                                "fontSize": 16
+                        "fontSize": 12
                     }
                 }
             ]
@@ -144,13 +155,10 @@
                     "mark": {
                         "type": "text",
                         "align": "left",
-                        "baseline": "bottom",
                         "dx": 2,
                         "dy": -2,
-                        "x": "width",
                         "text": "Paris Agreement",
-                        "fontStyle": "Roboto",
-                                "fontSize": 16
+                        "fontSize": 12
                     }
                 }
             ]
