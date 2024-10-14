@@ -141,14 +141,14 @@
                     "field": "GHG",
                     "scale": {
                         "domain": [
-                            "CH4",
                             "CO2",
+                            "CH4",
                             "N2O",
                             "Other"
                         ],
                         "range": [
-                            "#A9A9A9",
                             "black",
+                            "#A9A9A9",
                             "#D95F02",
                             "#c30808"
                         ]
